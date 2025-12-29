@@ -1,0 +1,5001 @@
+customer_id,country,join_date
+1,Marshall Islands,2024-01-26
+2,French Southern Territories,2023-01-30
+3,Morocco,2024-12-13
+4,Svalbard & Jan Mayen Islands,2024-03-09
+5,Mauritania,2023-07-03
+6,American Samoa,2023-01-15
+7,Mongolia,2024-03-22
+8,Maldives,2023-05-02
+9,Puerto Rico,2024-10-01
+10,Slovakia (Slovak Republic),2023-06-23
+11,Guatemala,2024-11-26
+12,Ukraine,2023-06-16
+13,Singapore,2024-08-17
+14,Chad,2023-04-13
+15,Papua New Guinea,2023-09-08
+16,Nigeria,2023-07-25
+17,Latvia,2024-09-08
+18,Pakistan,2024-08-25
+19,Russian Federation,2023-03-23
+20,Fiji,2023-08-13
+21,Northern Mariana Islands,2023-06-25
+22,Croatia,2024-12-09
+23,New Caledonia,2024-06-22
+24,Thailand,2023-03-19
+25,Bulgaria,2024-11-16
+26,Bolivia,2023-03-05
+27,Zimbabwe,2024-10-14
+28,Guernsey,2024-07-12
+29,Uruguay,2024-11-07
+30,Brazil,2023-12-19
+31,Norway,2023-11-19
+32,Reunion,2022-12-30
+33,Czech Republic,2023-06-01
+34,Liberia,2024-06-02
+35,Grenada,2023-10-21
+36,Namibia,2023-10-20
+37,Tunisia,2023-06-01
+38,Cocos (Keeling) Islands,2024-02-18
+39,Antarctica (the territory South of 60 deg S),2023-01-30
+40,Mayotte,2024-05-24
+41,Niue,2023-04-04
+42,Nigeria,2023-07-09
+43,Rwanda,2022-12-29
+44,French Guiana,2024-02-18
+45,Guinea,2023-05-06
+46,Cameroon,2023-04-14
+47,Canada,2024-12-06
+48,Romania,2024-11-24
+49,Chad,2024-01-16
+50,Dominican Republic,2023-03-19
+51,Slovenia,2023-05-21
+52,Tanzania,2023-04-07
+53,Greenland,2024-03-14
+54,Moldova,2023-11-04
+55,Togo,2024-01-26
+56,Iceland,2024-07-02
+57,Benin,2023-03-08
+58,Fiji,2024-10-01
+59,Tuvalu,2024-11-19
+60,Uzbekistan,2023-01-23
+61,Bouvet Island (Bouvetoya),2024-12-08
+62,Heard Island and McDonald Islands,2024-08-21
+63,Angola,2024-02-24
+64,Bhutan,2024-05-09
+65,Malaysia,2023-11-16
+66,Cayman Islands,2023-02-17
+67,Sudan,2024-08-27
+68,Isle of Man,2024-02-04
+69,Mayotte,2023-05-05
+70,Bahrain,2024-07-03
+71,Northern Mariana Islands,2023-02-04
+72,Paraguay,2023-02-18
+73,Brazil,2023-09-27
+74,Uganda,2024-01-01
+75,Tokelau,2024-01-23
+76,Sudan,2023-03-23
+77,Madagascar,2024-03-21
+78,Egypt,2023-05-09
+79,Saudi Arabia,2023-04-13
+80,Afghanistan,2023-09-13
+81,Papua New Guinea,2024-07-16
+82,Bhutan,2023-11-10
+83,Brazil,2024-09-11
+84,Belize,2024-08-13
+85,Portugal,2024-02-10
+86,Senegal,2024-11-29
+87,Ethiopia,2023-11-27
+88,Tokelau,2023-01-30
+89,Italy,2024-07-15
+90,Andorra,2023-03-11
+91,Philippines,2024-10-30
+92,New Caledonia,2024-08-16
+93,Congo,2024-03-10
+94,Bulgaria,2023-08-29
+95,Luxembourg,2023-01-23
+96,Norfolk Island,2024-01-31
+97,Egypt,2024-09-20
+98,Russian Federation,2023-05-12
+99,Switzerland,2024-09-02
+100,United Kingdom,2023-03-06
+101,United States of America,2023-07-25
+102,Jersey,2023-08-24
+103,British Virgin Islands,2024-06-10
+104,Aruba,2023-03-23
+105,San Marino,2024-08-05
+106,Myanmar,2024-07-11
+107,Rwanda,2024-05-06
+108,Uzbekistan,2023-02-18
+109,Iraq,2023-08-16
+110,Mauritania,2023-03-05
+111,Korea,2023-02-27
+112,Sao Tome and Principe,2024-02-17
+113,Malawi,2024-06-22
+114,Saint Barthelemy,2024-02-29
+115,Greece,2024-10-12
+116,Vanuatu,2022-12-30
+117,Bahrain,2023-08-12
+118,Czech Republic,2023-04-06
+119,Togo,2023-03-18
+120,Australia,2023-04-22
+121,Cuba,2023-03-28
+122,Montenegro,2023-12-30
+123,Antigua and Barbuda,2022-12-24
+124,Somalia,2023-08-07
+125,Korea,2023-12-19
+126,Peru,2024-02-12
+127,Syrian Arab Republic,2023-08-25
+128,Turks and Caicos Islands,2023-06-01
+129,Haiti,2024-01-20
+130,Kyrgyz Republic,2024-11-20
+131,Antigua and Barbuda,2023-02-13
+132,Belize,2024-04-20
+133,Switzerland,2024-04-17
+134,Hungary,2024-01-18
+135,Bhutan,2023-12-02
+136,Namibia,2023-12-10
+137,Central African Republic,2023-05-22
+138,Saudi Arabia,2023-09-27
+139,Nicaragua,2023-05-02
+140,Heard Island and McDonald Islands,2024-11-16
+141,Cocos (Keeling) Islands,2023-06-26
+142,Italy,2024-08-10
+143,Norway,2024-08-29
+144,Grenada,2024-10-09
+145,American Samoa,2023-03-19
+146,United States Virgin Islands,2024-09-07
+147,Comoros,2023-12-21
+148,Samoa,2023-08-06
+149,Zambia,2024-10-30
+150,Korea,2024-07-13
+151,Korea,2023-05-24
+152,United Arab Emirates,2023-05-23
+153,Norfolk Island,2024-06-10
+154,Switzerland,2024-08-15
+155,Guadeloupe,2024-08-01
+156,Saint Pierre and Miquelon,2024-03-07
+157,Cape Verde,2023-04-24
+158,Egypt,2024-04-30
+159,Macao,2024-11-22
+160,Guinea-Bissau,2023-07-21
+161,Gibraltar,2023-11-04
+162,French Southern Territories,2023-05-03
+163,Ireland,2024-11-11
+164,Bouvet Island (Bouvetoya),2024-10-02
+165,Maldives,2024-10-21
+166,Guernsey,2023-09-27
+167,Guinea,2024-02-07
+168,Uganda,2023-08-07
+169,Antarctica (the territory South of 60 deg S),2024-08-02
+170,Mayotte,2023-10-09
+171,Jamaica,2023-08-30
+172,Czech Republic,2023-08-12
+173,Taiwan,2023-08-02
+174,Niger,2024-09-28
+175,Guernsey,2024-12-18
+176,Svalbard & Jan Mayen Islands,2024-05-30
+177,North Macedonia,2023-05-04
+178,Guyana,2023-04-22
+179,Korea,2023-04-12
+180,Bahamas,2024-11-12
+181,Saint Helena,2024-01-16
+182,Sao Tome and Principe,2024-06-05
+183,Puerto Rico,2023-10-30
+184,China,2024-01-27
+185,Faroe Islands,2022-12-24
+186,Latvia,2024-10-22
+187,Mauritius,2023-03-21
+188,Guatemala,2024-09-16
+189,Bahamas,2024-01-01
+190,Greenland,2023-02-21
+191,Cape Verde,2023-03-24
+192,Lebanon,2023-12-16
+193,Finland,2024-08-08
+194,Chad,2023-08-08
+195,Afghanistan,2023-09-18
+196,Tunisia,2024-06-20
+197,Faroe Islands,2024-11-05
+198,Kyrgyz Republic,2024-01-10
+199,French Southern Territories,2024-08-22
+200,Togo,2024-04-27
+201,Malaysia,2023-12-26
+202,Grenada,2023-02-21
+203,Sri Lanka,2024-04-07
+204,Kiribati,2023-02-11
+205,Saudi Arabia,2024-08-19
+206,Ecuador,2024-10-29
+207,Syrian Arab Republic,2023-06-28
+208,Wallis and Futuna,2024-11-04
+209,Tanzania,2024-04-22
+210,Netherlands Antilles,2024-01-11
+211,Panama,2024-04-29
+212,Vanuatu,2024-08-06
+213,Bangladesh,2023-11-29
+214,Sao Tome and Principe,2023-09-14
+215,Indonesia,2024-03-29
+216,Liberia,2024-08-29
+217,Tokelau,2024-02-23
+218,Afghanistan,2023-11-12
+219,Cambodia,2023-09-12
+220,Qatar,2024-09-15
+221,French Southern Territories,2023-05-10
+222,Guernsey,2024-02-02
+223,Timor-Leste,2024-06-26
+224,Armenia,2024-12-07
+225,Lesotho,2023-05-26
+226,Saint Lucia,2024-11-22
+227,Paraguay,2024-07-11
+228,Sierra Leone,2024-07-26
+229,South Georgia and the South Sandwich Islands,2024-01-23
+230,Korea,2023-11-10
+231,Slovakia (Slovak Republic),2024-09-21
+232,Antigua and Barbuda,2023-08-16
+233,Pakistan,2024-08-04
+234,Fiji,2023-12-04
+235,French Polynesia,2024-08-15
+236,Dominica,2023-11-28
+237,Bermuda,2024-07-14
+238,Liechtenstein,2023-09-23
+239,Saudi Arabia,2024-06-03
+240,Netherlands,2023-11-04
+241,Lithuania,2024-10-29
+242,South Africa,2024-01-17
+243,Sri Lanka,2024-05-11
+244,Tokelau,2024-06-17
+245,Palau,2023-06-19
+246,United States of America,2024-10-05
+247,Senegal,2023-11-30
+248,Saudi Arabia,2023-01-18
+249,Greece,2023-12-10
+250,Bolivia,2023-09-14
+251,Lao People's Democratic Republic,2024-05-25
+252,Malaysia,2023-12-22
+253,Pakistan,2023-07-12
+254,Ukraine,2024-02-24
+255,Tokelau,2023-10-04
+256,Fiji,2024-09-16
+257,Ethiopia,2023-09-16
+258,Liechtenstein,2024-01-23
+259,Solomon Islands,2023-01-05
+260,Uruguay,2024-06-18
+261,El Salvador,2024-11-17
+262,Nepal,2024-05-15
+263,Mauritania,2023-12-02
+264,Ghana,2023-07-23
+265,Singapore,2023-02-17
+266,Colombia,2023-10-30
+267,Nepal,2024-06-24
+268,Nauru,2023-06-27
+269,Croatia,2023-01-29
+270,Spain,2023-06-09
+271,North Macedonia,2023-05-15
+272,Guatemala,2024-10-22
+273,Eritrea,2023-04-03
+274,Afghanistan,2023-03-28
+275,Chile,2024-05-19
+276,Denmark,2024-02-06
+277,United Kingdom,2024-05-02
+278,Faroe Islands,2024-08-10
+279,Albania,2023-12-12
+280,Gibraltar,2024-12-17
+281,Zimbabwe,2024-02-03
+282,French Polynesia,2024-09-21
+283,Saint Kitts and Nevis,2024-05-06
+284,Saint Lucia,2023-05-30
+285,Togo,2024-03-11
+286,Croatia,2023-01-14
+287,Maldives,2023-04-04
+288,Faroe Islands,2023-04-30
+289,Saint Barthelemy,2023-05-31
+290,Portugal,2023-09-14
+291,Ghana,2023-01-11
+292,Mali,2023-07-08
+293,Wallis and Futuna,2024-11-22
+294,Iceland,2023-05-13
+295,Martinique,2024-07-17
+296,San Marino,2023-11-02
+297,Cook Islands,2023-04-13
+298,Congo,2024-06-04
+299,Lesotho,2024-11-04
+300,Hungary,2023-12-01
+301,Greece,2023-11-30
+302,Algeria,2024-05-15
+303,Maldives,2024-07-15
+304,Netherlands Antilles,2023-01-30
+305,Russian Federation,2023-11-11
+306,Saint Lucia,2024-05-12
+307,Greece,2024-03-25
+308,Australia,2023-02-18
+309,Turks and Caicos Islands,2024-08-17
+310,Saint Kitts and Nevis,2024-04-11
+311,Congo,2024-04-29
+312,Kazakhstan,2023-11-05
+313,Sweden,2023-05-15
+314,Grenada,2024-01-14
+315,North Macedonia,2023-01-29
+316,Tajikistan,2023-11-12
+317,French Guiana,2023-11-09
+318,Uganda,2024-07-01
+319,Guam,2024-10-25
+320,Germany,2023-03-09
+321,Turkmenistan,2024-01-28
+322,Maldives,2024-04-28
+323,Cyprus,2023-06-23
+324,Lebanon,2024-06-25
+325,Greenland,2023-04-27
+326,Paraguay,2024-10-15
+327,Uzbekistan,2024-07-08
+328,Colombia,2024-02-07
+329,Western Sahara,2023-08-12
+330,Mauritania,2024-01-19
+331,Barbados,2023-04-09
+332,Azerbaijan,2023-02-28
+333,North Macedonia,2023-09-03
+334,Timor-Leste,2024-02-24
+335,Monaco,2024-10-28
+336,Cambodia,2024-05-22
+337,Dominican Republic,2024-05-08
+338,Rwanda,2023-01-04
+339,Iceland,2024-04-22
+340,Saint Kitts and Nevis,2023-01-20
+341,Armenia,2023-05-28
+342,Saudi Arabia,2023-01-17
+343,India,2023-01-20
+344,French Polynesia,2023-06-28
+345,Djibouti,2023-08-21
+346,Oman,2024-08-15
+347,Greece,2023-01-22
+348,Guinea-Bissau,2023-11-20
+349,Belize,2023-08-14
+350,Armenia,2023-08-18
+351,Yemen,2024-01-20
+352,Western Sahara,2023-02-04
+353,Djibouti,2023-07-25
+354,Denmark,2023-11-28
+355,Morocco,2024-03-21
+356,Croatia,2023-07-30
+357,Sri Lanka,2024-02-02
+358,United States Minor Outlying Islands,2024-07-14
+359,Dominica,2023-07-10
+360,Turks and Caicos Islands,2024-10-10
+361,Greece,2024-01-07
+362,Marshall Islands,2024-09-12
+363,Greece,2024-12-19
+364,Holy See (Vatican City State),2023-03-01
+365,Bosnia and Herzegovina,2024-04-30
+366,French Southern Territories,2023-04-17
+367,Portugal,2024-11-29
+368,Isle of Man,2023-06-15
+369,Congo,2023-04-05
+370,Samoa,2023-01-15
+371,Mayotte,2024-01-27
+372,Gambia,2023-12-05
+373,Bahrain,2023-01-23
+374,Cambodia,2024-06-07
+375,Malta,2023-02-24
+376,Czech Republic,2024-04-21
+377,Svalbard & Jan Mayen Islands,2024-08-13
+378,Slovenia,2024-11-04
+379,Ethiopia,2024-03-01
+380,Gabon,2023-04-01
+381,French Guiana,2023-04-18
+382,Nicaragua,2023-09-05
+383,Heard Island and McDonald Islands,2023-04-19
+384,Aruba,2023-12-19
+385,Greenland,2024-09-06
+386,Australia,2023-01-02
+387,Cuba,2023-05-03
+388,Argentina,2023-07-09
+389,Ethiopia,2024-10-08
+390,Switzerland,2023-11-01
+391,Mexico,2024-02-23
+392,Estonia,2024-07-23
+393,Dominican Republic,2024-02-04
+394,Hong Kong,2023-01-03
+395,Mauritania,2023-05-30
+396,Nepal,2023-12-22
+397,Oman,2024-06-14
+398,Haiti,2024-07-24
+399,Burundi,2023-01-13
+400,Oman,2023-08-31
+401,Belarus,2024-11-24
+402,Saudi Arabia,2024-11-03
+403,Brazil,2023-11-14
+404,Finland,2023-02-27
+405,United States Virgin Islands,2024-11-03
+406,Lesotho,2023-05-02
+407,Moldova,2024-12-17
+408,Sweden,2024-04-25
+409,Estonia,2024-04-22
+410,Mozambique,2023-10-26
+411,Bahamas,2024-06-19
+412,French Southern Territories,2023-02-20
+413,Haiti,2024-01-02
+414,Sudan,2023-04-04
+415,Poland,2024-05-18
+416,Cocos (Keeling) Islands,2024-08-08
+417,Guinea,2023-07-25
+418,Tonga,2023-07-16
+419,Djibouti,2024-06-13
+420,Saint Kitts and Nevis,2024-03-13
+421,Andorra,2023-03-21
+422,United Kingdom,2023-09-08
+423,Sweden,2023-06-04
+424,Jamaica,2024-08-22
+425,Heard Island and McDonald Islands,2024-04-03
+426,Nigeria,2023-04-09
+427,Guadeloupe,2023-03-03
+428,Paraguay,2024-01-04
+429,Svalbard & Jan Mayen Islands,2023-06-09
+430,Dominican Republic,2024-02-17
+431,Swaziland,2024-03-29
+432,Bermuda,2023-11-02
+433,Cyprus,2023-05-07
+434,Heard Island and McDonald Islands,2024-01-04
+435,Tunisia,2023-08-22
+436,Malaysia,2024-04-14
+437,Andorra,2023-12-24
+438,Saint Martin,2023-08-24
+439,Bahamas,2023-02-16
+440,Netherlands Antilles,2023-03-02
+441,Indonesia,2023-12-29
+442,Nigeria,2024-01-06
+443,Samoa,2024-04-19
+444,Jersey,2023-12-17
+445,Saint Martin,2023-01-31
+446,Uzbekistan,2023-01-17
+447,Cyprus,2024-08-12
+448,Solomon Islands,2023-03-27
+449,Congo,2022-12-28
+450,Tokelau,2024-11-14
+451,United Kingdom,2023-09-22
+452,Netherlands,2023-10-28
+453,Albania,2024-08-23
+454,Chad,2024-01-30
+455,Western Sahara,2024-04-26
+456,El Salvador,2024-06-26
+457,Kazakhstan,2024-06-08
+458,Montenegro,2024-11-08
+459,Tonga,2023-08-29
+460,Saint Martin,2024-09-16
+461,Guernsey,2024-12-10
+462,Algeria,2024-12-09
+463,Germany,2024-01-31
+464,Gabon,2024-06-19
+465,Martinique,2023-08-16
+466,Greece,2024-03-19
+467,South Georgia and the South Sandwich Islands,2024-04-06
+468,Switzerland,2024-03-08
+469,Cape Verde,2024-05-26
+470,Algeria,2023-05-26
+471,Trinidad and Tobago,2024-08-05
+472,Uganda,2023-05-07
+473,Pitcairn Islands,2024-11-18
+474,Lao People's Democratic Republic,2024-05-09
+475,Venezuela,2023-09-05
+476,Equatorial Guinea,2024-01-02
+477,Oman,2023-01-01
+478,Iran,2023-12-26
+479,American Samoa,2023-01-17
+480,Nepal,2023-06-13
+481,Myanmar,2023-03-16
+482,Cook Islands,2024-02-05
+483,Mauritius,2023-05-15
+484,Montserrat,2023-02-16
+485,Bolivia,2024-06-17
+486,Switzerland,2023-09-19
+487,Jordan,2023-12-14
+488,Mozambique,2023-09-16
+489,Hungary,2023-07-26
+490,Saint Kitts and Nevis,2023-12-17
+491,Bahrain,2024-01-04
+492,Peru,2024-08-28
+493,French Polynesia,2024-05-30
+494,Panama,2024-09-21
+495,Italy,2023-07-25
+496,Jordan,2023-03-07
+497,Argentina,2023-06-29
+498,Zambia,2024-10-07
+499,Cyprus,2023-03-31
+500,Niue,2023-02-01
+501,Russian Federation,2024-11-12
+502,Dominica,2023-05-10
+503,China,2023-08-30
+504,Yemen,2024-12-05
+505,Bouvet Island (Bouvetoya),2024-02-22
+506,United States of America,2023-10-12
+507,Saint Vincent and the Grenadines,2024-03-04
+508,Jordan,2024-05-24
+509,Mongolia,2024-11-30
+510,Indonesia,2024-04-06
+511,Djibouti,2023-08-13
+512,Armenia,2023-08-11
+513,Albania,2024-11-29
+514,Cyprus,2023-01-05
+515,Gambia,2024-01-13
+516,Nauru,2023-03-06
+517,American Samoa,2023-10-13
+518,Holy See (Vatican City State),2023-10-30
+519,Sri Lanka,2023-08-01
+520,Nepal,2023-07-22
+521,Seychelles,2024-12-05
+522,Nigeria,2024-02-02
+523,American Samoa,2024-11-04
+524,Spain,2023-11-25
+525,United States of America,2023-05-16
+526,Niue,2023-12-04
+527,Germany,2023-11-19
+528,Reunion,2023-11-13
+529,Heard Island and McDonald Islands,2023-05-06
+530,Zimbabwe,2023-05-25
+531,Barbados,2024-12-16
+532,Isle of Man,2023-02-13
+533,Mozambique,2023-09-07
+534,Egypt,2023-04-12
+535,Reunion,2023-04-16
+536,Cameroon,2024-02-17
+537,British Virgin Islands,2023-10-31
+538,Benin,2024-12-16
+539,Azerbaijan,2024-08-09
+540,Mauritania,2024-05-11
+541,Cape Verde,2023-07-22
+542,Taiwan,2023-09-07
+543,Dominican Republic,2023-02-14
+544,Sierra Leone,2023-02-22
+545,Kazakhstan,2023-06-01
+546,Croatia,2023-12-21
+547,Gabon,2024-05-21
+548,Honduras,2024-03-21
+549,Philippines,2024-01-13
+550,Cayman Islands,2024-05-23
+551,Australia,2024-01-15
+552,New Caledonia,2024-11-15
+553,Oman,2024-02-18
+554,Kazakhstan,2024-06-15
+555,Bosnia and Herzegovina,2024-09-10
+556,Zimbabwe,2024-10-16
+557,Reunion,2023-12-28
+558,Dominica,2024-05-22
+559,Iceland,2024-02-19
+560,United Kingdom,2024-02-12
+561,Monaco,2024-05-04
+562,Madagascar,2023-11-27
+563,North Macedonia,2024-08-08
+564,Bermuda,2023-05-22
+565,Gabon,2023-03-08
+566,Mali,2024-09-19
+567,Montserrat,2024-08-02
+568,Mauritania,2023-05-24
+569,Benin,2024-12-02
+570,Colombia,2023-06-11
+571,China,2023-08-24
+572,Liechtenstein,2024-05-26
+573,Portugal,2024-05-19
+574,Honduras,2023-10-29
+575,Haiti,2024-03-02
+576,Kyrgyz Republic,2023-02-12
+577,Western Sahara,2023-04-20
+578,Slovakia (Slovak Republic),2023-02-24
+579,Comoros,2023-07-22
+580,Holy See (Vatican City State),2023-11-29
+581,Estonia,2024-09-12
+582,Cook Islands,2024-10-18
+583,Saint Kitts and Nevis,2024-04-07
+584,Netherlands,2023-08-31
+585,Vietnam,2024-04-25
+586,Australia,2023-08-09
+587,Tajikistan,2023-05-29
+588,Holy See (Vatican City State),2023-04-01
+589,Austria,2023-08-27
+590,Equatorial Guinea,2023-11-16
+591,Korea,2024-08-30
+592,Russian Federation,2024-03-21
+593,Tanzania,2023-11-28
+594,Barbados,2023-02-28
+595,Mongolia,2023-10-17
+596,French Guiana,2023-07-29
+597,Heard Island and McDonald Islands,2023-07-23
+598,Chad,2024-08-31
+599,Guernsey,2023-01-13
+600,Luxembourg,2023-09-08
+601,Zambia,2023-07-15
+602,Tonga,2024-01-02
+603,Kenya,2023-10-25
+604,Mozambique,2024-06-16
+605,Fiji,2024-02-11
+606,Malawi,2024-04-15
+607,Peru,2023-07-20
+608,Cyprus,2023-01-25
+609,Denmark,2023-02-20
+610,Kuwait,2023-12-06
+611,Paraguay,2024-08-02
+612,Ecuador,2024-10-18
+613,Wallis and Futuna,2024-10-06
+614,Latvia,2024-10-05
+615,Chad,2023-11-12
+616,Dominica,2023-02-10
+617,Nicaragua,2023-12-18
+618,Marshall Islands,2024-04-03
+619,Mauritius,2023-08-13
+620,Ethiopia,2023-07-30
+621,Lithuania,2024-12-01
+622,Estonia,2024-03-01
+623,American Samoa,2024-07-30
+624,Jordan,2023-08-22
+625,Peru,2023-09-19
+626,Chile,2023-03-17
+627,United Arab Emirates,2023-12-09
+628,Australia,2024-04-29
+629,Bulgaria,2024-04-10
+630,Namibia,2024-10-12
+631,Cook Islands,2024-10-15
+632,Ireland,2023-08-20
+633,Belize,2024-06-16
+634,Tunisia,2023-08-08
+635,Italy,2024-03-23
+636,Equatorial Guinea,2024-04-15
+637,Kuwait,2023-06-12
+638,Saint Kitts and Nevis,2024-12-13
+639,Romania,2023-11-01
+640,United Arab Emirates,2024-07-23
+641,Taiwan,2024-04-18
+642,Italy,2024-12-22
+643,Malaysia,2024-03-14
+644,Norfolk Island,2024-03-31
+645,Saint Martin,2023-10-06
+646,Saint Lucia,2023-05-20
+647,Uruguay,2024-10-07
+648,Micronesia,2023-06-27
+649,Antigua and Barbuda,2023-05-31
+650,Saint Vincent and the Grenadines,2023-11-02
+651,Central African Republic,2024-09-09
+652,Turkey,2024-01-13
+653,Sudan,2024-06-23
+654,British Indian Ocean Territory (Chagos Archipelago),2023-12-27
+655,Armenia,2023-09-13
+656,American Samoa,2023-09-03
+657,China,2024-03-09
+658,Gibraltar,2024-08-05
+659,Suriname,2023-11-21
+660,Svalbard & Jan Mayen Islands,2024-09-01
+661,French Southern Territories,2023-03-12
+662,Guam,2023-04-24
+663,Mauritania,2023-08-25
+664,Guam,2023-06-14
+665,Cameroon,2024-11-19
+666,Papua New Guinea,2022-12-28
+667,Anguilla,2024-06-13
+668,South Africa,2023-01-13
+669,Grenada,2022-12-28
+670,Colombia,2023-01-16
+671,Guernsey,2024-02-05
+672,Luxembourg,2023-08-15
+673,Uzbekistan,2023-09-13
+674,Chile,2023-12-05
+675,Somalia,2023-07-12
+676,Gambia,2023-05-02
+677,Uzbekistan,2024-06-27
+678,Kuwait,2024-06-28
+679,Gabon,2023-06-07
+680,Cameroon,2023-01-26
+681,Azerbaijan,2023-03-13
+682,Japan,2024-06-30
+683,Fiji,2024-06-28
+684,Reunion,2024-07-25
+685,Antigua and Barbuda,2024-04-12
+686,Norway,2024-09-08
+687,Gibraltar,2024-02-07
+688,New Caledonia,2023-01-11
+689,Sweden,2024-11-02
+690,Iraq,2023-01-09
+691,Guinea,2024-09-21
+692,Hungary,2023-12-28
+693,United States Minor Outlying Islands,2024-06-11
+694,Myanmar,2024-10-12
+695,Timor-Leste,2024-10-04
+696,Brazil,2023-03-31
+697,Kenya,2023-04-23
+698,Heard Island and McDonald Islands,2023-08-09
+699,Philippines,2023-03-06
+700,Turks and Caicos Islands,2023-08-01
+701,Armenia,2024-09-22
+702,Madagascar,2024-05-14
+703,Grenada,2024-12-08
+704,Trinidad and Tobago,2023-07-17
+705,Estonia,2024-09-19
+706,Heard Island and McDonald Islands,2023-07-09
+707,Saint Helena,2024-01-01
+708,Wallis and Futuna,2023-08-15
+709,Mauritania,2023-08-22
+710,Canada,2024-06-20
+711,Kuwait,2023-03-27
+712,Saint Helena,2023-05-04
+713,Maldives,2024-02-12
+714,Switzerland,2023-05-23
+715,Equatorial Guinea,2024-07-03
+716,Panama,2024-10-14
+717,Mauritius,2023-06-30
+718,Chad,2023-08-23
+719,Hong Kong,2023-03-24
+720,Timor-Leste,2023-12-08
+721,Ukraine,2024-07-13
+722,China,2024-09-23
+723,Gibraltar,2023-11-23
+724,Japan,2023-09-26
+725,Papua New Guinea,2023-08-20
+726,Ukraine,2024-11-15
+727,Faroe Islands,2024-12-07
+728,Cuba,2022-12-24
+729,Philippines,2023-08-20
+730,Faroe Islands,2024-01-09
+731,Wallis and Futuna,2023-12-21
+732,Mayotte,2024-08-05
+733,Congo,2024-07-08
+734,Nepal,2023-11-26
+735,Burundi,2024-07-24
+736,United States Virgin Islands,2024-09-14
+737,Guam,2023-03-16
+738,Armenia,2024-09-29
+739,Burundi,2023-12-03
+740,Korea,2024-01-22
+741,Vanuatu,2023-07-24
+742,Guinea,2024-08-25
+743,Ecuador,2023-02-27
+744,Lebanon,2024-07-01
+745,Samoa,2023-01-14
+746,Heard Island and McDonald Islands,2023-06-21
+747,Turks and Caicos Islands,2024-01-28
+748,Bosnia and Herzegovina,2023-12-31
+749,Cyprus,2024-04-23
+750,Tanzania,2023-03-23
+751,Mauritania,2023-05-01
+752,French Guiana,2024-06-10
+753,Slovakia (Slovak Republic),2024-05-15
+754,Fiji,2023-10-18
+755,Cote d'Ivoire,2023-04-10
+756,Namibia,2024-08-14
+757,Bahrain,2023-04-30
+758,Gibraltar,2024-01-17
+759,Costa Rica,2023-05-01
+760,Antarctica (the territory South of 60 deg S),2023-05-29
+761,Gabon,2023-05-05
+762,Syrian Arab Republic,2023-06-12
+763,Switzerland,2024-01-28
+764,Poland,2023-08-08
+765,Lebanon,2023-03-28
+766,Belize,2024-03-21
+767,Cook Islands,2024-05-19
+768,Romania,2024-07-21
+769,Hong Kong,2023-10-09
+770,Fiji,2023-06-10
+771,Bermuda,2023-03-02
+772,Belarus,2024-03-31
+773,Montserrat,2023-02-09
+774,Reunion,2023-12-12
+775,Lesotho,2023-11-04
+776,Isle of Man,2024-08-31
+777,Uganda,2024-11-20
+778,Saint Helena,2024-08-12
+779,Paraguay,2023-05-09
+780,Uruguay,2023-05-25
+781,Guinea-Bissau,2023-08-16
+782,Cote d'Ivoire,2024-11-14
+783,Dominican Republic,2023-06-26
+784,Northern Mariana Islands,2023-02-17
+785,Oman,2023-01-14
+786,Netherlands Antilles,2024-02-15
+787,Algeria,2024-10-19
+788,Armenia,2023-10-26
+789,Bangladesh,2023-01-21
+790,Christmas Island,2024-12-17
+791,Holy See (Vatican City State),2024-01-11
+792,Tunisia,2023-08-26
+793,Czech Republic,2024-04-04
+794,Nigeria,2023-01-05
+795,Djibouti,2023-07-13
+796,Malaysia,2024-08-06
+797,Turkey,2024-12-09
+798,Finland,2024-01-02
+799,Western Sahara,2023-08-18
+800,Myanmar,2023-06-10
+801,Congo,2023-02-10
+802,Czech Republic,2024-07-02
+803,Montenegro,2023-01-10
+804,Singapore,2023-01-22
+805,Chad,2024-03-11
+806,Bouvet Island (Bouvetoya),2023-09-03
+807,Zimbabwe,2022-12-29
+808,Zambia,2024-05-25
+809,Mozambique,2024-01-05
+810,Tanzania,2024-06-13
+811,Benin,2023-12-23
+812,Pitcairn Islands,2023-10-10
+813,Guinea,2023-12-13
+814,Belarus,2023-09-26
+815,Korea,2023-04-01
+816,Equatorial Guinea,2024-08-16
+817,Hungary,2023-01-22
+818,China,2024-10-22
+819,Nauru,2024-04-19
+820,Antigua and Barbuda,2023-08-28
+821,Kyrgyz Republic,2024-10-26
+822,Cocos (Keeling) Islands,2023-03-08
+823,Svalbard & Jan Mayen Islands,2024-03-16
+824,Mauritius,2024-02-24
+825,Bermuda,2023-08-19
+826,Vietnam,2023-02-08
+827,Holy See (Vatican City State),2023-01-04
+828,Saint Martin,2023-09-15
+829,Somalia,2024-11-24
+830,Guinea-Bissau,2023-06-05
+831,Guatemala,2024-03-18
+832,Vietnam,2024-09-13
+833,Andorra,2023-05-29
+834,Reunion,2023-11-20
+835,Faroe Islands,2024-01-12
+836,Mayotte,2023-05-09
+837,Georgia,2023-09-12
+838,Kyrgyz Republic,2023-08-06
+839,Faroe Islands,2023-07-25
+840,Uzbekistan,2024-03-09
+841,Grenada,2023-06-09
+842,Norway,2024-10-23
+843,Turkmenistan,2023-02-05
+844,Slovakia (Slovak Republic),2024-04-07
+845,British Virgin Islands,2024-01-16
+846,Andorra,2024-01-31
+847,Gibraltar,2023-04-11
+848,Korea,2023-12-10
+849,Martinique,2024-01-26
+850,Maldives,2023-06-05
+851,Seychelles,2024-07-03
+852,Paraguay,2023-07-21
+853,Greece,2024-09-03
+854,Ecuador,2023-06-09
+855,Saint Barthelemy,2024-10-05
+856,Sri Lanka,2023-02-10
+857,Brunei Darussalam,2024-08-09
+858,Samoa,2024-12-05
+859,Japan,2023-05-15
+860,Turkmenistan,2024-05-08
+861,Uzbekistan,2023-06-10
+862,New Zealand,2023-03-02
+863,Liechtenstein,2024-03-31
+864,Saint Lucia,2024-08-13
+865,Heard Island and McDonald Islands,2024-01-11
+866,Eritrea,2023-06-28
+867,Turkmenistan,2024-02-22
+868,Bahrain,2024-03-21
+869,Eritrea,2024-01-20
+870,Nigeria,2024-01-23
+871,Uganda,2024-01-11
+872,Palestinian Territory,2024-01-04
+873,Bermuda,2023-10-21
+874,Bouvet Island (Bouvetoya),2024-09-15
+875,Belarus,2023-08-16
+876,Belize,2024-03-18
+877,Gambia,2023-10-02
+878,Luxembourg,2023-08-12
+879,Trinidad and Tobago,2023-02-27
+880,Latvia,2024-09-02
+881,Gabon,2023-01-22
+882,Slovenia,2024-10-15
+883,Venezuela,2023-02-26
+884,Greece,2023-08-07
+885,Montenegro,2024-03-08
+886,Yemen,2023-07-15
+887,Israel,2023-12-09
+888,Bahamas,2024-05-17
+889,Niger,2023-06-29
+890,Germany,2024-01-20
+891,India,2024-09-23
+892,Antigua and Barbuda,2024-09-18
+893,Hong Kong,2024-12-05
+894,Maldives,2023-12-06
+895,Lao People's Democratic Republic,2024-06-12
+896,Angola,2023-02-19
+897,Netherlands,2024-01-06
+898,United Kingdom,2023-07-19
+899,Papua New Guinea,2024-03-08
+900,Hungary,2023-08-25
+901,Bouvet Island (Bouvetoya),2024-04-24
+902,Saint Kitts and Nevis,2024-05-27
+903,Nauru,2024-01-28
+904,Kuwait,2023-01-02
+905,Lao People's Democratic Republic,2023-08-03
+906,Saint Helena,2024-01-29
+907,Albania,2024-06-08
+908,Brazil,2023-05-11
+909,Barbados,2023-06-15
+910,Saint Kitts and Nevis,2024-07-11
+911,Montserrat,2024-01-31
+912,Micronesia,2024-12-19
+913,Tuvalu,2023-06-12
+914,Slovakia (Slovak Republic),2024-01-20
+915,Moldova,2024-05-03
+916,China,2023-05-13
+917,Armenia,2024-10-30
+918,Luxembourg,2024-07-26
+919,Mozambique,2024-02-20
+920,Nicaragua,2023-03-05
+921,Vanuatu,2023-05-12
+922,Iraq,2023-08-31
+923,North Macedonia,2024-02-08
+924,Indonesia,2024-02-07
+925,Nauru,2024-10-23
+926,Guernsey,2024-07-16
+927,Ghana,2024-10-27
+928,Martinique,2024-05-19
+929,Costa Rica,2023-07-23
+930,Nepal,2024-02-29
+931,Syrian Arab Republic,2024-06-29
+932,Vietnam,2024-11-04
+933,Slovakia (Slovak Republic),2024-10-17
+934,Grenada,2024-07-12
+935,Croatia,2024-11-15
+936,Western Sahara,2023-06-19
+937,Czech Republic,2024-10-27
+938,India,2023-07-08
+939,Saint Lucia,2023-06-17
+940,Seychelles,2024-08-23
+941,Greece,2024-06-23
+942,Benin,2024-09-15
+943,Belgium,2024-04-24
+944,Singapore,2022-12-25
+945,Bouvet Island (Bouvetoya),2023-09-01
+946,Thailand,2024-11-27
+947,Tuvalu,2024-08-14
+948,Grenada,2024-12-08
+949,Bermuda,2024-05-29
+950,Gambia,2023-06-05
+951,Sweden,2023-05-01
+952,Uruguay,2022-12-31
+953,United Kingdom,2024-07-14
+954,Georgia,2023-07-10
+955,Saint Barthelemy,2024-02-23
+956,Chile,2024-12-11
+957,Suriname,2023-12-02
+958,Macao,2024-03-03
+959,United Arab Emirates,2023-08-26
+960,Liechtenstein,2024-05-10
+961,Burundi,2023-11-29
+962,Niger,2024-06-17
+963,Georgia,2024-12-09
+964,Uruguay,2024-09-08
+965,Saint Kitts and Nevis,2023-03-24
+966,Finland,2024-07-25
+967,Switzerland,2023-08-12
+968,El Salvador,2023-01-31
+969,Western Sahara,2024-01-03
+970,Morocco,2024-07-02
+971,South Africa,2023-07-03
+972,Honduras,2023-06-08
+973,Mexico,2024-11-02
+974,Cook Islands,2024-08-14
+975,Anguilla,2023-01-07
+976,Papua New Guinea,2024-09-20
+977,Philippines,2023-08-18
+978,Cape Verde,2023-06-07
+979,Liberia,2024-07-08
+980,Cuba,2023-04-15
+981,Togo,2023-07-23
+982,Saint Lucia,2023-11-10
+983,Western Sahara,2023-06-28
+984,Cayman Islands,2023-06-04
+985,Reunion,2023-03-17
+986,Korea,2023-08-15
+987,Nigeria,2023-03-16
+988,Sierra Leone,2024-03-20
+989,Myanmar,2023-08-02
+990,Libyan Arab Jamahiriya,2023-08-11
+991,Togo,2023-09-06
+992,South Georgia and the South Sandwich Islands,2024-03-24
+993,Pakistan,2023-12-17
+994,El Salvador,2023-09-07
+995,Hungary,2024-08-10
+996,Mongolia,2024-04-09
+997,Niue,2024-05-19
+998,Lesotho,2023-02-26
+999,Iceland,2024-03-17
+1000,Guam,2023-04-15
+1001,French Southern Territories,2023-03-09
+1002,Slovakia (Slovak Republic),2023-01-07
+1003,Cocos (Keeling) Islands,2023-05-30
+1004,Lao People's Democratic Republic,2023-07-09
+1005,Ethiopia,2023-04-20
+1006,Congo,2023-12-02
+1007,Panama,2023-02-09
+1008,United Arab Emirates,2024-03-26
+1009,Iran,2023-10-04
+1010,Christmas Island,2024-02-16
+1011,Nauru,2023-05-12
+1012,Lebanon,2023-06-29
+1013,Pakistan,2023-09-06
+1014,Namibia,2023-05-07
+1015,British Indian Ocean Territory (Chagos Archipelago),2023-01-27
+1016,Philippines,2023-08-24
+1017,Belize,2023-05-02
+1018,Netherlands Antilles,2024-12-10
+1019,Jersey,2023-11-11
+1020,French Southern Territories,2024-05-24
+1021,Czech Republic,2024-07-23
+1022,Mexico,2024-07-17
+1023,French Polynesia,2024-09-21
+1024,Bahrain,2023-03-16
+1025,Seychelles,2024-01-23
+1026,Senegal,2023-03-06
+1027,Austria,2024-03-07
+1028,Belize,2023-01-20
+1029,Sierra Leone,2024-02-14
+1030,Panama,2024-01-13
+1031,Guadeloupe,2024-04-09
+1032,Argentina,2023-01-14
+1033,Botswana,2024-02-28
+1034,United States of America,2024-09-27
+1035,Guinea,2024-06-21
+1036,Mali,2024-12-09
+1037,Kuwait,2024-09-08
+1038,Lithuania,2023-10-17
+1039,Niue,2024-05-22
+1040,Jersey,2023-12-11
+1041,Bouvet Island (Bouvetoya),2023-06-24
+1042,Slovakia (Slovak Republic),2023-12-04
+1043,Namibia,2024-06-23
+1044,Central African Republic,2023-08-17
+1045,Pakistan,2024-08-17
+1046,Saint Barthelemy,2023-12-10
+1047,Uganda,2024-09-27
+1048,Andorra,2024-12-14
+1049,Tokelau,2023-01-06
+1050,Hungary,2023-11-18
+1051,Lao People's Democratic Republic,2024-09-09
+1052,Hong Kong,2023-02-12
+1053,Anguilla,2023-12-07
+1054,New Zealand,2023-07-24
+1055,Ethiopia,2023-07-02
+1056,Kyrgyz Republic,2023-03-21
+1057,Kenya,2024-04-14
+1058,Moldova,2024-04-22
+1059,United States of America,2024-01-18
+1060,Burundi,2023-09-29
+1061,Grenada,2024-01-23
+1062,Cameroon,2024-08-20
+1063,Cyprus,2024-04-06
+1064,Niger,2023-10-01
+1065,Holy See (Vatican City State),2024-01-05
+1066,Taiwan,2024-08-24
+1067,Venezuela,2023-06-12
+1068,Zambia,2024-03-15
+1069,South Georgia and the South Sandwich Islands,2024-11-17
+1070,Venezuela,2024-10-18
+1071,United Arab Emirates,2024-11-21
+1072,Ethiopia,2024-06-19
+1073,Iraq,2023-07-18
+1074,France,2024-10-23
+1075,British Indian Ocean Territory (Chagos Archipelago),2023-01-11
+1076,Sierra Leone,2024-06-21
+1077,Norfolk Island,2024-02-20
+1078,Swaziland,2023-08-10
+1079,Grenada,2023-11-10
+1080,Myanmar,2023-04-27
+1081,Saudi Arabia,2024-01-01
+1082,Luxembourg,2023-08-23
+1083,Hong Kong,2023-08-21
+1084,Nigeria,2024-08-14
+1085,Barbados,2024-11-09
+1086,Algeria,2024-10-27
+1087,Ecuador,2023-07-12
+1088,Saint Martin,2023-06-24
+1089,Morocco,2024-07-20
+1090,Bulgaria,2024-06-20
+1091,Faroe Islands,2023-08-26
+1092,Uganda,2024-09-22
+1093,Brazil,2023-12-31
+1094,Sudan,2024-11-13
+1095,Netherlands,2024-06-24
+1096,Nigeria,2024-04-05
+1097,Togo,2023-04-12
+1098,Senegal,2023-06-10
+1099,Ecuador,2024-12-10
+1100,Saint Helena,2023-10-12
+1101,Burkina Faso,2023-03-12
+1102,Syrian Arab Republic,2024-02-29
+1103,Mali,2023-12-26
+1104,Hungary,2023-04-12
+1105,Nigeria,2024-12-07
+1106,Syrian Arab Republic,2023-12-22
+1107,Saint Pierre and Miquelon,2024-02-10
+1108,Nigeria,2024-10-30
+1109,Romania,2023-01-10
+1110,Korea,2024-10-20
+1111,Comoros,2023-04-19
+1112,French Guiana,2024-08-15
+1113,Kiribati,2023-08-25
+1114,Kazakhstan,2024-06-12
+1115,Uganda,2024-01-08
+1116,Mexico,2023-05-11
+1117,Jordan,2024-03-11
+1118,Saudi Arabia,2023-11-07
+1119,Nauru,2023-08-03
+1120,Bahamas,2023-06-08
+1121,Belize,2023-05-15
+1122,Cocos (Keeling) Islands,2023-11-25
+1123,Italy,2023-06-27
+1124,Belarus,2023-11-18
+1125,Solomon Islands,2024-08-17
+1126,Uruguay,2024-08-19
+1127,Sri Lanka,2024-07-31
+1128,Benin,2023-08-10
+1129,Nepal,2024-10-22
+1130,Uruguay,2023-10-10
+1131,Congo,2024-02-28
+1132,Burundi,2023-07-12
+1133,Tokelau,2023-03-15
+1134,Niue,2023-05-26
+1135,Mauritania,2024-06-03
+1136,Costa Rica,2023-08-18
+1137,Angola,2024-05-12
+1138,Saint Pierre and Miquelon,2023-03-14
+1139,Myanmar,2024-09-04
+1140,Bangladesh,2023-01-20
+1141,Latvia,2023-05-06
+1142,Sierra Leone,2023-07-27
+1143,Puerto Rico,2023-07-29
+1144,Northern Mariana Islands,2022-12-26
+1145,Vietnam,2024-11-03
+1146,Kyrgyz Republic,2023-04-25
+1147,Comoros,2023-05-02
+1148,Azerbaijan,2023-11-04
+1149,Niue,2023-05-06
+1150,Japan,2024-06-26
+1151,Spain,2024-02-09
+1152,North Macedonia,2023-05-20
+1153,Saint Barthelemy,2024-04-24
+1154,United Arab Emirates,2023-01-03
+1155,Christmas Island,2023-01-14
+1156,Gibraltar,2023-05-01
+1157,Lesotho,2024-02-14
+1158,Jamaica,2024-04-26
+1159,Djibouti,2024-03-21
+1160,Italy,2024-09-23
+1161,Nicaragua,2024-08-17
+1162,Samoa,2023-06-25
+1163,Sao Tome and Principe,2023-07-05
+1164,Taiwan,2023-05-05
+1165,Tonga,2023-01-09
+1166,Botswana,2024-07-30
+1167,Sweden,2024-03-05
+1168,Norway,2023-05-17
+1169,United States Minor Outlying Islands,2024-07-09
+1170,Puerto Rico,2023-01-10
+1171,Angola,2024-07-23
+1172,South Georgia and the South Sandwich Islands,2023-12-23
+1173,Mali,2024-03-28
+1174,Papua New Guinea,2024-01-31
+1175,Mexico,2023-01-16
+1176,Saint Pierre and Miquelon,2024-05-07
+1177,Niue,2023-06-23
+1178,Serbia,2024-04-21
+1179,Yemen,2023-06-20
+1180,Slovenia,2024-08-18
+1181,Kyrgyz Republic,2023-12-24
+1182,Wallis and Futuna,2023-06-26
+1183,Somalia,2024-07-24
+1184,Nigeria,2024-09-26
+1185,Jersey,2024-01-25
+1186,Christmas Island,2023-05-22
+1187,Pitcairn Islands,2024-10-01
+1188,Kazakhstan,2024-02-02
+1189,Faroe Islands,2023-06-03
+1190,Russian Federation,2023-02-25
+1191,North Macedonia,2023-11-11
+1192,Guam,2023-04-09
+1193,Haiti,2024-11-16
+1194,Jordan,2024-09-15
+1195,Bermuda,2023-01-31
+1196,Cameroon,2024-08-24
+1197,Saudi Arabia,2023-03-13
+1198,Kazakhstan,2024-03-12
+1199,Mexico,2024-07-25
+1200,Saint Martin,2024-12-19
+1201,Iraq,2023-04-18
+1202,Slovenia,2023-09-24
+1203,Guam,2023-02-05
+1204,Belize,2023-09-25
+1205,Zimbabwe,2023-08-26
+1206,Zambia,2023-05-19
+1207,Cocos (Keeling) Islands,2023-11-03
+1208,Myanmar,2024-03-26
+1209,Paraguay,2024-10-06
+1210,Montserrat,2024-12-05
+1211,French Polynesia,2024-08-06
+1212,Mexico,2024-08-15
+1213,Mongolia,2023-03-05
+1214,Uzbekistan,2022-12-27
+1215,Ghana,2024-10-23
+1216,Kyrgyz Republic,2023-11-21
+1217,Pakistan,2024-07-20
+1218,Togo,2024-06-17
+1219,Burundi,2024-11-25
+1220,Netherlands,2024-01-27
+1221,Hungary,2024-01-12
+1222,Hong Kong,2023-11-05
+1223,Brazil,2023-12-21
+1224,Saint Barthelemy,2023-12-28
+1225,Dominican Republic,2024-02-28
+1226,Mauritius,2024-10-11
+1227,Mayotte,2024-05-26
+1228,Azerbaijan,2024-11-04
+1229,Greenland,2023-10-31
+1230,Switzerland,2023-12-05
+1231,Seychelles,2024-08-17
+1232,Chile,2024-10-10
+1233,Bosnia and Herzegovina,2023-05-18
+1234,Indonesia,2024-03-20
+1235,Panama,2023-02-28
+1236,Switzerland,2024-07-13
+1237,Egypt,2024-10-08
+1238,Ghana,2023-09-02
+1239,Sao Tome and Principe,2023-06-23
+1240,Taiwan,2024-04-24
+1241,Estonia,2024-11-03
+1242,Korea,2024-10-29
+1243,Saint Helena,2024-02-07
+1244,Ireland,2024-06-15
+1245,Zimbabwe,2023-02-25
+1246,Libyan Arab Jamahiriya,2024-01-10
+1247,Antarctica (the territory South of 60 deg S),2023-03-27
+1248,Mali,2024-05-05
+1249,Maldives,2024-02-21
+1250,Bhutan,2023-10-07
+1251,British Indian Ocean Territory (Chagos Archipelago),2024-06-22
+1252,Jersey,2023-09-30
+1253,Niger,2024-08-07
+1254,Armenia,2024-08-18
+1255,Slovakia (Slovak Republic),2024-07-27
+1256,Guinea-Bissau,2024-12-21
+1257,Saint Pierre and Miquelon,2023-04-23
+1258,Sri Lanka,2023-11-12
+1259,Croatia,2023-02-17
+1260,Mauritius,2024-11-02
+1261,British Indian Ocean Territory (Chagos Archipelago),2024-05-29
+1262,Jamaica,2023-03-19
+1263,Tokelau,2023-02-11
+1264,Ecuador,2023-10-01
+1265,French Guiana,2024-11-11
+1266,Peru,2024-12-11
+1267,Bulgaria,2023-11-23
+1268,Reunion,2023-01-12
+1269,Nigeria,2022-12-25
+1270,British Indian Ocean Territory (Chagos Archipelago),2023-07-05
+1271,Anguilla,2024-04-11
+1272,Congo,2024-04-21
+1273,Tanzania,2024-10-27
+1274,Marshall Islands,2024-11-07
+1275,Puerto Rico,2024-08-09
+1276,French Southern Territories,2024-10-11
+1277,Mauritius,2024-12-22
+1278,Armenia,2024-03-24
+1279,Morocco,2023-01-24
+1280,Saint Lucia,2023-12-26
+1281,Antarctica (the territory South of 60 deg S),2024-07-10
+1282,Swaziland,2024-06-05
+1283,Wallis and Futuna,2023-02-12
+1284,Cook Islands,2023-08-10
+1285,Palestinian Territory,2023-01-09
+1286,Somalia,2024-09-04
+1287,Holy See (Vatican City State),2024-06-14
+1288,United States of America,2023-03-28
+1289,Marshall Islands,2024-02-25
+1290,Maldives,2024-11-05
+1291,Estonia,2023-05-21
+1292,Monaco,2024-08-17
+1293,Dominica,2024-09-09
+1294,Papua New Guinea,2023-11-13
+1295,Egypt,2023-06-15
+1296,Trinidad and Tobago,2024-01-31
+1297,Sri Lanka,2023-04-18
+1298,Timor-Leste,2024-05-31
+1299,Croatia,2023-10-04
+1300,Christmas Island,2024-02-25
+1301,Mauritius,2023-11-19
+1302,Ecuador,2023-04-09
+1303,Guyana,2023-08-14
+1304,Aruba,2023-06-10
+1305,Iraq,2024-03-12
+1306,Peru,2024-08-27
+1307,Sudan,2023-07-19
+1308,Indonesia,2023-12-21
+1309,Cape Verde,2023-01-01
+1310,Trinidad and Tobago,2023-06-09
+1311,Namibia,2023-12-19
+1312,South Africa,2023-01-05
+1313,Myanmar,2023-03-20
+1314,Saint Barthelemy,2023-07-17
+1315,Sierra Leone,2023-01-04
+1316,Iceland,2024-08-26
+1317,British Virgin Islands,2024-05-04
+1318,Indonesia,2023-12-14
+1319,British Indian Ocean Territory (Chagos Archipelago),2023-08-30
+1320,Slovakia (Slovak Republic),2024-01-30
+1321,Tonga,2024-10-10
+1322,Suriname,2024-11-10
+1323,Cambodia,2024-02-26
+1324,Congo,2024-10-09
+1325,Zambia,2023-10-11
+1326,British Indian Ocean Territory (Chagos Archipelago),2024-03-26
+1327,Macao,2024-09-19
+1328,Denmark,2024-05-09
+1329,Saint Pierre and Miquelon,2023-04-19
+1330,Liberia,2023-07-16
+1331,Saint Martin,2023-03-08
+1332,Cape Verde,2023-03-02
+1333,Argentina,2023-08-19
+1334,Zimbabwe,2023-05-20
+1335,Bermuda,2023-05-25
+1336,Cocos (Keeling) Islands,2024-12-14
+1337,Liberia,2024-07-09
+1338,Armenia,2023-07-19
+1339,Norway,2023-06-08
+1340,Congo,2024-03-27
+1341,Guatemala,2024-10-28
+1342,Sao Tome and Principe,2023-05-07
+1343,Mozambique,2024-11-12
+1344,Germany,2023-06-25
+1345,Korea,2023-06-18
+1346,Nauru,2023-07-17
+1347,Croatia,2024-06-17
+1348,Sierra Leone,2023-08-11
+1349,Iraq,2023-07-15
+1350,Botswana,2024-09-08
+1351,Lesotho,2024-11-25
+1352,Lao People's Democratic Republic,2024-02-24
+1353,Greece,2024-12-10
+1354,Namibia,2024-02-12
+1355,Iceland,2024-02-26
+1356,Switzerland,2023-10-03
+1357,Panama,2023-10-28
+1358,Slovakia (Slovak Republic),2023-11-15
+1359,Myanmar,2024-10-18
+1360,Malawi,2024-08-10
+1361,Australia,2024-07-06
+1362,Comoros,2023-01-31
+1363,Micronesia,2023-05-06
+1364,Brunei Darussalam,2024-11-28
+1365,Turkey,2024-03-11
+1366,Togo,2024-06-30
+1367,Morocco,2024-02-26
+1368,Cuba,2024-09-21
+1369,Saint Lucia,2024-08-08
+1370,Nauru,2024-07-31
+1371,Barbados,2023-12-16
+1372,Saint Martin,2024-03-27
+1373,Iran,2023-05-21
+1374,Latvia,2023-01-22
+1375,Azerbaijan,2023-11-05
+1376,Nigeria,2024-04-13
+1377,Mongolia,2024-10-05
+1378,Venezuela,2024-06-29
+1379,Thailand,2024-07-23
+1380,Tunisia,2023-09-07
+1381,Djibouti,2023-02-13
+1382,Vanuatu,2023-08-13
+1383,Bermuda,2023-01-18
+1384,Svalbard & Jan Mayen Islands,2023-08-09
+1385,Argentina,2024-06-16
+1386,Libyan Arab Jamahiriya,2024-01-06
+1387,Somalia,2024-12-17
+1388,Sri Lanka,2024-12-19
+1389,French Southern Territories,2023-08-07
+1390,Saint Barthelemy,2024-09-11
+1391,Dominica,2024-09-27
+1392,Russian Federation,2023-03-29
+1393,Bermuda,2024-11-13
+1394,San Marino,2024-12-12
+1395,Indonesia,2023-01-30
+1396,Bosnia and Herzegovina,2023-09-26
+1397,Namibia,2023-04-30
+1398,Botswana,2024-05-28
+1399,Zimbabwe,2023-05-13
+1400,Syrian Arab Republic,2023-08-17
+1401,Cambodia,2023-09-30
+1402,Jordan,2023-02-11
+1403,Western Sahara,2023-06-25
+1404,Vietnam,2023-03-07
+1405,Peru,2024-07-31
+1406,Lesotho,2023-07-03
+1407,Suriname,2023-05-30
+1408,French Guiana,2023-07-29
+1409,Cyprus,2023-09-09
+1410,Niue,2024-06-24
+1411,Heard Island and McDonald Islands,2024-05-24
+1412,Slovakia (Slovak Republic),2024-08-30
+1413,Belize,2023-10-17
+1414,Montserrat,2024-04-19
+1415,Wallis and Futuna,2023-04-25
+1416,Mexico,2023-09-09
+1417,Cambodia,2023-08-22
+1418,Comoros,2023-05-01
+1419,Niue,2024-01-05
+1420,Brazil,2023-11-30
+1421,Tanzania,2023-11-03
+1422,Belize,2024-01-30
+1423,Czech Republic,2023-01-23
+1424,Bolivia,2023-04-21
+1425,Djibouti,2023-12-12
+1426,French Guiana,2024-02-22
+1427,Wallis and Futuna,2024-03-28
+1428,Iceland,2024-03-03
+1429,Zimbabwe,2024-09-12
+1430,Nepal,2024-01-26
+1431,Cambodia,2024-03-27
+1432,Belgium,2023-12-21
+1433,Ghana,2023-10-07
+1434,Svalbard & Jan Mayen Islands,2024-11-15
+1435,Ukraine,2023-06-03
+1436,Qatar,2024-03-09
+1437,Ethiopia,2024-10-11
+1438,Bouvet Island (Bouvetoya),2023-02-12
+1439,Armenia,2024-02-11
+1440,Namibia,2024-11-04
+1441,Korea,2023-01-25
+1442,Martinique,2023-05-07
+1443,Belize,2023-05-23
+1444,Antigua and Barbuda,2024-12-17
+1445,Tajikistan,2023-10-26
+1446,Ireland,2024-08-31
+1447,Switzerland,2024-12-22
+1448,Georgia,2024-08-24
+1449,Ghana,2023-09-11
+1450,Pitcairn Islands,2024-02-16
+1451,Bouvet Island (Bouvetoya),2024-04-20
+1452,Aruba,2024-10-13
+1453,South Georgia and the South Sandwich Islands,2024-01-31
+1454,Monaco,2023-12-09
+1455,Malta,2023-03-15
+1456,Greece,2023-09-17
+1457,Finland,2024-07-30
+1458,New Zealand,2024-02-02
+1459,Vietnam,2023-04-25
+1460,Dominican Republic,2024-08-24
+1461,Christmas Island,2023-01-28
+1462,Montenegro,2024-06-02
+1463,Micronesia,2023-02-11
+1464,Chile,2024-03-30
+1465,Czech Republic,2024-10-24
+1466,Qatar,2023-03-07
+1467,Uzbekistan,2024-03-06
+1468,Saint Lucia,2024-01-10
+1469,Sierra Leone,2024-02-29
+1470,British Virgin Islands,2023-08-04
+1471,Papua New Guinea,2023-09-11
+1472,French Southern Territories,2023-07-21
+1473,Lesotho,2023-09-21
+1474,United States of America,2023-04-10
+1475,United Arab Emirates,2023-08-09
+1476,Qatar,2023-06-01
+1477,Saint Lucia,2024-10-08
+1478,Saint Martin,2023-01-28
+1479,Faroe Islands,2023-05-06
+1480,Sweden,2023-09-18
+1481,Guinea-Bissau,2023-04-22
+1482,Saint Lucia,2024-08-05
+1483,Botswana,2023-02-20
+1484,Sweden,2024-04-21
+1485,Turks and Caicos Islands,2023-10-28
+1486,Sierra Leone,2024-05-10
+1487,Reunion,2024-09-05
+1488,Mozambique,2024-03-26
+1489,Tuvalu,2023-04-15
+1490,Hong Kong,2023-10-14
+1491,Monaco,2023-07-02
+1492,Uganda,2023-05-08
+1493,Philippines,2023-09-05
+1494,British Virgin Islands,2024-04-16
+1495,United States of America,2024-04-28
+1496,Rwanda,2024-06-19
+1497,Falkland Islands (Malvinas),2024-09-14
+1498,Iraq,2024-09-04
+1499,Argentina,2023-12-13
+1500,Philippines,2024-11-13
+1501,Togo,2024-09-26
+1502,Luxembourg,2023-04-14
+1503,Fiji,2023-03-21
+1504,Zimbabwe,2024-01-04
+1505,Gibraltar,2023-01-15
+1506,Hong Kong,2024-07-07
+1507,Honduras,2023-05-28
+1508,Saudi Arabia,2023-03-25
+1509,Poland,2024-05-29
+1510,Bouvet Island (Bouvetoya),2023-12-12
+1511,Hungary,2024-03-10
+1512,Equatorial Guinea,2023-08-23
+1513,Bolivia,2024-11-14
+1514,Italy,2024-10-31
+1515,Guatemala,2024-07-09
+1516,Gibraltar,2024-10-31
+1517,Hungary,2023-01-18
+1518,Guam,2024-07-31
+1519,Jersey,2024-02-19
+1520,Andorra,2024-10-24
+1521,Northern Mariana Islands,2023-05-15
+1522,Bahamas,2024-08-28
+1523,Mayotte,2023-01-15
+1524,Aruba,2024-03-05
+1525,Somalia,2023-03-19
+1526,El Salvador,2024-04-15
+1527,Seychelles,2024-05-23
+1528,Bahrain,2023-12-03
+1529,Niue,2023-10-07
+1530,Micronesia,2023-07-18
+1531,Zimbabwe,2023-09-11
+1532,Niue,2023-05-18
+1533,Nigeria,2024-03-06
+1534,United States of America,2024-03-09
+1535,Kiribati,2023-12-08
+1536,Afghanistan,2024-06-14
+1537,Bosnia and Herzegovina,2023-10-07
+1538,Lao People's Democratic Republic,2023-12-24
+1539,Poland,2023-05-12
+1540,Guyana,2024-06-15
+1541,Wallis and Futuna,2023-09-15
+1542,Uzbekistan,2024-02-27
+1543,Jamaica,2023-06-19
+1544,Japan,2023-09-09
+1545,Monaco,2023-11-23
+1546,Qatar,2022-12-25
+1547,Saudi Arabia,2024-08-13
+1548,Montserrat,2023-05-28
+1549,Argentina,2023-08-06
+1550,Congo,2023-08-29
+1551,Jordan,2023-11-27
+1552,Costa Rica,2024-04-06
+1553,Papua New Guinea,2024-10-07
+1554,Nepal,2024-07-25
+1555,Denmark,2024-04-03
+1556,Bahamas,2024-06-29
+1557,Antarctica (the territory South of 60 deg S),2023-05-17
+1558,Faroe Islands,2024-04-06
+1559,Switzerland,2024-12-16
+1560,United States Minor Outlying Islands,2024-05-21
+1561,Gabon,2023-03-19
+1562,Algeria,2023-11-06
+1563,Uruguay,2023-10-03
+1564,United States Virgin Islands,2023-05-13
+1565,Timor-Leste,2024-02-21
+1566,Pakistan,2023-10-29
+1567,Guinea,2023-12-24
+1568,Tanzania,2024-10-16
+1569,Romania,2024-09-20
+1570,American Samoa,2024-11-30
+1571,Bangladesh,2023-12-22
+1572,Canada,2024-01-16
+1573,Peru,2023-01-14
+1574,Syrian Arab Republic,2023-03-29
+1575,Romania,2023-01-03
+1576,Argentina,2024-11-12
+1577,Timor-Leste,2024-11-12
+1578,New Zealand,2023-10-08
+1579,Tokelau,2024-09-09
+1580,Central African Republic,2024-03-12
+1581,Saint Pierre and Miquelon,2023-05-24
+1582,Iceland,2024-09-05
+1583,Uzbekistan,2023-08-09
+1584,Peru,2023-04-11
+1585,French Guiana,2024-12-07
+1586,Belize,2024-02-20
+1587,French Polynesia,2024-01-25
+1588,Djibouti,2023-07-22
+1589,Sweden,2024-08-21
+1590,Bahrain,2023-02-04
+1591,Bahamas,2024-07-02
+1592,Cambodia,2023-02-17
+1593,Falkland Islands (Malvinas),2023-06-27
+1594,Canada,2023-06-22
+1595,Faroe Islands,2023-05-22
+1596,American Samoa,2023-02-25
+1597,Sao Tome and Principe,2023-02-23
+1598,Ireland,2023-10-13
+1599,Congo,2024-02-23
+1600,Ecuador,2024-07-21
+1601,Austria,2023-02-13
+1602,Greenland,2024-03-13
+1603,Cape Verde,2024-06-07
+1604,Faroe Islands,2024-05-10
+1605,Bouvet Island (Bouvetoya),2023-07-24
+1606,Bulgaria,2024-03-28
+1607,United Kingdom,2024-03-15
+1608,Israel,2024-11-22
+1609,Vanuatu,2023-10-08
+1610,Yemen,2023-05-09
+1611,Wallis and Futuna,2023-10-31
+1612,Russian Federation,2023-06-24
+1613,Swaziland,2024-09-05
+1614,Sudan,2024-08-22
+1615,Myanmar,2023-02-20
+1616,Seychelles,2024-04-12
+1617,South Georgia and the South Sandwich Islands,2024-06-08
+1618,Namibia,2023-11-19
+1619,Lithuania,2024-09-16
+1620,Timor-Leste,2023-07-01
+1621,Belarus,2023-09-04
+1622,Egypt,2023-09-27
+1623,Uganda,2023-10-04
+1624,Syrian Arab Republic,2023-11-05
+1625,Malaysia,2024-04-05
+1626,Cayman Islands,2023-11-05
+1627,Solomon Islands,2023-09-29
+1628,Malta,2023-08-12
+1629,Senegal,2024-05-16
+1630,Israel,2023-10-22
+1631,Chile,2024-10-09
+1632,Netherlands Antilles,2023-09-28
+1633,Slovakia (Slovak Republic),2023-01-20
+1634,Maldives,2023-09-05
+1635,Kyrgyz Republic,2024-10-14
+1636,Cape Verde,2024-08-29
+1637,Tuvalu,2022-12-31
+1638,Cambodia,2023-04-23
+1639,Egypt,2024-05-01
+1640,Sri Lanka,2023-08-05
+1641,Haiti,2024-02-11
+1642,United States of America,2024-11-16
+1643,Saint Lucia,2024-08-10
+1644,Saint Kitts and Nevis,2024-04-21
+1645,Algeria,2024-07-14
+1646,Guam,2023-06-30
+1647,El Salvador,2022-12-31
+1648,Liechtenstein,2024-03-21
+1649,Bahrain,2023-12-23
+1650,Eritrea,2024-12-06
+1651,Sweden,2024-12-07
+1652,Australia,2024-07-20
+1653,Nepal,2023-03-12
+1654,Ghana,2023-10-05
+1655,Holy See (Vatican City State),2023-06-28
+1656,Mauritania,2024-09-14
+1657,El Salvador,2024-01-09
+1658,Palestinian Territory,2023-08-24
+1659,Morocco,2023-12-29
+1660,Panama,2023-02-15
+1661,Faroe Islands,2024-07-20
+1662,China,2023-01-25
+1663,Lao People's Democratic Republic,2024-05-20
+1664,Russian Federation,2023-03-09
+1665,Chile,2023-12-23
+1666,Nauru,2024-07-23
+1667,North Macedonia,2023-11-14
+1668,United Kingdom,2023-03-01
+1669,Morocco,2023-10-19
+1670,Turkey,2024-10-08
+1671,Liechtenstein,2023-12-27
+1672,Holy See (Vatican City State),2023-12-26
+1673,Guinea,2023-10-30
+1674,Dominica,2024-09-28
+1675,Gambia,2024-11-10
+1676,Afghanistan,2024-08-21
+1677,New Caledonia,2023-11-04
+1678,Albania,2023-01-06
+1679,Luxembourg,2024-09-23
+1680,Ireland,2024-03-07
+1681,Uzbekistan,2023-04-12
+1682,Australia,2024-07-18
+1683,Slovenia,2024-02-02
+1684,Uzbekistan,2024-06-30
+1685,Burundi,2023-02-11
+1686,Nauru,2024-02-20
+1687,Singapore,2024-03-26
+1688,Lebanon,2024-09-05
+1689,Costa Rica,2024-10-16
+1690,Saint Kitts and Nevis,2023-08-04
+1691,Russian Federation,2024-07-15
+1692,Gambia,2023-03-05
+1693,Benin,2023-04-05
+1694,Ukraine,2023-06-15
+1695,Finland,2024-11-18
+1696,Mauritius,2023-01-12
+1697,Tajikistan,2023-05-15
+1698,Cote d'Ivoire,2024-10-17
+1699,Peru,2023-06-23
+1700,Niue,2023-09-28
+1701,Sri Lanka,2024-01-09
+1702,Niger,2023-08-23
+1703,Albania,2023-03-03
+1704,Djibouti,2024-05-19
+1705,Bahrain,2024-02-27
+1706,Anguilla,2023-11-21
+1707,Bosnia and Herzegovina,2024-04-07
+1708,Macao,2023-06-30
+1709,Djibouti,2024-09-02
+1710,Turkmenistan,2023-11-06
+1711,Bhutan,2023-10-26
+1712,Ghana,2023-10-27
+1713,Jordan,2024-06-12
+1714,French Guiana,2024-01-19
+1715,Tonga,2023-10-26
+1716,Czech Republic,2023-09-22
+1717,Tajikistan,2023-12-16
+1718,Tajikistan,2024-04-22
+1719,French Guiana,2024-04-15
+1720,Palestinian Territory,2024-07-12
+1721,Cocos (Keeling) Islands,2023-09-15
+1722,Sao Tome and Principe,2024-10-13
+1723,Croatia,2023-09-09
+1724,Saint Kitts and Nevis,2024-01-01
+1725,Sudan,2024-03-30
+1726,Sao Tome and Principe,2024-11-21
+1727,Northern Mariana Islands,2023-04-28
+1728,Armenia,2024-10-23
+1729,Wallis and Futuna,2024-07-16
+1730,Nicaragua,2023-07-29
+1731,French Southern Territories,2023-12-20
+1732,Pakistan,2023-06-18
+1733,Afghanistan,2024-03-09
+1734,Cameroon,2023-06-15
+1735,Anguilla,2024-02-11
+1736,Puerto Rico,2023-06-09
+1737,Japan,2024-01-22
+1738,Mauritania,2024-08-18
+1739,Cameroon,2023-02-21
+1740,Antarctica (the territory South of 60 deg S),2023-02-04
+1741,Algeria,2023-07-16
+1742,Morocco,2024-12-22
+1743,Western Sahara,2023-01-20
+1744,France,2024-04-04
+1745,Korea,2023-01-28
+1746,Tonga,2023-09-18
+1747,Samoa,2023-09-24
+1748,Martinique,2023-08-24
+1749,Honduras,2023-09-27
+1750,Zambia,2024-11-06
+1751,Hungary,2024-01-01
+1752,Angola,2023-12-28
+1753,Germany,2023-08-22
+1754,Tonga,2024-08-25
+1755,Korea,2023-06-05
+1756,Macao,2024-10-11
+1757,Western Sahara,2022-12-24
+1758,Maldives,2023-06-21
+1759,New Caledonia,2024-10-15
+1760,Pitcairn Islands,2024-07-18
+1761,Bulgaria,2024-11-09
+1762,Hungary,2023-10-17
+1763,Peru,2022-12-24
+1764,Taiwan,2024-11-10
+1765,French Polynesia,2024-09-06
+1766,Heard Island and McDonald Islands,2024-09-07
+1767,Chile,2023-03-03
+1768,Tonga,2024-01-02
+1769,Grenada,2024-04-20
+1770,Cote d'Ivoire,2023-09-25
+1771,Uzbekistan,2023-03-23
+1772,Kyrgyz Republic,2024-06-09
+1773,Sudan,2024-09-29
+1774,Belarus,2023-07-08
+1775,United Kingdom,2023-09-01
+1776,Solomon Islands,2023-06-02
+1777,Korea,2024-08-12
+1778,Malta,2024-07-29
+1779,Moldova,2024-03-28
+1780,Guatemala,2024-03-21
+1781,Mauritius,2024-08-24
+1782,Swaziland,2024-03-04
+1783,South Georgia and the South Sandwich Islands,2024-02-03
+1784,Mali,2024-03-19
+1785,Russian Federation,2024-10-21
+1786,Cambodia,2023-07-11
+1787,Sudan,2023-03-06
+1788,Gibraltar,2023-11-30
+1789,Norway,2023-06-14
+1790,Luxembourg,2022-12-27
+1791,Libyan Arab Jamahiriya,2024-01-07
+1792,British Indian Ocean Territory (Chagos Archipelago),2023-08-05
+1793,Namibia,2023-08-27
+1794,Seychelles,2023-02-16
+1795,Turks and Caicos Islands,2023-10-03
+1796,Morocco,2023-02-23
+1797,Morocco,2023-10-28
+1798,Lesotho,2024-10-06
+1799,Guyana,2023-06-03
+1800,British Virgin Islands,2024-08-06
+1801,Tonga,2024-06-23
+1802,Lebanon,2024-02-09
+1803,Georgia,2023-03-14
+1804,Serbia,2024-10-21
+1805,Bulgaria,2024-09-26
+1806,India,2023-09-06
+1807,Benin,2023-02-28
+1808,Jordan,2024-02-02
+1809,Australia,2024-05-05
+1810,Indonesia,2024-06-08
+1811,Tajikistan,2023-04-17
+1812,Syrian Arab Republic,2024-01-16
+1813,Bhutan,2024-02-20
+1814,British Indian Ocean Territory (Chagos Archipelago),2023-01-07
+1815,Ukraine,2023-07-08
+1816,Andorra,2023-06-02
+1817,Liberia,2023-10-16
+1818,Belarus,2024-11-22
+1819,Nauru,2023-08-29
+1820,Uzbekistan,2023-05-25
+1821,Ireland,2024-07-23
+1822,Equatorial Guinea,2024-04-13
+1823,Martinique,2024-06-26
+1824,Cocos (Keeling) Islands,2024-11-22
+1825,Bahrain,2023-01-29
+1826,Bahamas,2024-10-31
+1827,Cuba,2023-06-08
+1828,Central African Republic,2024-11-30
+1829,Portugal,2023-05-18
+1830,Israel,2023-09-22
+1831,Brazil,2023-02-18
+1832,Kenya,2024-06-04
+1833,Kazakhstan,2023-09-30
+1834,Belize,2024-10-07
+1835,Bangladesh,2023-04-16
+1836,United Arab Emirates,2023-07-27
+1837,Australia,2024-11-04
+1838,Mayotte,2023-04-15
+1839,Fiji,2024-11-05
+1840,Tokelau,2024-10-28
+1841,Mozambique,2024-07-05
+1842,Malawi,2024-08-08
+1843,Germany,2024-05-29
+1844,Saint Barthelemy,2023-12-18
+1845,Burkina Faso,2023-08-11
+1846,Lao People's Democratic Republic,2024-05-02
+1847,Malta,2024-08-17
+1848,Ireland,2024-08-31
+1849,Uganda,2023-02-17
+1850,Uzbekistan,2023-05-02
+1851,Sudan,2024-01-10
+1852,Sierra Leone,2023-02-06
+1853,Slovenia,2024-11-11
+1854,Turkey,2024-09-28
+1855,Israel,2024-02-05
+1856,Isle of Man,2023-05-05
+1857,Greece,2024-09-26
+1858,Rwanda,2024-06-10
+1859,Mauritania,2024-06-10
+1860,Mayotte,2024-06-17
+1861,Christmas Island,2024-05-31
+1862,Uruguay,2023-04-29
+1863,Niger,2023-05-21
+1864,Saint Barthelemy,2024-09-17
+1865,Falkland Islands (Malvinas),2023-02-04
+1866,Guyana,2023-10-28
+1867,Kuwait,2023-06-13
+1868,Tunisia,2023-10-29
+1869,Bosnia and Herzegovina,2024-03-31
+1870,Svalbard & Jan Mayen Islands,2023-11-02
+1871,Mauritania,2023-09-23
+1872,Gambia,2024-07-03
+1873,Libyan Arab Jamahiriya,2023-12-21
+1874,Zimbabwe,2023-02-13
+1875,Malawi,2023-01-07
+1876,Maldives,2023-02-03
+1877,Bermuda,2023-11-26
+1878,Eritrea,2023-09-02
+1879,Palau,2023-02-14
+1880,Mauritania,2023-03-05
+1881,Bosnia and Herzegovina,2023-05-28
+1882,Barbados,2023-06-05
+1883,Djibouti,2024-04-23
+1884,El Salvador,2023-05-05
+1885,Bermuda,2024-10-13
+1886,Saint Martin,2023-06-08
+1887,Turkey,2024-02-23
+1888,Ireland,2024-06-04
+1889,Namibia,2022-12-27
+1890,Canada,2023-10-16
+1891,Belarus,2023-10-01
+1892,Rwanda,2024-06-26
+1893,Lao People's Democratic Republic,2023-11-11
+1894,Holy See (Vatican City State),2023-03-12
+1895,Mayotte,2023-06-07
+1896,Norway,2023-04-25
+1897,Saudi Arabia,2023-01-01
+1898,Armenia,2024-06-01
+1899,Jordan,2024-03-02
+1900,Costa Rica,2023-06-25
+1901,Bhutan,2024-05-18
+1902,Sri Lanka,2023-02-26
+1903,Uruguay,2023-11-13
+1904,Kenya,2023-12-31
+1905,Malta,2024-07-18
+1906,Jordan,2023-10-02
+1907,Tajikistan,2024-06-21
+1908,Rwanda,2024-02-02
+1909,Equatorial Guinea,2024-08-17
+1910,Nicaragua,2023-02-05
+1911,Indonesia,2023-12-18
+1912,Tuvalu,2024-08-21
+1913,Tanzania,2024-11-22
+1914,Montenegro,2024-01-06
+1915,Antarctica (the territory South of 60 deg S),2024-02-29
+1916,Guatemala,2023-09-17
+1917,Israel,2024-11-10
+1918,Venezuela,2023-11-20
+1919,Solomon Islands,2024-06-05
+1920,Malawi,2024-01-06
+1921,Andorra,2023-04-17
+1922,Venezuela,2023-05-17
+1923,Finland,2023-09-29
+1924,Grenada,2024-11-19
+1925,French Southern Territories,2023-02-16
+1926,Netherlands Antilles,2024-08-25
+1927,Burundi,2023-07-11
+1928,Lesotho,2024-09-28
+1929,Chad,2023-02-28
+1930,Nicaragua,2023-01-04
+1931,Italy,2023-05-18
+1932,Brazil,2024-03-04
+1933,Philippines,2023-07-21
+1934,Japan,2024-07-28
+1935,Norfolk Island,2024-06-28
+1936,Norway,2023-07-26
+1937,Serbia,2023-06-12
+1938,Netherlands,2024-07-04
+1939,Saint Helena,2023-06-18
+1940,Maldives,2023-03-19
+1941,Haiti,2023-12-11
+1942,Zimbabwe,2023-10-14
+1943,Iran,2023-02-20
+1944,Brunei Darussalam,2024-04-09
+1945,Tonga,2023-11-22
+1946,Iceland,2024-01-22
+1947,Rwanda,2023-05-09
+1948,Somalia,2024-03-12
+1949,Antigua and Barbuda,2024-11-17
+1950,Saudi Arabia,2024-06-19
+1951,United Arab Emirates,2023-03-10
+1952,Wallis and Futuna,2024-12-03
+1953,Finland,2023-08-23
+1954,Finland,2023-03-19
+1955,Paraguay,2023-08-11
+1956,Falkland Islands (Malvinas),2024-06-06
+1957,Turkey,2024-11-29
+1958,Palau,2024-09-29
+1959,Burundi,2024-11-13
+1960,Saint Lucia,2024-12-09
+1961,Belgium,2024-05-26
+1962,Guyana,2023-12-08
+1963,Guernsey,2023-08-30
+1964,Myanmar,2023-10-17
+1965,Sao Tome and Principe,2023-08-27
+1966,France,2023-04-23
+1967,British Virgin Islands,2024-03-29
+1968,Ethiopia,2024-09-22
+1969,Aruba,2024-07-05
+1970,Syrian Arab Republic,2024-03-15
+1971,Cameroon,2024-07-12
+1972,Lebanon,2023-03-23
+1973,Paraguay,2024-07-01
+1974,British Indian Ocean Territory (Chagos Archipelago),2023-12-06
+1975,Czech Republic,2023-07-19
+1976,Bulgaria,2024-04-28
+1977,Jamaica,2023-06-16
+1978,Afghanistan,2023-06-21
+1979,Tonga,2024-11-05
+1980,Barbados,2024-01-01
+1981,Swaziland,2023-06-01
+1982,British Virgin Islands,2023-08-11
+1983,Norway,2024-12-12
+1984,Antigua and Barbuda,2024-06-05
+1985,Oman,2023-05-14
+1986,Svalbard & Jan Mayen Islands,2023-03-13
+1987,Djibouti,2023-09-30
+1988,Brunei Darussalam,2023-03-18
+1989,Cayman Islands,2024-09-09
+1990,China,2024-04-22
+1991,Sri Lanka,2022-12-31
+1992,Guam,2024-10-06
+1993,United States of America,2023-10-05
+1994,Gibraltar,2024-01-30
+1995,Montenegro,2024-03-18
+1996,Cayman Islands,2023-06-03
+1997,Belgium,2023-12-16
+1998,Nigeria,2023-09-20
+1999,Northern Mariana Islands,2024-09-03
+2000,Guernsey,2023-06-27
+2001,Moldova,2023-09-25
+2002,Wallis and Futuna,2024-07-04
+2003,Afghanistan,2023-05-02
+2004,Brazil,2024-06-28
+2005,Mauritius,2023-06-02
+2006,Sao Tome and Principe,2024-09-11
+2007,Czech Republic,2024-01-29
+2008,Norfolk Island,2023-12-06
+2009,Aruba,2023-07-15
+2010,Malawi,2023-05-11
+2011,Armenia,2023-10-12
+2012,Guinea-Bissau,2023-11-12
+2013,Iceland,2024-01-23
+2014,Uzbekistan,2024-03-13
+2015,India,2023-11-19
+2016,Cuba,2024-09-30
+2017,Sweden,2023-07-13
+2018,Vanuatu,2024-10-03
+2019,Algeria,2024-04-28
+2020,Luxembourg,2023-03-14
+2021,Cayman Islands,2023-09-24
+2022,Guatemala,2024-08-09
+2023,Aruba,2023-10-07
+2024,Indonesia,2024-11-14
+2025,Croatia,2023-06-12
+2026,French Guiana,2023-03-13
+2027,Guatemala,2023-04-03
+2028,Benin,2024-06-11
+2029,United States Minor Outlying Islands,2023-05-16
+2030,Azerbaijan,2023-11-01
+2031,Bhutan,2023-12-03
+2032,Cote d'Ivoire,2023-11-08
+2033,Angola,2024-08-31
+2034,Jamaica,2024-06-14
+2035,Luxembourg,2024-08-23
+2036,Trinidad and Tobago,2023-05-20
+2037,Botswana,2023-08-03
+2038,Uruguay,2023-10-06
+2039,Liberia,2024-09-16
+2040,Saint Kitts and Nevis,2024-02-24
+2041,Colombia,2024-08-30
+2042,Guernsey,2022-12-30
+2043,Croatia,2024-04-11
+2044,Puerto Rico,2024-02-06
+2045,Malawi,2023-11-25
+2046,Djibouti,2024-07-06
+2047,France,2024-09-10
+2048,Solomon Islands,2024-01-16
+2049,Greenland,2024-03-20
+2050,India,2023-05-20
+2051,Jersey,2023-02-03
+2052,Vietnam,2024-05-12
+2053,Solomon Islands,2023-07-24
+2054,Martinique,2023-04-03
+2055,Macao,2024-01-23
+2056,Timor-Leste,2024-02-04
+2057,Jersey,2023-04-07
+2058,Suriname,2023-08-09
+2059,Togo,2024-09-09
+2060,Honduras,2023-12-15
+2061,Samoa,2024-01-23
+2062,Guernsey,2023-06-14
+2063,Finland,2024-04-19
+2064,Montenegro,2024-04-28
+2065,Indonesia,2023-01-08
+2066,Pitcairn Islands,2023-03-07
+2067,Saint Martin,2024-11-08
+2068,Burundi,2023-01-07
+2069,Holy See (Vatican City State),2024-01-16
+2070,Australia,2022-12-27
+2071,Uganda,2024-11-22
+2072,Colombia,2024-08-19
+2073,Guinea,2023-05-13
+2074,Botswana,2023-10-05
+2075,Argentina,2024-05-31
+2076,Angola,2023-01-15
+2077,Greece,2024-02-26
+2078,Austria,2024-01-20
+2079,Western Sahara,2024-12-19
+2080,Madagascar,2023-09-13
+2081,Nepal,2023-04-10
+2082,Estonia,2022-12-26
+2083,Belize,2024-01-31
+2084,Timor-Leste,2023-10-12
+2085,Jersey,2023-05-06
+2086,United Arab Emirates,2023-12-01
+2087,Niger,2023-09-17
+2088,Australia,2023-01-02
+2089,Kyrgyz Republic,2024-12-12
+2090,Macao,2023-12-17
+2091,Bhutan,2024-02-09
+2092,Reunion,2023-05-21
+2093,Congo,2023-04-01
+2094,Bhutan,2023-12-25
+2095,Togo,2023-01-13
+2096,Philippines,2024-06-29
+2097,Samoa,2023-06-21
+2098,Montserrat,2024-03-04
+2099,Heard Island and McDonald Islands,2023-08-18
+2100,Greenland,2023-06-03
+2101,Paraguay,2023-12-11
+2102,Moldova,2023-04-25
+2103,Venezuela,2024-06-13
+2104,New Caledonia,2024-01-19
+2105,Bosnia and Herzegovina,2023-06-18
+2106,United States of America,2024-05-22
+2107,Portugal,2023-07-19
+2108,Spain,2024-10-13
+2109,Kiribati,2024-05-15
+2110,Turkey,2024-12-06
+2111,Faroe Islands,2023-07-30
+2112,Austria,2023-11-25
+2113,Iran,2023-12-20
+2114,Greenland,2023-10-12
+2115,Turkey,2024-03-29
+2116,Saint Helena,2024-07-14
+2117,United Arab Emirates,2023-12-26
+2118,Sweden,2024-01-30
+2119,Pitcairn Islands,2023-01-10
+2120,North Macedonia,2023-02-04
+2121,Croatia,2023-01-24
+2122,Timor-Leste,2024-08-19
+2123,Spain,2024-12-20
+2124,Hungary,2023-05-05
+2125,Madagascar,2023-11-29
+2126,Kazakhstan,2024-01-11
+2127,Iceland,2024-12-22
+2128,Maldives,2023-08-17
+2129,Brazil,2024-02-14
+2130,Argentina,2024-10-21
+2131,Mali,2023-01-28
+2132,Samoa,2023-01-05
+2133,Isle of Man,2024-03-16
+2134,Poland,2023-12-24
+2135,Taiwan,2024-02-04
+2136,Malaysia,2023-08-19
+2137,Tokelau,2024-07-14
+2138,Venezuela,2023-05-03
+2139,Kiribati,2023-07-25
+2140,American Samoa,2024-10-02
+2141,Micronesia,2023-03-23
+2142,Syrian Arab Republic,2024-07-26
+2143,Moldova,2023-11-26
+2144,Ireland,2023-07-24
+2145,Tonga,2024-05-10
+2146,United States of America,2023-05-25
+2147,Bulgaria,2023-06-16
+2148,Guinea,2023-06-15
+2149,Dominican Republic,2024-08-11
+2150,British Virgin Islands,2023-09-25
+2151,Turks and Caicos Islands,2024-02-09
+2152,Gambia,2023-10-23
+2153,Tanzania,2023-10-11
+2154,Norway,2024-09-16
+2155,Bolivia,2024-08-17
+2156,Zimbabwe,2023-01-23
+2157,Grenada,2023-11-16
+2158,United Arab Emirates,2024-06-19
+2159,Brazil,2023-09-10
+2160,Cuba,2024-01-18
+2161,American Samoa,2024-10-30
+2162,Burkina Faso,2023-03-01
+2163,Switzerland,2024-09-23
+2164,Kenya,2024-06-05
+2165,Cocos (Keeling) Islands,2024-09-06
+2166,Cote d'Ivoire,2024-09-21
+2167,Netherlands,2023-01-08
+2168,Guatemala,2024-01-11
+2169,Moldova,2023-05-18
+2170,Hungary,2023-02-21
+2171,Iran,2024-01-06
+2172,France,2024-02-27
+2173,Luxembourg,2024-11-06
+2174,France,2023-04-05
+2175,Hungary,2023-04-13
+2176,Saint Martin,2023-09-30
+2177,Bermuda,2024-09-24
+2178,Portugal,2023-03-10
+2179,Niger,2023-04-16
+2180,New Caledonia,2023-10-10
+2181,Turkey,2024-07-29
+2182,Iraq,2023-10-29
+2183,Algeria,2024-04-08
+2184,Saint Pierre and Miquelon,2024-10-21
+2185,French Southern Territories,2024-01-07
+2186,Albania,2023-10-17
+2187,Nepal,2024-08-05
+2188,Philippines,2024-01-22
+2189,Japan,2023-02-11
+2190,Guernsey,2024-05-29
+2191,Bahamas,2023-08-29
+2192,Seychelles,2023-12-18
+2193,Slovenia,2024-03-11
+2194,Eritrea,2023-11-29
+2195,Guinea-Bissau,2023-02-15
+2196,Korea,2024-10-06
+2197,Dominican Republic,2024-05-18
+2198,Cambodia,2024-09-14
+2199,Panama,2024-07-25
+2200,United Kingdom,2023-07-12
+2201,Saint Pierre and Miquelon,2023-05-15
+2202,Syrian Arab Republic,2023-04-20
+2203,Bhutan,2023-03-28
+2204,Cape Verde,2023-10-31
+2205,Sudan,2023-02-21
+2206,Rwanda,2024-07-01
+2207,Myanmar,2024-04-26
+2208,Swaziland,2023-04-21
+2209,Brunei Darussalam,2023-06-08
+2210,Thailand,2023-02-22
+2211,Kyrgyz Republic,2024-08-13
+2212,Cape Verde,2024-02-05
+2213,Mongolia,2023-04-29
+2214,Pakistan,2024-03-15
+2215,Liberia,2024-12-14
+2216,Myanmar,2023-01-31
+2217,Belarus,2024-02-29
+2218,Iran,2024-04-27
+2219,Yemen,2023-02-17
+2220,Comoros,2024-01-18
+2221,Kiribati,2024-08-11
+2222,Saint Helena,2024-05-12
+2223,Saudi Arabia,2023-01-01
+2224,Taiwan,2023-12-21
+2225,Brunei Darussalam,2024-08-30
+2226,Puerto Rico,2023-06-29
+2227,Guyana,2023-01-07
+2228,Chad,2023-04-03
+2229,Holy See (Vatican City State),2024-01-13
+2230,Swaziland,2023-02-17
+2231,China,2023-01-19
+2232,Spain,2023-11-29
+2233,Central African Republic,2024-08-05
+2234,Cambodia,2023-10-11
+2235,Brazil,2024-07-20
+2236,Jamaica,2024-03-19
+2237,Marshall Islands,2023-01-28
+2238,Croatia,2024-05-09
+2239,El Salvador,2024-06-29
+2240,Tuvalu,2023-04-16
+2241,Egypt,2023-05-16
+2242,Malta,2024-09-27
+2243,Sierra Leone,2024-10-23
+2244,Singapore,2023-07-11
+2245,Albania,2023-11-07
+2246,Bahrain,2023-01-25
+2247,Andorra,2024-04-21
+2248,Vietnam,2023-05-07
+2249,Pitcairn Islands,2023-07-12
+2250,Netherlands Antilles,2023-09-10
+2251,Guyana,2023-07-12
+2252,Japan,2023-04-16
+2253,Mauritius,2023-09-14
+2254,Netherlands Antilles,2024-04-01
+2255,Kuwait,2024-11-04
+2256,United Kingdom,2024-08-19
+2257,French Guiana,2023-07-15
+2258,Jordan,2024-09-01
+2259,Congo,2023-09-19
+2260,Northern Mariana Islands,2024-04-07
+2261,Heard Island and McDonald Islands,2024-06-15
+2262,Zimbabwe,2024-06-17
+2263,Mayotte,2024-01-03
+2264,Luxembourg,2023-07-01
+2265,Zimbabwe,2023-11-16
+2266,Montenegro,2023-05-11
+2267,Saint Pierre and Miquelon,2024-10-06
+2268,Kyrgyz Republic,2023-12-15
+2269,Serbia,2024-11-03
+2270,South Africa,2023-11-14
+2271,Germany,2024-01-30
+2272,Gabon,2024-03-06
+2273,Bolivia,2024-06-12
+2274,Palestinian Territory,2023-08-27
+2275,Peru,2023-01-20
+2276,South Africa,2024-09-14
+2277,Jamaica,2023-10-12
+2278,Singapore,2024-05-26
+2279,Norway,2024-06-06
+2280,Uruguay,2024-09-14
+2281,Lesotho,2024-06-12
+2282,Saint Helena,2023-09-09
+2283,United Arab Emirates,2023-12-25
+2284,Ukraine,2023-01-17
+2285,Nigeria,2023-07-26
+2286,Luxembourg,2024-10-12
+2287,Congo,2023-12-01
+2288,Uruguay,2023-01-30
+2289,Liberia,2023-12-05
+2290,Netherlands,2024-07-13
+2291,Lesotho,2023-12-05
+2292,Vietnam,2023-12-01
+2293,Papua New Guinea,2023-12-12
+2294,Malta,2023-03-12
+2295,British Indian Ocean Territory (Chagos Archipelago),2024-09-18
+2296,Niue,2023-10-13
+2297,Bahamas,2024-04-26
+2298,Dominica,2024-04-07
+2299,Ireland,2023-04-10
+2300,Vietnam,2023-02-09
+2301,Tanzania,2024-10-18
+2302,Fiji,2023-10-06
+2303,United Arab Emirates,2024-11-04
+2304,Libyan Arab Jamahiriya,2023-11-21
+2305,Turks and Caicos Islands,2024-08-16
+2306,Western Sahara,2024-12-03
+2307,American Samoa,2024-05-23
+2308,New Zealand,2023-05-03
+2309,Wallis and Futuna,2023-07-09
+2310,Georgia,2023-04-12
+2311,Tunisia,2023-06-29
+2312,Tunisia,2023-02-11
+2313,Mayotte,2023-10-23
+2314,Sweden,2023-08-02
+2315,Thailand,2024-08-30
+2316,Albania,2024-10-19
+2317,Peru,2023-05-08
+2318,Saudi Arabia,2024-07-12
+2319,Malawi,2023-03-06
+2320,Myanmar,2024-11-04
+2321,Seychelles,2023-09-04
+2322,Libyan Arab Jamahiriya,2023-11-05
+2323,Bosnia and Herzegovina,2024-05-09
+2324,Kuwait,2024-01-07
+2325,Norfolk Island,2024-01-14
+2326,Norway,2024-10-06
+2327,Myanmar,2023-02-22
+2328,United States Minor Outlying Islands,2024-09-28
+2329,Korea,2023-11-06
+2330,Martinique,2023-08-29
+2331,Cote d'Ivoire,2023-03-18
+2332,Tajikistan,2022-12-26
+2333,Uruguay,2023-08-09
+2334,Angola,2024-11-12
+2335,Burundi,2024-09-08
+2336,Slovenia,2023-01-08
+2337,Vanuatu,2024-03-11
+2338,Czech Republic,2023-05-19
+2339,Samoa,2024-07-17
+2340,South Africa,2024-01-17
+2341,American Samoa,2024-09-01
+2342,Mauritania,2024-05-12
+2343,France,2023-05-30
+2344,Finland,2024-01-27
+2345,Egypt,2023-03-07
+2346,Mayotte,2024-08-21
+2347,South Africa,2023-08-18
+2348,France,2023-02-08
+2349,Kyrgyz Republic,2024-10-31
+2350,Serbia,2023-10-13
+2351,Seychelles,2023-08-16
+2352,Fiji,2023-03-31
+2353,Turkmenistan,2024-04-25
+2354,Suriname,2024-11-18
+2355,Afghanistan,2023-05-06
+2356,Turkmenistan,2024-12-01
+2357,Liechtenstein,2024-10-29
+2358,Suriname,2024-09-29
+2359,Burundi,2023-01-07
+2360,Vietnam,2024-06-23
+2361,Cook Islands,2023-12-28
+2362,Armenia,2023-05-22
+2363,Austria,2023-01-25
+2364,Mayotte,2023-02-18
+2365,Mali,2024-12-12
+2366,Moldova,2023-05-22
+2367,Italy,2023-07-06
+2368,Slovakia (Slovak Republic),2023-01-22
+2369,Philippines,2024-03-29
+2370,Australia,2023-12-17
+2371,Falkland Islands (Malvinas),2023-05-08
+2372,Bolivia,2023-01-14
+2373,American Samoa,2024-07-05
+2374,Sudan,2023-12-04
+2375,Norfolk Island,2024-03-19
+2376,Nepal,2024-08-20
+2377,Belgium,2023-03-13
+2378,Christmas Island,2024-03-05
+2379,Grenada,2024-02-26
+2380,Comoros,2023-04-07
+2381,Sri Lanka,2023-06-06
+2382,Azerbaijan,2023-03-28
+2383,British Virgin Islands,2024-04-23
+2384,Gambia,2024-04-14
+2385,Saint Barthelemy,2024-08-29
+2386,Iceland,2023-01-30
+2387,Italy,2023-04-28
+2388,Kenya,2023-10-22
+2389,Paraguay,2023-10-01
+2390,Aruba,2023-10-06
+2391,Ukraine,2023-10-13
+2392,Ireland,2023-10-06
+2393,Poland,2024-10-02
+2394,Saint Kitts and Nevis,2023-09-12
+2395,Belize,2024-08-23
+2396,Syrian Arab Republic,2024-02-25
+2397,Mauritania,2024-09-14
+2398,Hungary,2023-07-02
+2399,Western Sahara,2023-09-21
+2400,Burkina Faso,2023-10-01
+2401,Greenland,2023-08-08
+2402,Svalbard & Jan Mayen Islands,2024-02-03
+2403,Tonga,2024-09-13
+2404,Cambodia,2024-05-10
+2405,Niue,2023-01-16
+2406,Somalia,2023-02-17
+2407,Pitcairn Islands,2024-06-27
+2408,Poland,2023-04-25
+2409,Puerto Rico,2023-04-28
+2410,Zambia,2023-07-14
+2411,Nicaragua,2023-05-08
+2412,Kyrgyz Republic,2023-12-08
+2413,Pitcairn Islands,2023-07-14
+2414,New Caledonia,2024-01-24
+2415,Brazil,2024-01-15
+2416,Guam,2024-03-20
+2417,Sweden,2023-07-30
+2418,Gabon,2023-03-20
+2419,Pitcairn Islands,2024-09-04
+2420,San Marino,2023-02-23
+2421,Oman,2024-09-08
+2422,Heard Island and McDonald Islands,2024-05-17
+2423,Benin,2023-05-02
+2424,Congo,2023-06-15
+2425,Botswana,2023-06-22
+2426,Kiribati,2024-07-13
+2427,Cuba,2024-04-08
+2428,Bouvet Island (Bouvetoya),2024-05-22
+2429,Faroe Islands,2024-06-22
+2430,Bermuda,2023-09-21
+2431,Northern Mariana Islands,2024-01-31
+2432,Honduras,2024-09-14
+2433,Sudan,2023-02-04
+2434,Hungary,2023-07-02
+2435,Netherlands,2024-02-11
+2436,Portugal,2023-11-09
+2437,Chile,2024-11-05
+2438,Jamaica,2024-07-31
+2439,Serbia,2023-01-18
+2440,Zambia,2024-07-27
+2441,Somalia,2022-12-26
+2442,Uzbekistan,2024-09-21
+2443,Afghanistan,2023-08-30
+2444,Bosnia and Herzegovina,2024-01-25
+2445,Central African Republic,2023-12-26
+2446,Pakistan,2023-04-16
+2447,Guadeloupe,2023-06-07
+2448,Timor-Leste,2024-01-01
+2449,Hungary,2023-04-07
+2450,Malaysia,2023-01-18
+2451,Djibouti,2023-02-19
+2452,Turkmenistan,2024-02-13
+2453,Thailand,2023-02-05
+2454,Georgia,2023-06-20
+2455,Guadeloupe,2023-06-02
+2456,Sri Lanka,2023-09-08
+2457,Bahrain,2024-06-04
+2458,Spain,2023-12-26
+2459,Armenia,2024-02-20
+2460,Heard Island and McDonald Islands,2023-12-25
+2461,Heard Island and McDonald Islands,2023-01-29
+2462,Rwanda,2023-08-03
+2463,Nigeria,2024-05-09
+2464,Marshall Islands,2024-11-04
+2465,New Zealand,2023-12-13
+2466,Palau,2023-12-17
+2467,Angola,2024-10-13
+2468,Andorra,2024-06-11
+2469,Barbados,2024-04-19
+2470,Estonia,2024-05-26
+2471,Lebanon,2023-04-08
+2472,United States of America,2023-11-22
+2473,Liberia,2024-07-27
+2474,Serbia,2023-02-13
+2475,Saint Helena,2024-01-02
+2476,Monaco,2024-11-11
+2477,Central African Republic,2024-11-04
+2478,France,2024-04-01
+2479,United States Virgin Islands,2024-12-19
+2480,Lithuania,2023-11-25
+2481,Lithuania,2024-11-07
+2482,Mozambique,2023-11-06
+2483,Belgium,2024-10-26
+2484,Cuba,2024-11-15
+2485,Mauritius,2024-11-22
+2486,Guyana,2024-07-22
+2487,Brunei Darussalam,2024-09-03
+2488,Saint Barthelemy,2024-03-09
+2489,Thailand,2024-06-26
+2490,Switzerland,2024-04-27
+2491,Moldova,2023-03-30
+2492,Malawi,2024-07-21
+2493,Wallis and Futuna,2023-04-16
+2494,Fiji,2024-11-20
+2495,Korea,2023-06-25
+2496,Serbia,2023-10-15
+2497,Qatar,2023-05-17
+2498,Venezuela,2023-01-16
+2499,Gabon,2023-04-27
+2500,North Macedonia,2023-04-01
+2501,Tanzania,2024-01-30
+2502,Palau,2023-06-20
+2503,Tanzania,2023-08-24
+2504,Taiwan,2024-11-01
+2505,Vanuatu,2024-05-14
+2506,Saudi Arabia,2023-12-09
+2507,Niger,2024-12-05
+2508,British Virgin Islands,2023-04-05
+2509,Liberia,2023-01-18
+2510,Singapore,2023-05-26
+2511,Hungary,2023-02-26
+2512,Slovenia,2023-10-10
+2513,Guinea,2023-04-21
+2514,Samoa,2023-01-29
+2515,Cuba,2023-07-25
+2516,Zambia,2023-06-14
+2517,Mauritania,2023-11-29
+2518,Australia,2024-08-01
+2519,Finland,2024-03-11
+2520,Cote d'Ivoire,2024-10-14
+2521,Taiwan,2023-01-02
+2522,Tonga,2023-06-28
+2523,Ghana,2023-11-21
+2524,Bolivia,2024-08-10
+2525,Zimbabwe,2023-01-13
+2526,Argentina,2024-05-14
+2527,Cayman Islands,2024-06-12
+2528,United States Virgin Islands,2023-12-26
+2529,Ireland,2023-05-21
+2530,Mexico,2023-04-11
+2531,Cayman Islands,2024-06-14
+2532,France,2024-02-10
+2533,Sweden,2024-08-25
+2534,Cape Verde,2024-03-06
+2535,Canada,2024-04-04
+2536,San Marino,2024-01-22
+2537,Canada,2023-11-26
+2538,Yemen,2024-10-29
+2539,Western Sahara,2023-03-26
+2540,Jordan,2023-04-01
+2541,Palau,2023-01-17
+2542,Denmark,2022-12-24
+2543,Sudan,2024-07-11
+2544,Guadeloupe,2024-08-20
+2545,Heard Island and McDonald Islands,2024-06-17
+2546,Isle of Man,2024-12-08
+2547,Bolivia,2023-07-04
+2548,Moldova,2023-01-16
+2549,Ghana,2024-06-24
+2550,Italy,2023-08-02
+2551,Guinea,2024-05-17
+2552,Burundi,2024-02-05
+2553,Romania,2024-08-28
+2554,Togo,2024-07-04
+2555,Monaco,2024-07-21
+2556,Somalia,2024-10-25
+2557,Estonia,2024-06-30
+2558,Somalia,2023-10-10
+2559,Martinique,2024-02-27
+2560,Lithuania,2024-09-18
+2561,Lithuania,2023-08-20
+2562,Burundi,2024-04-07
+2563,Uganda,2024-03-06
+2564,Dominican Republic,2023-07-31
+2565,Tokelau,2023-02-21
+2566,Kiribati,2024-06-23
+2567,Maldives,2024-03-07
+2568,Norway,2024-11-11
+2569,Gibraltar,2023-06-08
+2570,Slovenia,2024-04-27
+2571,Belgium,2024-03-24
+2572,Guernsey,2024-02-13
+2573,Vietnam,2024-04-23
+2574,Solomon Islands,2023-06-26
+2575,Slovakia (Slovak Republic),2023-07-15
+2576,Northern Mariana Islands,2024-04-13
+2577,Chile,2023-02-19
+2578,Saint Kitts and Nevis,2023-02-06
+2579,Niue,2023-11-21
+2580,Saint Pierre and Miquelon,2024-08-03
+2581,Martinique,2023-11-16
+2582,Burundi,2024-06-06
+2583,Montserrat,2023-01-25
+2584,Nicaragua,2024-08-25
+2585,Nauru,2023-03-16
+2586,Seychelles,2024-04-18
+2587,Brazil,2024-06-08
+2588,Tanzania,2023-08-23
+2589,Suriname,2023-10-29
+2590,Czech Republic,2024-07-11
+2591,Uganda,2024-05-09
+2592,Saint Kitts and Nevis,2023-11-25
+2593,Kiribati,2023-10-11
+2594,United Arab Emirates,2024-09-08
+2595,Philippines,2023-09-16
+2596,Belgium,2024-04-06
+2597,Jamaica,2024-06-06
+2598,Oman,2024-01-25
+2599,Malta,2023-07-26
+2600,Zambia,2024-03-27
+2601,Kyrgyz Republic,2023-02-28
+2602,Martinique,2024-01-22
+2603,Chile,2023-02-25
+2604,Palau,2023-03-05
+2605,Spain,2024-01-21
+2606,Mozambique,2024-12-08
+2607,Tajikistan,2023-12-16
+2608,Dominican Republic,2023-01-28
+2609,Antigua and Barbuda,2023-02-20
+2610,Bulgaria,2023-08-27
+2611,Holy See (Vatican City State),2023-10-17
+2612,Mexico,2024-05-27
+2613,French Southern Territories,2023-01-04
+2614,New Caledonia,2024-07-22
+2615,Guyana,2024-10-29
+2616,Guinea,2023-12-21
+2617,Egypt,2022-12-25
+2618,Afghanistan,2024-05-25
+2619,Argentina,2024-05-24
+2620,Romania,2023-07-29
+2621,Tanzania,2023-10-04
+2622,Bahamas,2023-11-28
+2623,American Samoa,2024-05-21
+2624,French Southern Territories,2023-09-23
+2625,Iran,2023-05-27
+2626,Malawi,2024-07-30
+2627,Hungary,2024-09-07
+2628,Senegal,2023-05-15
+2629,Oman,2024-05-22
+2630,Belize,2023-04-25
+2631,Turkey,2023-04-09
+2632,Congo,2024-07-08
+2633,Chile,2023-02-26
+2634,Micronesia,2024-08-27
+2635,Burundi,2024-04-17
+2636,Palau,2024-08-04
+2637,Montenegro,2023-07-26
+2638,Chad,2024-08-24
+2639,Senegal,2022-12-26
+2640,Dominica,2023-05-12
+2641,Greenland,2023-03-07
+2642,Bhutan,2023-08-11
+2643,Somalia,2023-01-04
+2644,Mauritania,2024-12-16
+2645,Honduras,2023-07-22
+2646,Mongolia,2024-11-02
+2647,Portugal,2023-10-24
+2648,Romania,2023-11-25
+2649,Benin,2024-11-27
+2650,Kazakhstan,2024-03-23
+2651,Solomon Islands,2023-03-27
+2652,Cayman Islands,2024-05-09
+2653,Canada,2023-10-08
+2654,Switzerland,2024-07-28
+2655,United States of America,2023-10-03
+2656,Hong Kong,2024-01-10
+2657,Slovenia,2023-08-19
+2658,Belarus,2024-04-01
+2659,Mongolia,2024-02-12
+2660,Saint Kitts and Nevis,2023-03-09
+2661,Anguilla,2023-06-17
+2662,Albania,2024-09-01
+2663,Bermuda,2024-01-15
+2664,Monaco,2023-03-12
+2665,Ghana,2024-08-27
+2666,Azerbaijan,2024-05-13
+2667,Saint Barthelemy,2024-04-03
+2668,Heard Island and McDonald Islands,2023-06-01
+2669,Austria,2024-05-10
+2670,Malawi,2023-09-19
+2671,Kyrgyz Republic,2023-05-22
+2672,South Georgia and the South Sandwich Islands,2024-02-10
+2673,Bouvet Island (Bouvetoya),2023-12-15
+2674,China,2023-10-15
+2675,Ghana,2024-06-04
+2676,Isle of Man,2023-11-27
+2677,Togo,2024-09-02
+2678,Wallis and Futuna,2023-09-21
+2679,Bahamas,2024-12-17
+2680,Maldives,2024-08-27
+2681,United States Virgin Islands,2023-12-02
+2682,Netherlands Antilles,2023-05-21
+2683,Sudan,2023-09-15
+2684,Puerto Rico,2024-11-03
+2685,Burkina Faso,2023-08-19
+2686,Algeria,2023-08-16
+2687,Monaco,2023-02-23
+2688,Bahamas,2023-12-10
+2689,Wallis and Futuna,2024-07-02
+2690,Mozambique,2024-01-17
+2691,Denmark,2022-12-25
+2692,Timor-Leste,2023-09-09
+2693,Pitcairn Islands,2024-11-22
+2694,Haiti,2024-02-26
+2695,Tunisia,2024-04-22
+2696,Western Sahara,2023-01-28
+2697,Svalbard & Jan Mayen Islands,2023-07-12
+2698,Heard Island and McDonald Islands,2023-05-04
+2699,Botswana,2023-11-30
+2700,Argentina,2023-03-31
+2701,Palau,2024-05-14
+2702,Venezuela,2024-06-25
+2703,Uzbekistan,2023-10-01
+2704,Tuvalu,2024-03-12
+2705,Somalia,2024-09-01
+2706,Tonga,2023-07-04
+2707,Australia,2023-09-21
+2708,United States Virgin Islands,2023-05-27
+2709,Heard Island and McDonald Islands,2024-05-10
+2710,Ecuador,2024-02-25
+2711,Falkland Islands (Malvinas),2024-04-06
+2712,Kuwait,2024-03-21
+2713,Bouvet Island (Bouvetoya),2024-03-26
+2714,Lesotho,2024-03-26
+2715,Kuwait,2023-04-02
+2716,Jersey,2023-08-04
+2717,Bahamas,2024-06-21
+2718,Iran,2024-04-18
+2719,Cyprus,2023-01-19
+2720,Algeria,2024-08-30
+2721,Spain,2024-12-22
+2722,Venezuela,2024-04-05
+2723,Malta,2023-08-19
+2724,Guadeloupe,2024-12-22
+2725,Hong Kong,2023-09-24
+2726,Greece,2024-04-22
+2727,Monaco,2023-01-06
+2728,Myanmar,2024-08-30
+2729,Swaziland,2023-02-26
+2730,Maldives,2023-04-18
+2731,Bosnia and Herzegovina,2024-05-31
+2732,Mexico,2024-04-11
+2733,Bangladesh,2024-07-06
+2734,Guyana,2024-11-03
+2735,Namibia,2023-08-26
+2736,Guam,2023-03-21
+2737,Lesotho,2024-04-01
+2738,Equatorial Guinea,2024-10-05
+2739,Colombia,2023-02-11
+2740,Saudi Arabia,2024-11-06
+2741,Northern Mariana Islands,2024-02-22
+2742,Poland,2023-12-15
+2743,Faroe Islands,2024-06-18
+2744,Tunisia,2023-04-01
+2745,Bolivia,2023-12-30
+2746,Aruba,2023-01-14
+2747,Yemen,2023-01-17
+2748,Rwanda,2023-07-03
+2749,Somalia,2023-01-26
+2750,Cyprus,2024-07-14
+2751,Botswana,2023-05-24
+2752,Guyana,2023-03-03
+2753,Tonga,2024-06-18
+2754,Angola,2023-09-20
+2755,French Guiana,2024-01-02
+2756,Guinea-Bissau,2023-11-02
+2757,Netherlands Antilles,2023-06-13
+2758,Romania,2024-04-15
+2759,Congo,2023-04-26
+2760,Marshall Islands,2023-02-03
+2761,Togo,2024-12-10
+2762,Tunisia,2023-05-19
+2763,Vietnam,2024-04-02
+2764,Madagascar,2024-07-24
+2765,Oman,2023-08-04
+2766,Bahrain,2023-04-20
+2767,Honduras,2024-08-06
+2768,Malaysia,2024-08-20
+2769,Guam,2024-12-12
+2770,Saudi Arabia,2024-08-20
+2771,Western Sahara,2024-04-01
+2772,Anguilla,2023-11-18
+2773,Congo,2024-04-14
+2774,South Georgia and the South Sandwich Islands,2023-03-16
+2775,Tajikistan,2024-07-16
+2776,Angola,2023-04-12
+2777,Wallis and Futuna,2024-07-17
+2778,Djibouti,2024-07-04
+2779,Nicaragua,2024-07-16
+2780,Congo,2024-03-31
+2781,Malaysia,2024-08-17
+2782,Romania,2023-02-12
+2783,Tanzania,2023-08-11
+2784,Antigua and Barbuda,2023-02-16
+2785,Mauritius,2024-05-28
+2786,Croatia,2023-08-13
+2787,Central African Republic,2024-01-06
+2788,Pakistan,2024-05-10
+2789,Monaco,2023-07-09
+2790,Micronesia,2024-02-06
+2791,Austria,2024-11-10
+2792,Anguilla,2023-06-23
+2793,Russian Federation,2023-11-28
+2794,Puerto Rico,2023-04-06
+2795,Croatia,2023-01-25
+2796,Burkina Faso,2024-04-22
+2797,Mozambique,2024-03-19
+2798,Saint Lucia,2023-06-03
+2799,Togo,2023-05-09
+2800,Taiwan,2023-09-27
+2801,Rwanda,2023-06-09
+2802,Germany,2023-05-01
+2803,Bolivia,2024-11-05
+2804,Fiji,2023-09-07
+2805,Heard Island and McDonald Islands,2023-08-27
+2806,Somalia,2024-04-25
+2807,Korea,2023-12-16
+2808,South Africa,2022-12-24
+2809,British Virgin Islands,2024-03-17
+2810,Fiji,2024-06-17
+2811,Ireland,2023-12-05
+2812,Dominican Republic,2023-03-08
+2813,British Indian Ocean Territory (Chagos Archipelago),2023-03-21
+2814,South Africa,2023-05-26
+2815,Wallis and Futuna,2023-01-13
+2816,Nauru,2024-11-24
+2817,Brunei Darussalam,2024-11-17
+2818,Marshall Islands,2023-05-18
+2819,Jordan,2024-10-14
+2820,Armenia,2023-05-30
+2821,Sri Lanka,2024-05-19
+2822,Guatemala,2024-10-07
+2823,Mali,2024-02-23
+2824,Isle of Man,2023-09-07
+2825,Japan,2024-11-11
+2826,Saint Barthelemy,2024-07-26
+2827,Senegal,2023-01-05
+2828,Slovenia,2024-11-01
+2829,Palau,2023-08-28
+2830,Honduras,2024-08-08
+2831,Armenia,2023-06-15
+2832,Australia,2024-12-16
+2833,Slovenia,2024-06-01
+2834,Belarus,2023-08-19
+2835,Cocos (Keeling) Islands,2023-08-03
+2836,Mexico,2024-11-02
+2837,French Southern Territories,2023-09-20
+2838,Cyprus,2023-10-01
+2839,Martinique,2024-08-08
+2840,Anguilla,2024-06-05
+2841,New Zealand,2023-09-17
+2842,Lithuania,2023-11-20
+2843,Cuba,2023-12-12
+2844,Guatemala,2023-01-22
+2845,Heard Island and McDonald Islands,2023-05-01
+2846,Albania,2023-12-17
+2847,United Kingdom,2023-09-13
+2848,Lebanon,2023-04-15
+2849,Cook Islands,2024-11-29
+2850,Bosnia and Herzegovina,2023-08-19
+2851,Burundi,2023-06-05
+2852,Luxembourg,2023-09-28
+2853,Cayman Islands,2024-04-19
+2854,Equatorial Guinea,2023-09-13
+2855,Bouvet Island (Bouvetoya),2023-11-06
+2856,Anguilla,2023-07-28
+2857,Aruba,2023-05-04
+2858,Djibouti,2023-02-12
+2859,Senegal,2023-04-18
+2860,Mauritania,2024-09-15
+2861,Slovakia (Slovak Republic),2023-05-21
+2862,Tajikistan,2023-07-22
+2863,Equatorial Guinea,2024-01-19
+2864,Serbia,2024-07-25
+2865,Equatorial Guinea,2024-12-08
+2866,Sierra Leone,2024-04-22
+2867,Romania,2022-12-31
+2868,Niger,2024-07-13
+2869,United States Virgin Islands,2024-04-11
+2870,United Arab Emirates,2023-04-16
+2871,Guyana,2024-09-22
+2872,Niger,2024-11-02
+2873,Vietnam,2024-11-23
+2874,Philippines,2024-03-31
+2875,South Africa,2023-01-25
+2876,Faroe Islands,2024-08-14
+2877,Armenia,2022-12-26
+2878,British Indian Ocean Territory (Chagos Archipelago),2023-03-27
+2879,Poland,2024-12-14
+2880,Georgia,2023-03-24
+2881,Aruba,2024-06-01
+2882,Serbia,2024-01-25
+2883,Lithuania,2024-10-20
+2884,United Kingdom,2024-10-10
+2885,Liechtenstein,2024-05-05
+2886,Kiribati,2024-01-12
+2887,Montserrat,2023-01-10
+2888,Togo,2024-03-02
+2889,Nauru,2023-05-30
+2890,Moldova,2024-01-31
+2891,United Kingdom,2024-12-20
+2892,Northern Mariana Islands,2024-03-24
+2893,Maldives,2024-02-13
+2894,Malaysia,2023-04-02
+2895,New Caledonia,2023-11-29
+2896,Congo,2023-09-17
+2897,Barbados,2023-10-27
+2898,Ukraine,2024-01-29
+2899,Northern Mariana Islands,2024-09-18
+2900,Greenland,2024-02-16
+2901,Netherlands,2024-04-28
+2902,Hungary,2023-02-06
+2903,Grenada,2024-09-22
+2904,Iraq,2024-08-23
+2905,Slovakia (Slovak Republic),2023-03-14
+2906,Taiwan,2024-01-21
+2907,Guyana,2023-06-28
+2908,Bolivia,2024-08-11
+2909,Sweden,2024-03-21
+2910,Guyana,2024-04-06
+2911,Belarus,2023-02-23
+2912,Kyrgyz Republic,2024-08-13
+2913,Maldives,2024-04-26
+2914,Mali,2023-08-20
+2915,Australia,2024-06-16
+2916,Papua New Guinea,2024-09-02
+2917,Aruba,2023-01-21
+2918,French Southern Territories,2023-06-21
+2919,El Salvador,2023-06-02
+2920,Uzbekistan,2023-05-17
+2921,Anguilla,2023-12-09
+2922,San Marino,2023-02-14
+2923,Nauru,2024-09-27
+2924,Slovakia (Slovak Republic),2024-03-26
+2925,Saint Kitts and Nevis,2024-03-04
+2926,Somalia,2024-04-24
+2927,Czech Republic,2024-12-07
+2928,Russian Federation,2024-10-02
+2929,Antarctica (the territory South of 60 deg S),2024-03-31
+2930,Togo,2023-07-01
+2931,Botswana,2024-06-26
+2932,Turks and Caicos Islands,2024-10-06
+2933,Turkey,2023-05-03
+2934,Somalia,2023-07-17
+2935,Cambodia,2023-06-06
+2936,Cape Verde,2024-05-29
+2937,Singapore,2023-08-15
+2938,Guatemala,2023-06-07
+2939,Tonga,2024-11-11
+2940,Lebanon,2023-03-16
+2941,New Caledonia,2024-05-20
+2942,Armenia,2024-02-08
+2943,Israel,2023-01-18
+2944,Antarctica (the territory South of 60 deg S),2024-11-08
+2945,Micronesia,2023-08-14
+2946,Luxembourg,2024-02-03
+2947,Egypt,2024-12-16
+2948,Mali,2023-10-26
+2949,Niue,2024-04-28
+2950,Tokelau,2024-10-07
+2951,Bahrain,2023-06-21
+2952,Puerto Rico,2024-08-28
+2953,Paraguay,2024-08-29
+2954,Bahrain,2024-02-19
+2955,Pitcairn Islands,2023-06-24
+2956,Afghanistan,2023-05-16
+2957,Romania,2024-07-01
+2958,British Indian Ocean Territory (Chagos Archipelago),2024-10-26
+2959,Bhutan,2024-10-26
+2960,Croatia,2024-07-25
+2961,Falkland Islands (Malvinas),2024-09-14
+2962,Norfolk Island,2023-11-06
+2963,Ecuador,2023-05-05
+2964,Christmas Island,2024-09-21
+2965,Uzbekistan,2023-02-02
+2966,Paraguay,2023-10-11
+2967,Bermuda,2024-04-15
+2968,Serbia,2023-08-04
+2969,Nicaragua,2023-02-05
+2970,Western Sahara,2023-05-24
+2971,Equatorial Guinea,2023-06-01
+2972,Albania,2023-03-07
+2973,China,2023-09-14
+2974,Lao People's Democratic Republic,2024-10-16
+2975,Tonga,2023-09-27
+2976,Bulgaria,2024-01-09
+2977,Montserrat,2023-06-11
+2978,Liechtenstein,2023-03-22
+2979,Burkina Faso,2023-06-24
+2980,Georgia,2024-07-13
+2981,Eritrea,2024-10-23
+2982,Benin,2024-01-15
+2983,Togo,2023-02-18
+2984,Bangladesh,2024-11-25
+2985,Syrian Arab Republic,2023-04-02
+2986,Liberia,2023-04-22
+2987,Israel,2024-06-26
+2988,Saint Kitts and Nevis,2023-03-26
+2989,Macao,2024-11-10
+2990,Svalbard & Jan Mayen Islands,2023-04-23
+2991,Germany,2024-02-21
+2992,Marshall Islands,2024-11-17
+2993,Northern Mariana Islands,2023-11-01
+2994,Antarctica (the territory South of 60 deg S),2024-08-31
+2995,Eritrea,2024-02-02
+2996,Ethiopia,2023-05-05
+2997,El Salvador,2024-01-16
+2998,Lithuania,2024-12-06
+2999,Turkmenistan,2023-08-10
+3000,Puerto Rico,2023-01-25
+3001,Ethiopia,2024-08-23
+3002,Cuba,2023-08-05
+3003,Burundi,2023-01-22
+3004,Gibraltar,2024-08-13
+3005,Barbados,2023-04-14
+3006,Costa Rica,2024-06-14
+3007,Venezuela,2023-05-21
+3008,Congo,2023-07-23
+3009,Mayotte,2023-11-02
+3010,Armenia,2024-07-02
+3011,Nauru,2023-02-21
+3012,Cambodia,2024-08-20
+3013,Turkey,2024-11-16
+3014,Rwanda,2024-07-08
+3015,Azerbaijan,2023-02-17
+3016,Malawi,2023-07-02
+3017,Burkina Faso,2024-05-25
+3018,Senegal,2023-05-17
+3019,Suriname,2022-12-26
+3020,Botswana,2024-11-14
+3021,Cameroon,2023-10-30
+3022,Bangladesh,2023-11-21
+3023,Monaco,2024-04-15
+3024,Svalbard & Jan Mayen Islands,2023-12-25
+3025,Guernsey,2024-05-31
+3026,Lebanon,2024-09-11
+3027,Netherlands,2023-07-19
+3028,Italy,2023-05-28
+3029,Liberia,2023-09-26
+3030,Ethiopia,2023-03-29
+3031,Malawi,2024-02-20
+3032,Tokelau,2024-08-17
+3033,Cape Verde,2024-12-04
+3034,Netherlands Antilles,2024-09-04
+3035,Guadeloupe,2024-06-28
+3036,Sierra Leone,2023-03-06
+3037,Israel,2024-03-18
+3038,Andorra,2024-10-13
+3039,Turkmenistan,2024-05-16
+3040,Gabon,2023-02-25
+3041,Indonesia,2024-09-06
+3042,Jersey,2024-07-21
+3043,Angola,2024-02-09
+3044,Nigeria,2023-05-30
+3045,Swaziland,2024-06-29
+3046,Seychelles,2023-10-04
+3047,Belgium,2023-12-30
+3048,Morocco,2024-07-09
+3049,Antigua and Barbuda,2024-02-02
+3050,Solomon Islands,2024-03-03
+3051,New Zealand,2023-03-14
+3052,United States Virgin Islands,2024-10-04
+3053,France,2024-01-05
+3054,North Macedonia,2023-12-02
+3055,Senegal,2024-04-12
+3056,Liechtenstein,2024-05-29
+3057,Luxembourg,2024-06-30
+3058,Bhutan,2023-07-09
+3059,Anguilla,2023-08-25
+3060,Guinea-Bissau,2023-03-03
+3061,Uganda,2024-07-17
+3062,Turkmenistan,2024-08-13
+3063,Denmark,2023-05-26
+3064,Greece,2023-01-20
+3065,American Samoa,2024-09-01
+3066,Tonga,2023-02-18
+3067,Sri Lanka,2024-08-28
+3068,Congo,2024-02-01
+3069,Benin,2023-03-06
+3070,North Macedonia,2023-03-06
+3071,Panama,2023-08-02
+3072,Turkmenistan,2023-10-08
+3073,Ethiopia,2024-12-01
+3074,Lebanon,2024-12-16
+3075,Eritrea,2024-02-06
+3076,Pitcairn Islands,2023-12-15
+3077,Serbia,2024-11-26
+3078,Ireland,2024-03-21
+3079,Myanmar,2023-11-24
+3080,Rwanda,2023-10-10
+3081,Zambia,2023-08-01
+3082,Czech Republic,2023-03-22
+3083,Mali,2023-05-12
+3084,Ukraine,2023-01-24
+3085,San Marino,2023-11-21
+3086,Saudi Arabia,2024-01-25
+3087,Dominican Republic,2024-11-01
+3088,Cuba,2024-08-20
+3089,Congo,2024-05-17
+3090,Barbados,2023-06-05
+3091,Czech Republic,2024-01-07
+3092,Oman,2024-03-11
+3093,United States Minor Outlying Islands,2024-10-27
+3094,Tunisia,2024-10-14
+3095,Greenland,2024-03-15
+3096,Faroe Islands,2024-03-26
+3097,Guatemala,2023-07-18
+3098,Iran,2024-07-19
+3099,Kenya,2023-01-02
+3100,Guatemala,2023-08-19
+3101,Lao People's Democratic Republic,2024-06-27
+3102,Bermuda,2023-02-04
+3103,Tonga,2023-04-04
+3104,Palestinian Territory,2023-10-17
+3105,Lao People's Democratic Republic,2023-05-05
+3106,Jersey,2023-07-20
+3107,British Virgin Islands,2024-06-25
+3108,Iraq,2024-07-19
+3109,Isle of Man,2024-09-14
+3110,Ecuador,2023-10-08
+3111,Mauritania,2023-01-01
+3112,Saint Lucia,2023-02-26
+3113,Saint Pierre and Miquelon,2024-11-03
+3114,Malta,2023-03-24
+3115,Dominica,2023-08-11
+3116,Dominica,2024-04-20
+3117,Algeria,2023-02-17
+3118,Bosnia and Herzegovina,2023-03-27
+3119,Barbados,2023-03-09
+3120,Bouvet Island (Bouvetoya),2024-10-19
+3121,Luxembourg,2024-08-08
+3122,Lesotho,2023-12-04
+3123,Papua New Guinea,2023-02-04
+3124,Cyprus,2023-07-20
+3125,Fiji,2023-01-30
+3126,Peru,2023-05-12
+3127,Estonia,2024-05-01
+3128,Ireland,2024-09-05
+3129,Seychelles,2024-08-16
+3130,Sierra Leone,2024-02-01
+3131,Sierra Leone,2023-09-18
+3132,Sierra Leone,2024-12-12
+3133,Poland,2024-08-04
+3134,Suriname,2024-08-17
+3135,Nicaragua,2024-04-16
+3136,Bangladesh,2024-04-26
+3137,Nicaragua,2024-09-04
+3138,Czech Republic,2023-03-11
+3139,Burundi,2024-11-03
+3140,Chad,2024-09-26
+3141,Jordan,2024-09-05
+3142,Cyprus,2024-02-06
+3143,Mauritius,2023-03-09
+3144,Slovenia,2023-05-07
+3145,Sudan,2023-12-25
+3146,Madagascar,2024-11-26
+3147,Saudi Arabia,2024-07-20
+3148,Reunion,2024-02-26
+3149,Russian Federation,2023-03-28
+3150,Germany,2023-04-17
+3151,French Guiana,2023-04-06
+3152,Netherlands,2023-08-03
+3153,American Samoa,2024-12-06
+3154,Austria,2024-02-11
+3155,Macao,2023-03-18
+3156,El Salvador,2024-09-01
+3157,American Samoa,2024-01-12
+3158,Gambia,2024-12-20
+3159,Kiribati,2023-11-02
+3160,Cambodia,2023-07-09
+3161,Brunei Darussalam,2024-07-13
+3162,Yemen,2023-11-25
+3163,Mongolia,2023-09-19
+3164,Malaysia,2024-12-06
+3165,Cuba,2023-09-30
+3166,Mayotte,2023-02-18
+3167,Cape Verde,2023-09-12
+3168,Holy See (Vatican City State),2024-01-18
+3169,Libyan Arab Jamahiriya,2023-07-03
+3170,Northern Mariana Islands,2023-11-13
+3171,Falkland Islands (Malvinas),2023-03-24
+3172,Czech Republic,2024-09-15
+3173,United States Minor Outlying Islands,2023-11-12
+3174,Wallis and Futuna,2024-11-27
+3175,Kuwait,2023-02-21
+3176,Guinea,2023-07-12
+3177,Chad,2023-08-22
+3178,Nicaragua,2024-01-12
+3179,Kyrgyz Republic,2024-11-15
+3180,United Arab Emirates,2024-01-13
+3181,Moldova,2024-04-15
+3182,Iran,2023-10-07
+3183,Niger,2023-05-29
+3184,Sao Tome and Principe,2024-08-02
+3185,Aruba,2023-06-17
+3186,Bangladesh,2024-11-12
+3187,Macao,2024-07-30
+3188,Italy,2023-07-01
+3189,Northern Mariana Islands,2024-02-25
+3190,North Macedonia,2023-07-21
+3191,Lao People's Democratic Republic,2023-09-23
+3192,Colombia,2023-12-04
+3193,Israel,2024-11-07
+3194,Yemen,2024-08-01
+3195,Peru,2024-07-06
+3196,Mayotte,2024-10-09
+3197,Angola,2023-12-12
+3198,French Southern Territories,2023-08-18
+3199,Spain,2023-04-07
+3200,Tokelau,2023-06-23
+3201,Belgium,2024-02-16
+3202,Equatorial Guinea,2023-10-05
+3203,Portugal,2023-10-02
+3204,Argentina,2024-02-11
+3205,Reunion,2023-08-15
+3206,China,2023-12-29
+3207,Belarus,2023-11-10
+3208,Czech Republic,2024-01-06
+3209,Spain,2023-01-28
+3210,Iceland,2023-07-14
+3211,Guyana,2023-07-01
+3212,Jamaica,2023-11-29
+3213,Dominica,2023-06-24
+3214,Bosnia and Herzegovina,2024-03-10
+3215,Saint Pierre and Miquelon,2024-08-15
+3216,Senegal,2023-08-14
+3217,Jersey,2024-01-21
+3218,Cook Islands,2024-03-23
+3219,Tuvalu,2023-12-08
+3220,Albania,2023-09-03
+3221,South Georgia and the South Sandwich Islands,2023-07-25
+3222,Indonesia,2024-02-10
+3223,Cuba,2024-01-06
+3224,Tanzania,2023-01-28
+3225,Maldives,2024-09-12
+3226,Holy See (Vatican City State),2024-07-09
+3227,Ethiopia,2024-05-28
+3228,Liechtenstein,2023-12-12
+3229,Aruba,2024-06-08
+3230,Suriname,2024-09-06
+3231,Tajikistan,2024-06-29
+3232,Mayotte,2023-01-01
+3233,Korea,2023-09-08
+3234,Greenland,2023-03-30
+3235,Bouvet Island (Bouvetoya),2023-04-09
+3236,United States of America,2023-02-12
+3237,Yemen,2023-01-28
+3238,Bouvet Island (Bouvetoya),2024-03-06
+3239,Montserrat,2024-11-14
+3240,Swaziland,2023-09-06
+3241,Chad,2023-09-02
+3242,Slovakia (Slovak Republic),2024-10-04
+3243,Zambia,2023-06-01
+3244,Spain,2024-07-06
+3245,Korea,2023-09-13
+3246,Nepal,2023-08-19
+3247,Christmas Island,2024-05-05
+3248,Barbados,2024-06-10
+3249,Puerto Rico,2023-02-25
+3250,Grenada,2024-06-15
+3251,Iran,2023-11-03
+3252,Brazil,2023-03-19
+3253,Svalbard & Jan Mayen Islands,2022-12-25
+3254,Lao People's Democratic Republic,2023-06-11
+3255,Equatorial Guinea,2023-11-07
+3256,Montserrat,2023-07-20
+3257,Swaziland,2024-04-16
+3258,Guinea-Bissau,2023-02-27
+3259,Lao People's Democratic Republic,2023-05-03
+3260,Faroe Islands,2024-12-21
+3261,Vietnam,2023-11-08
+3262,Egypt,2024-09-09
+3263,Czech Republic,2024-12-10
+3264,Holy See (Vatican City State),2023-08-06
+3265,Ecuador,2024-01-16
+3266,Argentina,2023-03-31
+3267,New Zealand,2024-11-12
+3268,United Kingdom,2023-11-18
+3269,Honduras,2023-02-17
+3270,Falkland Islands (Malvinas),2024-09-26
+3271,Iran,2022-12-31
+3272,Lebanon,2024-08-18
+3273,Singapore,2023-04-22
+3274,Lebanon,2023-01-06
+3275,Ghana,2024-08-19
+3276,Bangladesh,2024-01-06
+3277,Argentina,2023-09-27
+3278,Moldova,2023-08-28
+3279,Indonesia,2023-10-13
+3280,Paraguay,2022-12-27
+3281,Timor-Leste,2024-10-22
+3282,Finland,2023-12-23
+3283,Australia,2024-01-11
+3284,Hungary,2024-09-12
+3285,Mauritius,2023-08-22
+3286,Belarus,2023-04-11
+3287,United Kingdom,2024-02-18
+3288,Philippines,2023-06-29
+3289,Norway,2023-11-08
+3290,New Caledonia,2024-10-01
+3291,Cayman Islands,2024-05-30
+3292,Estonia,2024-06-07
+3293,Kazakhstan,2023-07-19
+3294,Tonga,2023-05-16
+3295,Faroe Islands,2024-02-02
+3296,Grenada,2023-08-25
+3297,Sudan,2023-02-10
+3298,Marshall Islands,2024-10-23
+3299,Iran,2023-06-16
+3300,Madagascar,2023-08-06
+3301,Saint Barthelemy,2024-08-04
+3302,Guadeloupe,2023-10-05
+3303,Christmas Island,2023-12-06
+3304,Palau,2024-08-20
+3305,Maldives,2023-11-03
+3306,Greenland,2023-01-17
+3307,Sweden,2024-12-06
+3308,Somalia,2023-09-23
+3309,Papua New Guinea,2023-03-28
+3310,India,2023-03-27
+3311,Angola,2024-05-12
+3312,Morocco,2023-06-19
+3313,Burundi,2023-06-02
+3314,Western Sahara,2023-09-05
+3315,Saint Barthelemy,2024-07-01
+3316,Saint Vincent and the Grenadines,2024-04-29
+3317,American Samoa,2023-11-28
+3318,Papua New Guinea,2023-12-11
+3319,Malawi,2023-01-17
+3320,Pakistan,2023-08-23
+3321,Belarus,2024-02-29
+3322,France,2023-07-24
+3323,Tanzania,2023-10-07
+3324,Saint Pierre and Miquelon,2023-07-06
+3325,Japan,2024-12-09
+3326,Svalbard & Jan Mayen Islands,2023-12-11
+3327,Comoros,2024-12-12
+3328,Antigua and Barbuda,2024-12-15
+3329,Ireland,2024-05-13
+3330,Turkmenistan,2024-09-14
+3331,Croatia,2023-04-21
+3332,Suriname,2024-12-03
+3333,Fiji,2023-09-05
+3334,Mexico,2024-07-24
+3335,Saudi Arabia,2023-09-28
+3336,United Arab Emirates,2023-06-15
+3337,Gambia,2024-12-18
+3338,Solomon Islands,2023-01-03
+3339,Grenada,2024-02-05
+3340,Chile,2024-03-02
+3341,Madagascar,2024-12-10
+3342,Ecuador,2024-03-17
+3343,Chad,2023-01-20
+3344,Brazil,2023-10-06
+3345,Falkland Islands (Malvinas),2024-11-10
+3346,Russian Federation,2023-02-12
+3347,Micronesia,2023-09-17
+3348,Singapore,2024-07-06
+3349,Kuwait,2024-01-11
+3350,Spain,2024-10-01
+3351,Netherlands Antilles,2024-04-30
+3352,Mali,2023-04-29
+3353,China,2023-06-29
+3354,Israel,2023-03-10
+3355,Latvia,2023-05-31
+3356,Djibouti,2022-12-27
+3357,Morocco,2023-02-22
+3358,Honduras,2024-08-25
+3359,Angola,2024-09-07
+3360,Malawi,2023-07-25
+3361,Seychelles,2024-09-15
+3362,Vanuatu,2024-02-20
+3363,Benin,2024-11-07
+3364,Turkmenistan,2023-08-15
+3365,American Samoa,2024-06-15
+3366,Zimbabwe,2024-11-08
+3367,Ukraine,2024-04-21
+3368,Western Sahara,2024-05-16
+3369,Kenya,2024-07-24
+3370,Andorra,2023-09-23
+3371,Colombia,2023-07-29
+3372,United Arab Emirates,2024-08-31
+3373,Saint Helena,2023-12-21
+3374,Dominica,2024-06-26
+3375,Christmas Island,2023-08-05
+3376,Belize,2024-01-01
+3377,Tunisia,2024-03-31
+3378,Taiwan,2023-07-12
+3379,Martinique,2023-10-19
+3380,Mauritania,2023-05-27
+3381,Saint Martin,2024-06-15
+3382,Somalia,2024-07-01
+3383,South Georgia and the South Sandwich Islands,2023-06-13
+3384,Zambia,2024-10-21
+3385,Paraguay,2023-08-26
+3386,Congo,2023-03-26
+3387,India,2023-02-15
+3388,Uganda,2024-06-04
+3389,Guinea,2024-10-09
+3390,Egypt,2024-01-16
+3391,Pakistan,2023-09-24
+3392,Barbados,2023-05-18
+3393,Peru,2024-08-14
+3394,Ghana,2024-05-26
+3395,China,2023-09-01
+3396,Belarus,2024-05-05
+3397,Vietnam,2024-03-20
+3398,Faroe Islands,2024-05-12
+3399,Liberia,2023-03-01
+3400,Central African Republic,2024-04-19
+3401,Netherlands,2023-07-13
+3402,Dominica,2024-03-09
+3403,Turks and Caicos Islands,2023-06-21
+3404,Lithuania,2023-01-28
+3405,Oman,2023-02-17
+3406,Palau,2023-05-15
+3407,Spain,2023-03-24
+3408,Morocco,2023-08-31
+3409,Cook Islands,2024-09-25
+3410,Cameroon,2024-12-21
+3411,Malta,2024-09-16
+3412,Mongolia,2024-05-17
+3413,Poland,2024-12-19
+3414,British Virgin Islands,2023-06-05
+3415,Qatar,2023-02-08
+3416,India,2024-02-22
+3417,Aruba,2024-06-12
+3418,Cote d'Ivoire,2023-03-16
+3419,Fiji,2024-03-21
+3420,Fiji,2024-08-17
+3421,Korea,2024-12-15
+3422,India,2024-03-11
+3423,Tonga,2024-05-13
+3424,Azerbaijan,2023-11-28
+3425,Tajikistan,2024-04-06
+3426,Albania,2023-02-17
+3427,Kenya,2023-02-01
+3428,Algeria,2024-07-21
+3429,Timor-Leste,2023-12-17
+3430,Uganda,2024-01-20
+3431,Turkey,2023-03-20
+3432,Netherlands Antilles,2023-03-29
+3433,Turkmenistan,2024-01-20
+3434,Lesotho,2024-12-15
+3435,Lithuania,2024-07-01
+3436,Sweden,2024-10-21
+3437,American Samoa,2024-06-07
+3438,Malawi,2023-02-04
+3439,Liberia,2023-06-15
+3440,Western Sahara,2024-10-03
+3441,Turkey,2023-02-06
+3442,Spain,2024-09-01
+3443,Luxembourg,2023-04-07
+3444,United Arab Emirates,2024-12-18
+3445,Cuba,2024-06-10
+3446,Andorra,2024-09-05
+3447,Georgia,2023-12-25
+3448,Panama,2023-01-24
+3449,Montenegro,2024-12-15
+3450,Colombia,2023-10-26
+3451,Jamaica,2024-10-09
+3452,Somalia,2024-11-25
+3453,Timor-Leste,2023-10-10
+3454,Liberia,2024-02-19
+3455,Venezuela,2024-06-07
+3456,Holy See (Vatican City State),2024-01-21
+3457,Gibraltar,2024-02-02
+3458,United Kingdom,2024-05-08
+3459,Venezuela,2024-12-20
+3460,Russian Federation,2022-12-27
+3461,Mauritania,2023-03-11
+3462,Trinidad and Tobago,2024-11-05
+3463,Indonesia,2023-03-15
+3464,United States Virgin Islands,2024-07-27
+3465,Greece,2023-05-29
+3466,Netherlands Antilles,2023-05-31
+3467,Israel,2024-12-12
+3468,Bosnia and Herzegovina,2024-03-22
+3469,Austria,2024-02-21
+3470,Barbados,2023-04-23
+3471,Wallis and Futuna,2024-12-17
+3472,Saint Barthelemy,2023-04-07
+3473,Mauritania,2024-01-09
+3474,Saint Pierre and Miquelon,2023-03-16
+3475,Nigeria,2024-10-11
+3476,Palestinian Territory,2024-09-08
+3477,South Africa,2023-05-12
+3478,Morocco,2024-12-14
+3479,Cayman Islands,2023-06-08
+3480,Guyana,2023-07-25
+3481,Nepal,2024-03-21
+3482,Cuba,2023-04-21
+3483,Palestinian Territory,2023-08-16
+3484,Bahrain,2023-01-05
+3485,Antigua and Barbuda,2023-12-18
+3486,Chad,2023-04-10
+3487,Bangladesh,2023-07-14
+3488,Cuba,2023-07-25
+3489,Svalbard & Jan Mayen Islands,2023-03-01
+3490,Reunion,2024-01-06
+3491,Tunisia,2023-09-28
+3492,Gambia,2023-01-04
+3493,Tunisia,2024-07-28
+3494,Finland,2024-10-09
+3495,Northern Mariana Islands,2023-06-19
+3496,Lebanon,2024-02-03
+3497,El Salvador,2024-05-23
+3498,Togo,2024-08-25
+3499,Afghanistan,2023-07-24
+3500,Martinique,2024-06-28
+3501,Swaziland,2023-07-26
+3502,Netherlands Antilles,2024-12-22
+3503,Guinea-Bissau,2023-04-22
+3504,Denmark,2024-06-14
+3505,Peru,2024-02-27
+3506,Belize,2023-11-20
+3507,Mexico,2023-10-16
+3508,Sao Tome and Principe,2023-04-27
+3509,Korea,2024-05-11
+3510,Heard Island and McDonald Islands,2024-07-19
+3511,Montenegro,2023-02-03
+3512,Reunion,2023-02-22
+3513,Marshall Islands,2023-10-13
+3514,Kyrgyz Republic,2024-06-16
+3515,Christmas Island,2023-09-07
+3516,Oman,2024-05-19
+3517,France,2024-04-26
+3518,Egypt,2023-03-13
+3519,Canada,2023-06-02
+3520,Peru,2023-03-09
+3521,Guinea,2024-05-17
+3522,Iceland,2023-07-17
+3523,Mayotte,2023-02-06
+3524,French Polynesia,2024-10-08
+3525,Bulgaria,2023-07-30
+3526,Niue,2024-03-12
+3527,Tanzania,2023-03-24
+3528,Algeria,2023-04-05
+3529,United Kingdom,2024-06-24
+3530,Holy See (Vatican City State),2023-01-19
+3531,Antarctica (the territory South of 60 deg S),2024-01-12
+3532,Swaziland,2023-05-13
+3533,Guadeloupe,2024-10-20
+3534,Reunion,2023-12-17
+3535,Antigua and Barbuda,2024-05-02
+3536,Luxembourg,2023-12-19
+3537,Northern Mariana Islands,2024-12-04
+3538,Falkland Islands (Malvinas),2023-12-04
+3539,Algeria,2023-01-03
+3540,Turkmenistan,2024-05-29
+3541,Swaziland,2023-10-24
+3542,Thailand,2024-11-24
+3543,Saudi Arabia,2023-06-15
+3544,Cayman Islands,2024-04-24
+3545,Fiji,2024-10-28
+3546,Canada,2023-01-01
+3547,Lithuania,2024-08-03
+3548,Tonga,2024-08-19
+3549,Falkland Islands (Malvinas),2024-06-15
+3550,Luxembourg,2024-11-01
+3551,United Kingdom,2024-03-09
+3552,Argentina,2024-08-24
+3553,Latvia,2024-09-24
+3554,Rwanda,2024-08-07
+3555,Saint Helena,2024-04-14
+3556,Saint Barthelemy,2023-09-10
+3557,Armenia,2023-08-12
+3558,Bahamas,2024-04-23
+3559,Gambia,2024-08-22
+3560,Iran,2023-08-30
+3561,Anguilla,2023-08-03
+3562,Kyrgyz Republic,2024-10-16
+3563,Finland,2024-05-13
+3564,Sri Lanka,2023-10-15
+3565,San Marino,2024-06-29
+3566,Western Sahara,2023-06-13
+3567,Antarctica (the territory South of 60 deg S),2023-01-03
+3568,Iran,2024-07-20
+3569,Georgia,2024-08-06
+3570,Bosnia and Herzegovina,2023-03-04
+3571,Sudan,2023-11-10
+3572,Bolivia,2024-10-30
+3573,United States Virgin Islands,2023-03-08
+3574,Malawi,2023-03-16
+3575,Costa Rica,2023-05-23
+3576,Mongolia,2023-09-11
+3577,Mauritania,2023-07-23
+3578,Sao Tome and Principe,2024-03-19
+3579,New Zealand,2023-03-22
+3580,Mexico,2023-07-01
+3581,Gambia,2024-05-26
+3582,Hong Kong,2023-04-13
+3583,Moldova,2024-09-20
+3584,Tokelau,2024-04-14
+3585,Vanuatu,2024-10-21
+3586,Kenya,2024-04-07
+3587,Holy See (Vatican City State),2024-12-08
+3588,Christmas Island,2024-09-25
+3589,Gibraltar,2024-01-25
+3590,Jersey,2024-07-09
+3591,Latvia,2024-04-06
+3592,Hungary,2023-09-11
+3593,Bahamas,2024-06-26
+3594,Solomon Islands,2023-02-04
+3595,Swaziland,2024-10-24
+3596,Liechtenstein,2024-03-28
+3597,Cambodia,2024-03-12
+3598,Slovenia,2024-06-28
+3599,Albania,2024-04-10
+3600,Burkina Faso,2023-10-18
+3601,Marshall Islands,2023-10-09
+3602,Georgia,2023-07-24
+3603,South Africa,2024-05-31
+3604,Congo,2023-06-15
+3605,Saint Vincent and the Grenadines,2024-11-17
+3606,Belize,2024-11-15
+3607,Guinea,2024-01-08
+3608,Faroe Islands,2023-02-13
+3609,Nepal,2024-08-12
+3610,Equatorial Guinea,2024-04-01
+3611,Philippines,2022-12-25
+3612,Iceland,2023-02-28
+3613,Germany,2023-12-25
+3614,Malawi,2023-02-18
+3615,Christmas Island,2023-06-29
+3616,Zambia,2024-01-09
+3617,India,2024-10-19
+3618,Ukraine,2024-02-06
+3619,Belgium,2023-01-09
+3620,Chile,2023-07-27
+3621,Norway,2024-09-02
+3622,Bermuda,2023-03-30
+3623,Bhutan,2024-04-02
+3624,Italy,2023-09-11
+3625,Korea,2024-12-11
+3626,Portugal,2023-06-14
+3627,Antigua and Barbuda,2024-07-25
+3628,Equatorial Guinea,2023-07-14
+3629,Denmark,2024-04-20
+3630,Ecuador,2023-06-30
+3631,Honduras,2024-09-24
+3632,Sierra Leone,2023-01-29
+3633,Italy,2023-10-12
+3634,Cocos (Keeling) Islands,2023-07-25
+3635,British Virgin Islands,2024-01-13
+3636,Russian Federation,2023-06-02
+3637,French Polynesia,2023-01-20
+3638,South Africa,2023-09-24
+3639,Italy,2024-05-03
+3640,Lebanon,2024-08-13
+3641,Bulgaria,2023-02-03
+3642,Timor-Leste,2023-01-05
+3643,British Indian Ocean Territory (Chagos Archipelago),2023-09-07
+3644,Finland,2024-08-15
+3645,Austria,2024-05-18
+3646,Cote d'Ivoire,2023-09-02
+3647,Cape Verde,2024-07-07
+3648,Uruguay,2024-05-12
+3649,Gambia,2024-02-01
+3650,Saint Vincent and the Grenadines,2023-03-09
+3651,Albania,2024-05-07
+3652,Northern Mariana Islands,2024-07-16
+3653,Benin,2024-09-12
+3654,Bangladesh,2024-12-11
+3655,Montserrat,2023-01-29
+3656,Kuwait,2024-09-02
+3657,Lesotho,2024-09-01
+3658,Nepal,2024-04-28
+3659,Norfolk Island,2024-08-28
+3660,Saint Lucia,2024-04-29
+3661,Niue,2024-07-06
+3662,Montserrat,2023-09-20
+3663,Norfolk Island,2023-04-06
+3664,China,2024-07-26
+3665,Saudi Arabia,2023-03-19
+3666,Bhutan,2023-02-02
+3667,Sao Tome and Principe,2023-02-02
+3668,Hong Kong,2024-12-16
+3669,Togo,2024-05-30
+3670,Svalbard & Jan Mayen Islands,2024-12-16
+3671,Belarus,2023-06-17
+3672,Christmas Island,2023-03-15
+3673,Hong Kong,2024-02-04
+3674,Guernsey,2024-03-03
+3675,Chad,2024-10-27
+3676,Mayotte,2024-08-24
+3677,Ghana,2024-09-27
+3678,Germany,2024-05-01
+3679,Moldova,2024-08-07
+3680,Haiti,2023-02-03
+3681,Kyrgyz Republic,2023-10-10
+3682,Lebanon,2024-08-18
+3683,Uzbekistan,2023-10-24
+3684,China,2023-03-29
+3685,Kazakhstan,2024-07-26
+3686,El Salvador,2023-04-07
+3687,Macao,2024-10-02
+3688,New Zealand,2023-03-24
+3689,Mozambique,2023-08-05
+3690,Turks and Caicos Islands,2024-04-09
+3691,Cayman Islands,2023-03-07
+3692,Ghana,2023-12-12
+3693,Bangladesh,2023-09-01
+3694,Congo,2024-03-29
+3695,Bhutan,2024-05-28
+3696,Luxembourg,2023-11-08
+3697,Marshall Islands,2023-07-25
+3698,Saint Vincent and the Grenadines,2023-05-03
+3699,Solomon Islands,2024-04-28
+3700,Wallis and Futuna,2023-11-29
+3701,China,2024-02-22
+3702,Christmas Island,2023-04-12
+3703,Angola,2024-06-22
+3704,India,2023-06-29
+3705,Pitcairn Islands,2023-10-01
+3706,Philippines,2023-09-07
+3707,French Polynesia,2024-10-14
+3708,North Macedonia,2023-09-21
+3709,Gibraltar,2023-02-15
+3710,Svalbard & Jan Mayen Islands,2024-09-10
+3711,Mongolia,2023-10-13
+3712,Suriname,2023-10-16
+3713,Estonia,2024-06-30
+3714,Ghana,2024-04-30
+3715,Djibouti,2024-12-01
+3716,Sudan,2024-11-06
+3717,South Africa,2024-01-28
+3718,Samoa,2024-11-26
+3719,India,2023-04-13
+3720,Angola,2024-10-27
+3721,Niger,2023-07-21
+3722,Antigua and Barbuda,2024-08-04
+3723,Paraguay,2024-06-19
+3724,Namibia,2024-10-07
+3725,Belgium,2024-02-03
+3726,Montserrat,2024-07-12
+3727,Saint Kitts and Nevis,2023-06-12
+3728,Equatorial Guinea,2023-08-11
+3729,Nicaragua,2023-03-21
+3730,Timor-Leste,2023-04-20
+3731,Grenada,2023-07-06
+3732,Germany,2023-09-12
+3733,Honduras,2024-02-21
+3734,Portugal,2023-09-28
+3735,Australia,2024-01-18
+3736,Bahrain,2024-06-14
+3737,Czech Republic,2023-05-24
+3738,Swaziland,2023-07-14
+3739,Burkina Faso,2023-12-01
+3740,Marshall Islands,2024-07-17
+3741,Micronesia,2023-07-05
+3742,Andorra,2024-04-07
+3743,Benin,2024-10-08
+3744,Estonia,2024-08-09
+3745,Lao People's Democratic Republic,2023-09-21
+3746,Montserrat,2024-08-24
+3747,Cameroon,2023-03-20
+3748,Niger,2023-05-14
+3749,Belgium,2024-11-11
+3750,Montserrat,2023-09-04
+3751,Latvia,2023-12-24
+3752,Serbia,2024-04-11
+3753,Lesotho,2024-07-01
+3754,Ecuador,2023-01-06
+3755,Gambia,2024-05-06
+3756,Djibouti,2024-01-17
+3757,Martinique,2024-04-15
+3758,Russian Federation,2024-02-17
+3759,Sri Lanka,2023-04-03
+3760,Estonia,2023-10-22
+3761,Afghanistan,2023-06-03
+3762,Macao,2024-05-31
+3763,Lebanon,2024-07-08
+3764,Korea,2024-04-16
+3765,Suriname,2023-01-09
+3766,New Zealand,2023-02-09
+3767,Sudan,2023-11-11
+3768,Malta,2023-12-07
+3769,Gibraltar,2023-05-10
+3770,American Samoa,2023-05-07
+3771,Guinea-Bissau,2024-05-18
+3772,Namibia,2023-02-10
+3773,Madagascar,2024-04-20
+3774,Venezuela,2024-07-28
+3775,Tanzania,2023-03-22
+3776,Mexico,2024-10-20
+3777,Myanmar,2024-03-02
+3778,Afghanistan,2023-08-28
+3779,Iraq,2023-09-09
+3780,Cambodia,2024-11-17
+3781,Dominica,2024-02-04
+3782,Guinea,2023-08-19
+3783,Haiti,2024-07-29
+3784,Swaziland,2023-01-18
+3785,Mauritania,2024-04-15
+3786,Jamaica,2023-08-03
+3787,Fiji,2024-09-27
+3788,Suriname,2024-06-29
+3789,Heard Island and McDonald Islands,2023-11-07
+3790,Venezuela,2024-09-10
+3791,Turkmenistan,2023-06-19
+3792,Jordan,2022-12-30
+3793,Uruguay,2024-12-20
+3794,Samoa,2023-05-15
+3795,Guadeloupe,2023-04-29
+3796,Pitcairn Islands,2023-12-30
+3797,Christmas Island,2023-11-20
+3798,Lithuania,2024-12-18
+3799,Malawi,2024-08-17
+3800,Chad,2023-08-13
+3801,Puerto Rico,2024-07-29
+3802,Macao,2023-03-29
+3803,Gambia,2023-10-09
+3804,India,2023-11-04
+3805,Italy,2023-03-22
+3806,Senegal,2024-10-16
+3807,Kenya,2023-11-01
+3808,Canada,2024-09-02
+3809,Georgia,2023-07-23
+3810,Greece,2024-10-17
+3811,Dominican Republic,2023-03-02
+3812,Gibraltar,2023-01-20
+3813,Congo,2023-07-20
+3814,French Polynesia,2023-07-28
+3815,Tunisia,2024-03-30
+3816,Lao People's Democratic Republic,2023-05-07
+3817,Nicaragua,2023-02-23
+3818,Philippines,2023-09-18
+3819,Palestinian Territory,2023-04-10
+3820,South Georgia and the South Sandwich Islands,2023-02-16
+3821,Rwanda,2023-03-08
+3822,Svalbard & Jan Mayen Islands,2024-12-15
+3823,Heard Island and McDonald Islands,2024-01-14
+3824,Tunisia,2024-03-23
+3825,Israel,2024-07-15
+3826,United Kingdom,2023-05-06
+3827,Turkey,2023-03-03
+3828,Cook Islands,2023-02-02
+3829,Niue,2024-06-10
+3830,Peru,2024-11-28
+3831,Bulgaria,2023-07-23
+3832,Saint Barthelemy,2023-05-08
+3833,United States Virgin Islands,2024-12-05
+3834,Saint Barthelemy,2024-04-24
+3835,Italy,2023-08-06
+3836,Finland,2024-03-14
+3837,Guadeloupe,2023-07-28
+3838,Uganda,2024-11-07
+3839,Korea,2024-05-07
+3840,Saint Lucia,2024-06-11
+3841,British Indian Ocean Territory (Chagos Archipelago),2024-12-15
+3842,Malawi,2024-05-24
+3843,Northern Mariana Islands,2024-08-26
+3844,Afghanistan,2024-08-11
+3845,Jersey,2024-08-01
+3846,Christmas Island,2023-05-29
+3847,Myanmar,2024-11-04
+3848,Bahrain,2023-05-07
+3849,Kazakhstan,2024-03-03
+3850,Heard Island and McDonald Islands,2023-02-18
+3851,Central African Republic,2023-11-25
+3852,Greece,2023-10-06
+3853,Sri Lanka,2024-09-15
+3854,Cayman Islands,2023-03-03
+3855,Bermuda,2023-10-06
+3856,Falkland Islands (Malvinas),2023-11-05
+3857,Central African Republic,2023-06-13
+3858,Western Sahara,2023-05-08
+3859,Fiji,2024-01-01
+3860,Philippines,2023-06-05
+3861,Thailand,2024-01-16
+3862,Vietnam,2024-02-12
+3863,Korea,2024-11-15
+3864,Germany,2024-05-04
+3865,Puerto Rico,2023-09-12
+3866,Brazil,2024-01-22
+3867,Senegal,2023-03-27
+3868,Canada,2024-06-02
+3869,Uganda,2024-10-17
+3870,South Africa,2023-08-01
+3871,Cook Islands,2023-11-28
+3872,Egypt,2024-10-25
+3873,Tokelau,2023-09-26
+3874,Brazil,2024-10-18
+3875,Nauru,2023-12-07
+3876,Greenland,2023-05-06
+3877,Turks and Caicos Islands,2023-07-07
+3878,Sao Tome and Principe,2024-02-19
+3879,United Arab Emirates,2024-10-16
+3880,United States of America,2023-03-05
+3881,Benin,2024-10-05
+3882,Grenada,2023-04-01
+3883,Egypt,2024-03-09
+3884,Antigua and Barbuda,2024-01-04
+3885,Vanuatu,2023-01-14
+3886,Argentina,2024-02-10
+3887,China,2024-05-04
+3888,Norfolk Island,2023-07-15
+3889,Ukraine,2023-03-27
+3890,British Indian Ocean Territory (Chagos Archipelago),2024-03-11
+3891,Cayman Islands,2024-02-09
+3892,United States Minor Outlying Islands,2023-12-11
+3893,Argentina,2023-01-24
+3894,Norfolk Island,2024-07-09
+3895,Zimbabwe,2024-09-04
+3896,Lebanon,2023-12-21
+3897,Papua New Guinea,2023-08-24
+3898,Gambia,2023-10-15
+3899,Cayman Islands,2023-01-04
+3900,El Salvador,2024-06-11
+3901,Barbados,2024-11-18
+3902,Austria,2024-03-07
+3903,Northern Mariana Islands,2023-08-30
+3904,Iraq,2024-02-18
+3905,Taiwan,2024-06-26
+3906,Martinique,2023-09-12
+3907,Solomon Islands,2023-10-04
+3908,Guinea-Bissau,2024-09-17
+3909,British Indian Ocean Territory (Chagos Archipelago),2023-11-16
+3910,Armenia,2023-11-15
+3911,Tuvalu,2023-10-02
+3912,Namibia,2023-08-14
+3913,Sudan,2023-04-21
+3914,Falkland Islands (Malvinas),2023-01-12
+3915,Pitcairn Islands,2024-05-04
+3916,Germany,2024-09-20
+3917,Cocos (Keeling) Islands,2023-12-10
+3918,Honduras,2024-04-09
+3919,Turkmenistan,2023-11-24
+3920,Armenia,2024-05-27
+3921,Barbados,2023-12-23
+3922,Vietnam,2024-01-30
+3923,Albania,2023-10-16
+3924,Egypt,2024-05-23
+3925,Belgium,2023-10-19
+3926,Iceland,2024-03-18
+3927,Senegal,2023-06-21
+3928,Niger,2024-05-02
+3929,Northern Mariana Islands,2024-02-22
+3930,Jersey,2023-11-09
+3931,Saint Lucia,2023-04-01
+3932,British Virgin Islands,2023-09-06
+3933,Estonia,2023-04-24
+3934,Turkmenistan,2024-10-19
+3935,Tonga,2023-03-03
+3936,Lesotho,2024-11-20
+3937,Senegal,2023-09-04
+3938,Puerto Rico,2023-03-14
+3939,Luxembourg,2024-10-01
+3940,Norway,2023-05-27
+3941,Dominican Republic,2024-11-20
+3942,Central African Republic,2023-07-17
+3943,Latvia,2023-02-07
+3944,Tajikistan,2023-10-02
+3945,Austria,2024-06-01
+3946,Swaziland,2023-12-05
+3947,Greece,2023-12-08
+3948,Ethiopia,2023-02-21
+3949,China,2023-08-31
+3950,Sierra Leone,2023-05-25
+3951,Kenya,2024-01-28
+3952,Kuwait,2023-02-20
+3953,Nauru,2024-04-13
+3954,Mauritania,2023-07-19
+3955,Dominica,2024-11-16
+3956,United States Virgin Islands,2024-07-08
+3957,Wallis and Futuna,2023-04-29
+3958,Djibouti,2023-04-08
+3959,Liberia,2023-03-08
+3960,Lebanon,2023-09-28
+3961,Norway,2023-07-28
+3962,Iran,2024-05-20
+3963,British Virgin Islands,2024-06-29
+3964,Isle of Man,2023-02-26
+3965,Canada,2023-10-25
+3966,Turkey,2024-01-22
+3967,Western Sahara,2024-07-12
+3968,Norway,2024-01-16
+3969,Hong Kong,2024-07-04
+3970,Guadeloupe,2024-11-21
+3971,Brazil,2024-04-19
+3972,Papua New Guinea,2023-03-28
+3973,Romania,2024-07-08
+3974,Cote d'Ivoire,2023-05-12
+3975,Korea,2024-07-23
+3976,Heard Island and McDonald Islands,2024-04-26
+3977,Myanmar,2024-07-30
+3978,Gambia,2023-11-13
+3979,India,2023-03-14
+3980,French Guiana,2023-10-06
+3981,Iraq,2023-10-25
+3982,Venezuela,2023-10-02
+3983,Nicaragua,2023-03-24
+3984,Tunisia,2024-11-27
+3985,Saint Pierre and Miquelon,2023-05-08
+3986,Nepal,2023-03-23
+3987,Djibouti,2024-05-07
+3988,Cambodia,2023-03-19
+3989,Myanmar,2023-10-06
+3990,Estonia,2024-03-26
+3991,Turks and Caicos Islands,2024-09-14
+3992,Romania,2023-01-02
+3993,Hong Kong,2024-07-09
+3994,Morocco,2024-05-13
+3995,Peru,2023-10-19
+3996,Guyana,2024-01-08
+3997,Belarus,2023-02-26
+3998,Macao,2023-01-29
+3999,Latvia,2023-05-31
+4000,Malawi,2024-11-03
+4001,Brazil,2024-11-14
+4002,Guyana,2023-03-09
+4003,Burkina Faso,2023-04-12
+4004,Croatia,2023-02-03
+4005,Guadeloupe,2024-01-06
+4006,Burkina Faso,2023-10-26
+4007,Switzerland,2024-06-26
+4008,Sierra Leone,2024-11-11
+4009,Japan,2023-03-03
+4010,Gabon,2023-02-16
+4011,Saint Kitts and Nevis,2024-02-03
+4012,Guatemala,2023-06-29
+4013,Guyana,2023-02-04
+4014,Lesotho,2024-10-28
+4015,Japan,2023-09-25
+4016,Norway,2024-02-05
+4017,Luxembourg,2023-01-28
+4018,United Arab Emirates,2023-03-22
+4019,Netherlands,2023-10-14
+4020,Yemen,2023-09-15
+4021,Fiji,2024-01-16
+4022,Gambia,2024-02-10
+4023,Cape Verde,2024-09-18
+4024,Cameroon,2023-08-08
+4025,Malaysia,2023-05-08
+4026,Bermuda,2023-08-04
+4027,Azerbaijan,2024-02-07
+4028,South Georgia and the South Sandwich Islands,2024-08-10
+4029,Benin,2024-11-20
+4030,Guadeloupe,2023-09-18
+4031,Venezuela,2024-01-23
+4032,United States Minor Outlying Islands,2024-05-18
+4033,Greece,2023-02-04
+4034,British Indian Ocean Territory (Chagos Archipelago),2024-03-01
+4035,Georgia,2023-03-09
+4036,Latvia,2023-04-16
+4037,South Georgia and the South Sandwich Islands,2024-03-20
+4038,Tajikistan,2023-10-26
+4039,Congo,2023-01-06
+4040,Colombia,2023-06-30
+4041,United Arab Emirates,2024-06-15
+4042,Iceland,2023-10-20
+4043,Zimbabwe,2024-09-07
+4044,Netherlands Antilles,2023-08-09
+4045,Greenland,2023-05-26
+4046,Mali,2024-10-16
+4047,Hungary,2024-03-07
+4048,Ireland,2023-11-14
+4049,Armenia,2024-07-21
+4050,Dominica,2024-09-13
+4051,Luxembourg,2024-01-09
+4052,Cocos (Keeling) Islands,2023-12-28
+4053,Somalia,2023-04-13
+4054,Bolivia,2023-10-30
+4055,New Zealand,2023-02-08
+4056,Kiribati,2024-04-10
+4057,Switzerland,2023-01-09
+4058,Monaco,2023-06-16
+4059,Israel,2023-03-03
+4060,Ghana,2023-10-22
+4061,Monaco,2023-11-15
+4062,Christmas Island,2023-07-31
+4063,Mauritania,2024-05-08
+4064,Belarus,2024-07-21
+4065,French Polynesia,2024-04-17
+4066,Latvia,2023-12-15
+4067,Bermuda,2024-10-06
+4068,Palau,2023-01-02
+4069,United States of America,2024-07-20
+4070,Belize,2024-07-28
+4071,Finland,2023-04-02
+4072,Colombia,2024-02-21
+4073,Cayman Islands,2023-07-06
+4074,Bouvet Island (Bouvetoya),2024-07-31
+4075,Botswana,2024-07-10
+4076,Namibia,2023-12-21
+4077,Serbia,2024-10-22
+4078,Angola,2023-03-22
+4079,Solomon Islands,2024-06-30
+4080,Bhutan,2023-09-22
+4081,Latvia,2024-06-05
+4082,Belize,2024-05-16
+4083,Saint Martin,2023-08-28
+4084,San Marino,2024-04-21
+4085,Belize,2023-10-08
+4086,Thailand,2024-05-03
+4087,Saint Martin,2023-10-16
+4088,Colombia,2023-01-12
+4089,Kyrgyz Republic,2024-12-22
+4090,Guinea-Bissau,2023-03-23
+4091,Paraguay,2024-03-26
+4092,Liberia,2024-02-06
+4093,Zimbabwe,2024-08-04
+4094,Ghana,2024-01-16
+4095,Liechtenstein,2024-08-30
+4096,Mexico,2024-04-16
+4097,Nepal,2024-08-06
+4098,Norfolk Island,2023-02-11
+4099,Sao Tome and Principe,2023-02-03
+4100,Italy,2023-05-30
+4101,Mayotte,2024-03-06
+4102,Algeria,2024-09-17
+4103,Zambia,2024-11-03
+4104,Puerto Rico,2023-03-30
+4105,Lebanon,2023-04-28
+4106,Jersey,2023-01-09
+4107,Tajikistan,2023-06-24
+4108,Botswana,2024-06-23
+4109,Denmark,2023-02-03
+4110,Mongolia,2024-02-27
+4111,Algeria,2023-04-07
+4112,Uruguay,2024-07-31
+4113,United Arab Emirates,2023-04-19
+4114,Seychelles,2024-08-06
+4115,Albania,2023-03-06
+4116,Ethiopia,2024-10-22
+4117,Malta,2024-09-26
+4118,Togo,2023-07-09
+4119,Togo,2024-04-07
+4120,Uganda,2023-01-25
+4121,Pakistan,2023-01-14
+4122,Slovakia (Slovak Republic),2024-04-10
+4123,Sweden,2023-09-09
+4124,Croatia,2023-03-31
+4125,Indonesia,2023-07-29
+4126,Jersey,2023-12-18
+4127,Denmark,2024-11-18
+4128,Pitcairn Islands,2023-02-19
+4129,Saint Pierre and Miquelon,2023-04-26
+4130,Netherlands Antilles,2023-08-29
+4131,Panama,2024-01-31
+4132,Gambia,2023-11-14
+4133,Cote d'Ivoire,2024-05-05
+4134,Latvia,2023-08-06
+4135,Cyprus,2023-02-22
+4136,Sri Lanka,2024-10-27
+4137,United Kingdom,2022-12-25
+4138,Grenada,2024-07-20
+4139,Belgium,2023-10-18
+4140,Moldova,2023-06-08
+4141,Micronesia,2023-09-06
+4142,Cameroon,2024-03-14
+4143,Puerto Rico,2023-05-30
+4144,Costa Rica,2023-05-19
+4145,Gambia,2023-04-20
+4146,Kuwait,2024-03-06
+4147,Niue,2023-03-19
+4148,Comoros,2023-03-07
+4149,Iraq,2024-02-21
+4150,Bangladesh,2023-11-05
+4151,Micronesia,2023-10-03
+4152,Vietnam,2024-10-16
+4153,Zimbabwe,2023-10-16
+4154,Japan,2024-08-06
+4155,Azerbaijan,2024-07-08
+4156,Cayman Islands,2024-09-14
+4157,Timor-Leste,2024-01-11
+4158,Taiwan,2024-03-03
+4159,Northern Mariana Islands,2024-09-14
+4160,Trinidad and Tobago,2023-07-26
+4161,Paraguay,2024-06-10
+4162,Vietnam,2024-02-16
+4163,Morocco,2023-03-01
+4164,Ecuador,2023-08-13
+4165,Cape Verde,2024-04-06
+4166,Azerbaijan,2024-09-27
+4167,Japan,2024-02-03
+4168,Turkmenistan,2024-11-24
+4169,Tunisia,2023-03-15
+4170,Djibouti,2024-11-20
+4171,Dominica,2023-11-20
+4172,Samoa,2024-10-25
+4173,Bangladesh,2024-01-31
+4174,Belgium,2023-07-13
+4175,Kyrgyz Republic,2023-04-02
+4176,French Southern Territories,2024-08-25
+4177,Malta,2024-12-22
+4178,Guam,2023-12-23
+4179,Kyrgyz Republic,2023-12-18
+4180,Switzerland,2024-06-20
+4181,Korea,2023-09-29
+4182,Tonga,2024-04-01
+4183,Guatemala,2023-04-01
+4184,Sao Tome and Principe,2023-12-02
+4185,North Macedonia,2023-10-26
+4186,Bahamas,2022-12-30
+4187,Canada,2023-12-26
+4188,Sweden,2023-04-06
+4189,Latvia,2023-11-25
+4190,Monaco,2023-01-29
+4191,Macao,2023-10-25
+4192,Philippines,2024-02-22
+4193,Bosnia and Herzegovina,2024-11-22
+4194,Mali,2023-11-26
+4195,United Arab Emirates,2024-01-13
+4196,Slovenia,2023-07-29
+4197,Israel,2024-02-06
+4198,Fiji,2024-12-09
+4199,South Georgia and the South Sandwich Islands,2024-07-01
+4200,Saudi Arabia,2023-12-21
+4201,Uruguay,2024-09-07
+4202,Cambodia,2024-06-24
+4203,Northern Mariana Islands,2023-05-04
+4204,Norfolk Island,2023-11-05
+4205,Belgium,2024-09-15
+4206,Reunion,2024-02-18
+4207,Israel,2023-03-30
+4208,Sri Lanka,2024-06-15
+4209,Palestinian Territory,2024-04-08
+4210,Czech Republic,2024-02-05
+4211,Cuba,2024-07-16
+4212,Oman,2024-02-02
+4213,Bulgaria,2023-01-26
+4214,Slovakia (Slovak Republic),2024-11-23
+4215,Cyprus,2024-12-06
+4216,Isle of Man,2023-04-25
+4217,Bosnia and Herzegovina,2023-06-29
+4218,Honduras,2023-02-09
+4219,Equatorial Guinea,2023-11-04
+4220,Netherlands,2024-02-05
+4221,Turks and Caicos Islands,2023-09-25
+4222,Lesotho,2023-01-25
+4223,Belize,2023-07-22
+4224,Bulgaria,2023-12-27
+4225,Kazakhstan,2024-06-02
+4226,Georgia,2024-01-31
+4227,Wallis and Futuna,2024-03-22
+4228,El Salvador,2024-01-05
+4229,Trinidad and Tobago,2024-01-17
+4230,Togo,2024-11-23
+4231,Mauritania,2023-06-19
+4232,Belgium,2023-11-12
+4233,Austria,2023-01-19
+4234,Sweden,2023-10-09
+4235,Hungary,2023-01-20
+4236,Tuvalu,2024-10-06
+4237,Seychelles,2023-02-21
+4238,Tokelau,2024-10-16
+4239,Mayotte,2024-09-02
+4240,Solomon Islands,2023-07-19
+4241,Namibia,2024-05-02
+4242,Japan,2024-03-15
+4243,Korea,2024-06-25
+4244,Ethiopia,2023-09-17
+4245,Saint Vincent and the Grenadines,2023-02-10
+4246,Albania,2023-04-28
+4247,Iraq,2024-02-13
+4248,France,2024-05-16
+4249,Maldives,2023-11-29
+4250,New Caledonia,2024-10-05
+4251,Cameroon,2024-02-22
+4252,Saint Helena,2024-06-08
+4253,Tajikistan,2023-10-21
+4254,Netherlands Antilles,2023-11-24
+4255,Dominican Republic,2024-02-23
+4256,Marshall Islands,2024-04-24
+4257,India,2023-11-17
+4258,Croatia,2024-05-25
+4259,Libyan Arab Jamahiriya,2024-09-22
+4260,Kenya,2023-05-16
+4261,Estonia,2023-08-17
+4262,Solomon Islands,2024-03-17
+4263,Falkland Islands (Malvinas),2023-02-26
+4264,Burkina Faso,2023-02-17
+4265,Grenada,2023-02-22
+4266,Norfolk Island,2023-10-25
+4267,Turks and Caicos Islands,2023-05-09
+4268,Kenya,2024-09-01
+4269,Nigeria,2024-05-25
+4270,Tanzania,2023-04-27
+4271,Tajikistan,2023-08-17
+4272,Somalia,2024-09-18
+4273,New Zealand,2023-06-07
+4274,Bhutan,2023-05-01
+4275,Chad,2023-09-24
+4276,Guinea,2023-11-30
+4277,Gibraltar,2024-08-06
+4278,Timor-Leste,2023-08-05
+4279,Pitcairn Islands,2024-08-20
+4280,Singapore,2023-03-08
+4281,Ukraine,2024-06-13
+4282,British Indian Ocean Territory (Chagos Archipelago),2023-04-18
+4283,Turkmenistan,2023-03-06
+4284,Germany,2023-11-23
+4285,French Polynesia,2023-01-14
+4286,Jamaica,2023-10-23
+4287,Paraguay,2024-07-16
+4288,Solomon Islands,2024-07-13
+4289,Yemen,2023-03-14
+4290,French Southern Territories,2024-04-20
+4291,Northern Mariana Islands,2023-12-31
+4292,Congo,2024-05-19
+4293,Burundi,2023-10-14
+4294,Somalia,2023-11-18
+4295,Ghana,2024-03-22
+4296,Zambia,2024-07-03
+4297,Dominica,2024-10-29
+4298,Lithuania,2024-04-09
+4299,Israel,2023-04-06
+4300,Greenland,2024-06-09
+4301,Macao,2023-05-25
+4302,Burkina Faso,2024-01-21
+4303,Latvia,2024-08-04
+4304,Kyrgyz Republic,2024-02-24
+4305,United States of America,2024-09-09
+4306,Guinea,2023-04-29
+4307,Bahamas,2023-03-15
+4308,United States of America,2024-01-31
+4309,Swaziland,2024-05-30
+4310,United Arab Emirates,2023-08-03
+4311,Argentina,2023-08-17
+4312,Uruguay,2023-12-01
+4313,Afghanistan,2023-11-20
+4314,Panama,2023-11-14
+4315,Lao People's Democratic Republic,2023-08-24
+4316,Ireland,2024-08-27
+4317,Zimbabwe,2024-08-23
+4318,Grenada,2023-01-23
+4319,Rwanda,2023-12-24
+4320,Finland,2024-10-23
+4321,Gambia,2023-08-16
+4322,Slovakia (Slovak Republic),2024-03-20
+4323,Northern Mariana Islands,2024-02-06
+4324,Lao People's Democratic Republic,2023-02-04
+4325,Fiji,2024-02-13
+4326,Macao,2024-02-14
+4327,Kazakhstan,2023-05-20
+4328,Svalbard & Jan Mayen Islands,2024-05-25
+4329,Burkina Faso,2024-09-26
+4330,Liechtenstein,2023-05-11
+4331,Ecuador,2024-08-31
+4332,British Virgin Islands,2024-01-10
+4333,Nigeria,2023-02-03
+4334,Swaziland,2024-10-15
+4335,Spain,2023-03-02
+4336,Croatia,2023-08-11
+4337,Saint Lucia,2023-10-02
+4338,Holy See (Vatican City State),2024-02-16
+4339,Pakistan,2024-02-11
+4340,Lithuania,2024-05-30
+4341,Ethiopia,2023-11-05
+4342,Faroe Islands,2024-04-19
+4343,Italy,2023-08-14
+4344,India,2023-12-03
+4345,Georgia,2022-12-24
+4346,Honduras,2023-02-11
+4347,French Southern Territories,2024-06-29
+4348,Swaziland,2024-07-25
+4349,Guinea,2024-10-20
+4350,Vanuatu,2023-02-26
+4351,New Zealand,2024-06-20
+4352,Mexico,2023-08-18
+4353,Peru,2024-02-14
+4354,United States of America,2023-05-15
+4355,Christmas Island,2024-01-05
+4356,Slovenia,2023-11-04
+4357,Senegal,2024-04-28
+4358,Morocco,2023-02-12
+4359,El Salvador,2024-05-22
+4360,Iran,2023-08-11
+4361,Guadeloupe,2024-01-12
+4362,Tokelau,2024-07-20
+4363,Libyan Arab Jamahiriya,2024-09-05
+4364,Isle of Man,2023-07-24
+4365,Chile,2023-10-05
+4366,New Zealand,2023-11-17
+4367,Gibraltar,2023-02-18
+4368,Bosnia and Herzegovina,2024-07-20
+4369,Germany,2023-06-24
+4370,Azerbaijan,2023-07-31
+4371,Reunion,2023-02-21
+4372,Hungary,2024-12-20
+4373,Micronesia,2024-11-04
+4374,Liechtenstein,2022-12-24
+4375,South Georgia and the South Sandwich Islands,2024-09-20
+4376,Argentina,2023-09-26
+4377,Antarctica (the territory South of 60 deg S),2024-04-17
+4378,North Macedonia,2023-02-12
+4379,Slovakia (Slovak Republic),2023-12-29
+4380,French Guiana,2023-10-25
+4381,Romania,2023-09-18
+4382,Madagascar,2023-12-19
+4383,Armenia,2023-10-03
+4384,Sweden,2023-06-08
+4385,Singapore,2023-05-10
+4386,Jordan,2023-01-21
+4387,Samoa,2024-12-16
+4388,Turkmenistan,2023-04-15
+4389,American Samoa,2023-12-05
+4390,Honduras,2023-08-22
+4391,Estonia,2024-12-06
+4392,Cuba,2024-07-06
+4393,Afghanistan,2023-12-23
+4394,Belgium,2023-07-02
+4395,Cocos (Keeling) Islands,2024-09-22
+4396,Iceland,2024-06-03
+4397,Ireland,2023-12-25
+4398,Belarus,2023-07-28
+4399,United States of America,2024-10-07
+4400,British Indian Ocean Territory (Chagos Archipelago),2023-12-26
+4401,Bulgaria,2023-07-24
+4402,Sri Lanka,2023-12-24
+4403,Eritrea,2023-08-24
+4404,Cambodia,2023-03-04
+4405,Korea,2024-04-29
+4406,South Africa,2023-12-18
+4407,Anguilla,2023-03-02
+4408,Cyprus,2023-06-14
+4409,Comoros,2023-05-11
+4410,United States Minor Outlying Islands,2023-08-26
+4411,Iran,2024-12-11
+4412,Bhutan,2023-05-23
+4413,Jamaica,2024-12-03
+4414,Senegal,2024-11-10
+4415,Palestinian Territory,2023-02-10
+4416,Tunisia,2023-10-27
+4417,Madagascar,2023-01-13
+4418,Philippines,2023-04-07
+4419,Nauru,2024-06-03
+4420,Kazakhstan,2024-08-10
+4421,Belgium,2023-11-23
+4422,Montserrat,2023-10-20
+4423,Libyan Arab Jamahiriya,2023-07-24
+4424,Honduras,2023-10-17
+4425,New Caledonia,2023-03-17
+4426,Mauritania,2023-05-11
+4427,Netherlands,2023-07-15
+4428,Haiti,2023-09-01
+4429,Namibia,2023-01-05
+4430,Seychelles,2023-02-04
+4431,Mauritius,2023-03-07
+4432,Pitcairn Islands,2024-08-13
+4433,Spain,2024-11-28
+4434,Faroe Islands,2024-04-08
+4435,Guinea-Bissau,2024-08-11
+4436,Kyrgyz Republic,2024-05-17
+4437,Pakistan,2024-10-29
+4438,Portugal,2024-04-01
+4439,Niue,2024-07-30
+4440,Liechtenstein,2023-09-27
+4441,Bhutan,2023-05-29
+4442,Gabon,2023-01-09
+4443,Tokelau,2023-03-10
+4444,United Arab Emirates,2024-11-17
+4445,Bulgaria,2024-07-14
+4446,Vanuatu,2023-04-10
+4447,Martinique,2023-05-17
+4448,Bahamas,2024-03-07
+4449,Fiji,2023-05-13
+4450,Singapore,2024-10-21
+4451,Estonia,2024-08-26
+4452,Belgium,2023-11-12
+4453,Guyana,2024-10-22
+4454,Nigeria,2024-12-12
+4455,Seychelles,2024-01-09
+4456,Serbia,2023-12-26
+4457,South Georgia and the South Sandwich Islands,2023-05-20
+4458,Taiwan,2023-04-11
+4459,United States Virgin Islands,2023-02-06
+4460,Hungary,2023-11-28
+4461,Portugal,2023-03-30
+4462,Palau,2024-11-30
+4463,Morocco,2023-06-17
+4464,Vanuatu,2023-08-25
+4465,Slovakia (Slovak Republic),2023-04-21
+4466,Nicaragua,2024-12-21
+4467,Ghana,2023-07-08
+4468,Ukraine,2023-11-24
+4469,Grenada,2023-04-04
+4470,Northern Mariana Islands,2023-05-02
+4471,Greenland,2024-12-03
+4472,Slovakia (Slovak Republic),2024-04-21
+4473,Burkina Faso,2023-04-18
+4474,Serbia,2024-01-13
+4475,Turkmenistan,2023-05-05
+4476,Vanuatu,2023-05-25
+4477,Turkey,2023-01-03
+4478,Panama,2023-06-12
+4479,Liechtenstein,2023-09-03
+4480,Christmas Island,2023-05-09
+4481,Belgium,2024-05-14
+4482,Togo,2023-01-16
+4483,Kuwait,2024-04-16
+4484,Benin,2023-05-20
+4485,Czech Republic,2023-11-09
+4486,United Kingdom,2023-01-12
+4487,Ireland,2024-01-05
+4488,French Southern Territories,2024-10-21
+4489,Togo,2023-05-05
+4490,Libyan Arab Jamahiriya,2024-10-04
+4491,Cambodia,2023-10-27
+4492,Turkmenistan,2023-12-21
+4493,Guinea,2023-06-05
+4494,Vietnam,2024-06-03
+4495,Chile,2024-09-24
+4496,Samoa,2024-07-27
+4497,Wallis and Futuna,2023-12-14
+4498,Niger,2024-01-24
+4499,Poland,2023-04-09
+4500,Equatorial Guinea,2023-02-23
+4501,Kenya,2024-05-11
+4502,Seychelles,2023-10-29
+4503,Singapore,2024-05-09
+4504,British Virgin Islands,2023-02-03
+4505,Turkmenistan,2023-04-28
+4506,Syrian Arab Republic,2024-10-24
+4507,Angola,2023-07-17
+4508,Antarctica (the territory South of 60 deg S),2023-07-31
+4509,Oman,2023-01-17
+4510,Switzerland,2024-01-03
+4511,Senegal,2023-11-24
+4512,Saint Pierre and Miquelon,2024-08-17
+4513,Azerbaijan,2024-10-26
+4514,Burundi,2023-08-31
+4515,Sao Tome and Principe,2023-10-01
+4516,Malta,2024-11-28
+4517,Libyan Arab Jamahiriya,2023-04-27
+4518,Heard Island and McDonald Islands,2024-06-30
+4519,Iraq,2024-04-02
+4520,Chile,2023-01-16
+4521,Aruba,2023-02-11
+4522,Montserrat,2023-10-14
+4523,Samoa,2024-11-27
+4524,Guyana,2023-11-27
+4525,Barbados,2023-12-09
+4526,Montenegro,2023-01-19
+4527,Guam,2023-12-30
+4528,Liechtenstein,2023-08-21
+4529,Malaysia,2023-01-04
+4530,Christmas Island,2023-04-15
+4531,Azerbaijan,2024-07-04
+4532,Barbados,2024-10-21
+4533,Bosnia and Herzegovina,2023-06-11
+4534,Turks and Caicos Islands,2024-01-25
+4535,Pitcairn Islands,2023-08-06
+4536,Western Sahara,2024-04-07
+4537,Saint Barthelemy,2023-02-16
+4538,Spain,2023-10-27
+4539,Antarctica (the territory South of 60 deg S),2023-02-09
+4540,Grenada,2023-06-07
+4541,Comoros,2023-05-17
+4542,Yemen,2023-05-08
+4543,Trinidad and Tobago,2023-01-10
+4544,Comoros,2024-04-26
+4545,Libyan Arab Jamahiriya,2024-03-11
+4546,Peru,2023-09-20
+4547,Morocco,2024-09-24
+4548,Greenland,2024-10-13
+4549,Palestinian Territory,2024-12-19
+4550,Norway,2023-04-13
+4551,Canada,2023-05-31
+4552,Philippines,2024-05-09
+4553,Holy See (Vatican City State),2024-06-20
+4554,Qatar,2024-08-03
+4555,Aruba,2024-03-23
+4556,Tunisia,2023-12-25
+4557,Saint Pierre and Miquelon,2024-07-16
+4558,Congo,2023-07-13
+4559,Luxembourg,2023-11-27
+4560,Mali,2024-08-05
+4561,Wallis and Futuna,2024-08-22
+4562,Poland,2024-05-07
+4563,Georgia,2024-01-04
+4564,Swaziland,2024-11-15
+4565,Bouvet Island (Bouvetoya),2023-08-15
+4566,Croatia,2023-08-21
+4567,Congo,2024-11-18
+4568,Thailand,2024-03-15
+4569,Ethiopia,2024-02-17
+4570,Brunei Darussalam,2023-03-09
+4571,Kenya,2023-04-27
+4572,Botswana,2024-11-21
+4573,Dominican Republic,2024-10-26
+4574,Saint Helena,2024-06-15
+4575,Niger,2023-11-17
+4576,Myanmar,2023-05-03
+4577,Isle of Man,2024-11-15
+4578,Fiji,2024-01-19
+4579,Cook Islands,2023-02-12
+4580,Poland,2023-10-10
+4581,Anguilla,2023-06-12
+4582,South Georgia and the South Sandwich Islands,2024-06-10
+4583,Swaziland,2023-10-03
+4584,Luxembourg,2023-05-13
+4585,Netherlands,2023-02-27
+4586,Palau,2023-05-18
+4587,Heard Island and McDonald Islands,2024-11-04
+4588,Bosnia and Herzegovina,2023-04-17
+4589,Lebanon,2023-08-22
+4590,Tonga,2023-06-05
+4591,Faroe Islands,2024-07-21
+4592,Micronesia,2023-08-05
+4593,Uganda,2023-09-10
+4594,Bermuda,2023-07-30
+4595,Hungary,2023-04-06
+4596,Guinea,2024-04-15
+4597,Christmas Island,2023-06-08
+4598,Sri Lanka,2024-06-29
+4599,United States Minor Outlying Islands,2023-02-02
+4600,Saint Barthelemy,2024-07-23
+4601,Guinea-Bissau,2024-04-08
+4602,Guam,2024-01-24
+4603,Martinique,2024-09-20
+4604,Latvia,2023-05-06
+4605,Malawi,2023-09-04
+4606,Sudan,2024-09-20
+4607,Bhutan,2024-09-05
+4608,Sao Tome and Principe,2023-01-13
+4609,Yemen,2023-08-29
+4610,Cape Verde,2023-01-02
+4611,New Caledonia,2023-03-09
+4612,Spain,2024-06-20
+4613,Mongolia,2024-12-05
+4614,Finland,2024-04-25
+4615,United Kingdom,2024-09-03
+4616,Egypt,2023-04-03
+4617,Luxembourg,2023-04-04
+4618,Guinea,2023-07-27
+4619,Sao Tome and Principe,2023-12-15
+4620,Guam,2023-11-19
+4621,United States Virgin Islands,2024-10-02
+4622,Barbados,2024-04-12
+4623,Iraq,2023-08-25
+4624,Algeria,2024-05-19
+4625,Norfolk Island,2023-10-20
+4626,Bosnia and Herzegovina,2024-02-13
+4627,Isle of Man,2023-05-22
+4628,Saint Vincent and the Grenadines,2023-08-13
+4629,Botswana,2023-07-31
+4630,Namibia,2023-08-25
+4631,United States of America,2023-11-10
+4632,Hong Kong,2024-08-02
+4633,Haiti,2023-09-23
+4634,United Arab Emirates,2023-08-15
+4635,Australia,2024-06-27
+4636,India,2023-01-17
+4637,Faroe Islands,2023-03-28
+4638,Somalia,2023-05-09
+4639,Bolivia,2024-05-28
+4640,Sao Tome and Principe,2024-01-31
+4641,Poland,2024-03-29
+4642,Timor-Leste,2024-05-22
+4643,Albania,2024-01-08
+4644,Rwanda,2024-07-23
+4645,Tonga,2023-09-18
+4646,Italy,2023-09-28
+4647,Ecuador,2024-10-24
+4648,Nigeria,2022-12-30
+4649,Canada,2023-11-22
+4650,Saint Lucia,2024-07-15
+4651,Isle of Man,2023-05-01
+4652,Gabon,2024-07-13
+4653,Korea,2023-11-07
+4654,Saint Kitts and Nevis,2024-08-22
+4655,Albania,2024-11-29
+4656,Burundi,2024-06-02
+4657,Timor-Leste,2024-02-27
+4658,Trinidad and Tobago,2023-09-22
+4659,Mayotte,2023-10-08
+4660,Benin,2024-01-05
+4661,Germany,2024-02-19
+4662,Russian Federation,2023-05-05
+4663,Isle of Man,2024-04-22
+4664,Kazakhstan,2024-04-08
+4665,Colombia,2024-10-25
+4666,Central African Republic,2023-04-27
+4667,Cuba,2023-09-23
+4668,North Macedonia,2024-04-23
+4669,Chad,2023-01-06
+4670,Botswana,2023-01-22
+4671,Cote d'Ivoire,2024-06-26
+4672,Palau,2023-08-01
+4673,Sudan,2024-04-02
+4674,Burkina Faso,2023-05-01
+4675,Israel,2024-07-10
+4676,Cambodia,2023-10-24
+4677,Bermuda,2023-07-17
+4678,Pitcairn Islands,2023-04-11
+4679,Saint Helena,2023-12-24
+4680,Anguilla,2024-09-28
+4681,Western Sahara,2023-08-09
+4682,Nauru,2023-01-04
+4683,Turkmenistan,2024-06-20
+4684,Samoa,2023-07-06
+4685,United States Virgin Islands,2023-04-15
+4686,Fiji,2024-05-30
+4687,Kuwait,2024-09-22
+4688,Pitcairn Islands,2023-08-25
+4689,Netherlands Antilles,2024-08-27
+4690,Bolivia,2023-10-29
+4691,Honduras,2024-10-01
+4692,Guernsey,2024-02-28
+4693,Ethiopia,2023-09-19
+4694,Russian Federation,2023-06-15
+4695,Bahamas,2024-09-08
+4696,Cayman Islands,2024-12-07
+4697,Cambodia,2024-02-28
+4698,Turkmenistan,2024-07-29
+4699,Hungary,2024-06-03
+4700,Montserrat,2024-07-03
+4701,United Kingdom,2024-07-22
+4702,Holy See (Vatican City State),2024-05-14
+4703,Kuwait,2024-08-03
+4704,Saint Kitts and Nevis,2023-12-16
+4705,Christmas Island,2023-08-04
+4706,Burundi,2023-03-28
+4707,Antigua and Barbuda,2023-05-11
+4708,Bhutan,2024-01-15
+4709,Poland,2023-05-07
+4710,Panama,2024-03-29
+4711,Belize,2024-05-08
+4712,Andorra,2024-06-21
+4713,Sri Lanka,2024-03-02
+4714,Haiti,2023-11-20
+4715,Sri Lanka,2024-12-02
+4716,Denmark,2024-09-03
+4717,Malawi,2024-03-27
+4718,British Virgin Islands,2023-07-19
+4719,Chile,2023-01-26
+4720,Uganda,2023-05-20
+4721,Nicaragua,2023-11-15
+4722,Bahrain,2024-03-10
+4723,Qatar,2024-03-10
+4724,Isle of Man,2023-07-30
+4725,Isle of Man,2024-02-16
+4726,Italy,2023-08-12
+4727,Norway,2024-01-07
+4728,Sweden,2024-08-01
+4729,Cyprus,2024-07-05
+4730,Andorra,2023-09-26
+4731,Gambia,2023-02-15
+4732,Puerto Rico,2023-12-11
+4733,Jamaica,2024-08-31
+4734,Belgium,2023-01-01
+4735,Eritrea,2024-02-11
+4736,Vanuatu,2023-01-03
+4737,Guam,2023-12-09
+4738,Jordan,2024-07-25
+4739,Marshall Islands,2024-02-17
+4740,Niger,2023-10-28
+4741,Netherlands Antilles,2024-06-30
+4742,Switzerland,2023-08-03
+4743,Guernsey,2024-06-23
+4744,Niue,2024-08-24
+4745,British Virgin Islands,2024-01-18
+4746,Ghana,2023-01-26
+4747,Norway,2024-01-15
+4748,Panama,2024-07-31
+4749,Saint Pierre and Miquelon,2023-01-13
+4750,Comoros,2024-07-03
+4751,Benin,2024-12-01
+4752,United States Virgin Islands,2023-01-03
+4753,Norway,2024-03-31
+4754,Niue,2024-05-06
+4755,Cyprus,2023-06-08
+4756,Saint Martin,2023-02-07
+4757,Oman,2023-10-01
+4758,American Samoa,2023-07-20
+4759,Switzerland,2023-11-30
+4760,Bhutan,2024-06-04
+4761,Guyana,2023-06-16
+4762,Lebanon,2024-06-10
+4763,Gabon,2023-08-19
+4764,Guernsey,2023-02-17
+4765,New Caledonia,2024-09-15
+4766,Austria,2023-08-02
+4767,Nicaragua,2023-03-18
+4768,Saint Martin,2024-09-05
+4769,Falkland Islands (Malvinas),2024-08-13
+4770,Mayotte,2023-11-24
+4771,Palestinian Territory,2024-09-22
+4772,Tajikistan,2023-07-28
+4773,Iran,2023-12-31
+4774,Dominica,2024-03-10
+4775,Namibia,2023-12-30
+4776,Bahrain,2022-12-26
+4777,Libyan Arab Jamahiriya,2023-01-01
+4778,Isle of Man,2023-09-19
+4779,South Georgia and the South Sandwich Islands,2024-06-04
+4780,Timor-Leste,2024-06-14
+4781,Brazil,2024-02-03
+4782,United States Minor Outlying Islands,2023-03-24
+4783,Lesotho,2024-01-20
+4784,Denmark,2024-11-16
+4785,Latvia,2023-04-30
+4786,Costa Rica,2024-12-08
+4787,Gabon,2024-04-12
+4788,Faroe Islands,2024-09-27
+4789,Cook Islands,2023-08-25
+4790,Denmark,2024-09-02
+4791,El Salvador,2024-10-02
+4792,Faroe Islands,2023-12-16
+4793,Christmas Island,2023-01-15
+4794,Switzerland,2024-06-15
+4795,Central African Republic,2024-04-13
+4796,Sierra Leone,2024-02-18
+4797,Namibia,2022-12-24
+4798,Spain,2024-11-18
+4799,China,2023-03-22
+4800,Qatar,2024-04-19
+4801,Namibia,2024-02-15
+4802,Belgium,2023-08-20
+4803,Luxembourg,2024-03-20
+4804,Mayotte,2023-02-06
+4805,North Macedonia,2023-01-15
+4806,Mauritius,2024-04-10
+4807,Uruguay,2023-03-22
+4808,Tunisia,2024-07-22
+4809,Yemen,2023-08-01
+4810,Palestinian Territory,2024-09-24
+4811,Saint Martin,2023-04-18
+4812,Iraq,2023-04-20
+4813,Papua New Guinea,2023-09-23
+4814,Korea,2024-03-27
+4815,Equatorial Guinea,2024-07-08
+4816,Kazakhstan,2023-03-24
+4817,Tanzania,2024-12-20
+4818,Botswana,2024-12-16
+4819,Mauritania,2023-12-07
+4820,Guyana,2023-03-07
+4821,Grenada,2023-04-09
+4822,Taiwan,2024-09-19
+4823,Uganda,2024-12-19
+4824,Somalia,2024-11-26
+4825,Germany,2023-01-14
+4826,Nauru,2024-09-09
+4827,Madagascar,2024-06-27
+4828,Argentina,2023-10-09
+4829,Finland,2023-05-25
+4830,Thailand,2023-06-16
+4831,Netherlands Antilles,2024-05-14
+4832,Malta,2024-02-15
+4833,Niue,2024-01-19
+4834,Suriname,2024-04-29
+4835,Lesotho,2024-02-07
+4836,Somalia,2024-10-05
+4837,Maldives,2023-06-24
+4838,Comoros,2023-01-19
+4839,Anguilla,2023-04-14
+4840,Niger,2023-06-13
+4841,Mongolia,2024-06-19
+4842,Jordan,2023-04-20
+4843,Guatemala,2024-06-14
+4844,Sweden,2023-06-21
+4845,Cape Verde,2024-09-30
+4846,Mali,2024-10-13
+4847,Ireland,2024-01-03
+4848,Denmark,2024-10-26
+4849,Sri Lanka,2024-09-19
+4850,Hong Kong,2023-07-29
+4851,Cocos (Keeling) Islands,2023-05-20
+4852,Kuwait,2024-05-31
+4853,Kazakhstan,2024-03-23
+4854,Cyprus,2024-11-02
+4855,Russian Federation,2024-01-17
+4856,Morocco,2024-07-25
+4857,Argentina,2023-05-22
+4858,Kuwait,2023-06-15
+4859,Antigua and Barbuda,2023-06-26
+4860,Libyan Arab Jamahiriya,2024-12-05
+4861,British Virgin Islands,2023-01-29
+4862,North Macedonia,2024-06-01
+4863,Hungary,2024-08-12
+4864,Haiti,2023-06-05
+4865,Saudi Arabia,2024-07-01
+4866,Thailand,2024-09-27
+4867,Cameroon,2023-09-14
+4868,Saint Barthelemy,2024-05-22
+4869,Cocos (Keeling) Islands,2024-03-26
+4870,Guatemala,2023-11-16
+4871,Cameroon,2024-12-10
+4872,Iran,2023-07-22
+4873,Costa Rica,2024-10-19
+4874,Mauritania,2024-09-28
+4875,Svalbard & Jan Mayen Islands,2023-05-07
+4876,Grenada,2024-11-04
+4877,United States Minor Outlying Islands,2022-12-26
+4878,Namibia,2023-05-18
+4879,Martinique,2023-03-11
+4880,Cook Islands,2024-10-28
+4881,United Arab Emirates,2024-05-19
+4882,Lithuania,2023-05-13
+4883,Georgia,2024-11-23
+4884,South Georgia and the South Sandwich Islands,2023-12-29
+4885,Mexico,2024-10-14
+4886,Cook Islands,2024-09-06
+4887,Cyprus,2024-06-06
+4888,Cambodia,2024-12-17
+4889,Guatemala,2024-11-23
+4890,Uruguay,2023-05-12
+4891,Congo,2023-11-02
+4892,Tanzania,2023-04-12
+4893,Cuba,2023-11-16
+4894,Czech Republic,2024-08-13
+4895,Panama,2024-10-25
+4896,Honduras,2023-03-21
+4897,Libyan Arab Jamahiriya,2024-03-13
+4898,Panama,2024-11-12
+4899,Aruba,2024-12-06
+4900,Poland,2022-12-26
+4901,Samoa,2023-02-28
+4902,Azerbaijan,2024-05-22
+4903,Sierra Leone,2023-05-09
+4904,Ethiopia,2023-06-24
+4905,Turks and Caicos Islands,2023-02-10
+4906,Jersey,2024-11-19
+4907,Saint Pierre and Miquelon,2024-12-22
+4908,Slovenia,2024-02-22
+4909,Mali,2023-02-02
+4910,Jersey,2023-03-11
+4911,Palau,2024-06-16
+4912,Guam,2023-11-19
+4913,Pitcairn Islands,2023-03-18
+4914,Greenland,2023-06-02
+4915,Trinidad and Tobago,2023-05-19
+4916,North Macedonia,2023-09-17
+4917,Malawi,2024-08-11
+4918,Sweden,2024-07-04
+4919,Croatia,2024-07-05
+4920,Rwanda,2023-07-24
+4921,Heard Island and McDonald Islands,2023-02-27
+4922,Qatar,2024-11-09
+4923,Namibia,2024-06-15
+4924,Papua New Guinea,2024-04-04
+4925,Fiji,2023-05-07
+4926,Heard Island and McDonald Islands,2023-12-04
+4927,Cocos (Keeling) Islands,2024-09-29
+4928,Iraq,2024-11-16
+4929,Bahrain,2024-01-21
+4930,Jersey,2024-08-06
+4931,Lebanon,2023-03-01
+4932,Madagascar,2023-11-03
+4933,Uganda,2024-04-22
+4934,Dominican Republic,2024-02-03
+4935,Cayman Islands,2024-12-06
+4936,Russian Federation,2024-10-01
+4937,Saint Lucia,2024-05-25
+4938,Kuwait,2024-04-20
+4939,Zambia,2023-03-19
+4940,Mexico,2024-02-21
+4941,French Southern Territories,2024-10-12
+4942,Palau,2023-04-18
+4943,Armenia,2024-03-20
+4944,Morocco,2023-07-01
+4945,Panama,2024-08-14
+4946,Slovakia (Slovak Republic),2023-02-22
+4947,El Salvador,2024-09-03
+4948,Solomon Islands,2023-05-20
+4949,Montserrat,2023-10-15
+4950,Tokelau,2023-01-15
+4951,British Indian Ocean Territory (Chagos Archipelago),2023-01-23
+4952,Suriname,2023-10-06
+4953,United Kingdom,2024-03-01
+4954,Uruguay,2024-10-08
+4955,Nicaragua,2024-08-14
+4956,Lesotho,2024-04-11
+4957,British Indian Ocean Territory (Chagos Archipelago),2023-08-14
+4958,Albania,2023-04-29
+4959,Saint Vincent and the Grenadines,2023-04-17
+4960,Jamaica,2024-05-07
+4961,Argentina,2024-01-28
+4962,Oman,2023-06-10
+4963,Wallis and Futuna,2023-11-27
+4964,Dominica,2023-07-13
+4965,Tonga,2023-09-21
+4966,Jamaica,2023-03-27
+4967,Trinidad and Tobago,2024-12-05
+4968,Slovenia,2024-03-05
+4969,Netherlands Antilles,2024-06-07
+4970,United Arab Emirates,2023-04-02
+4971,Zimbabwe,2024-02-19
+4972,Romania,2023-07-13
+4973,Korea,2023-06-04
+4974,Tanzania,2023-11-07
+4975,Cape Verde,2023-07-28
+4976,Benin,2024-10-29
+4977,Saint Helena,2023-04-18
+4978,Mauritania,2023-10-24
+4979,Hungary,2024-02-15
+4980,Senegal,2024-04-23
+4981,Bahamas,2023-09-19
+4982,Poland,2024-11-14
+4983,Paraguay,2024-02-26
+4984,Uruguay,2022-12-26
+4985,Liechtenstein,2023-06-18
+4986,Hungary,2024-05-26
+4987,Kiribati,2024-11-17
+4988,Tanzania,2024-05-15
+4989,San Marino,2024-01-07
+4990,Malta,2023-07-28
+4991,Northern Mariana Islands,2024-02-29
+4992,Mozambique,2024-07-20
+4993,Dominica,2023-04-05
+4994,Nauru,2023-07-17
+4995,Barbados,2024-08-20
+4996,Marshall Islands,2024-11-04
+4997,Jersey,2024-05-18
+4998,Christmas Island,2023-09-23
+4999,Sao Tome and Principe,2023-05-16
+5000,Bouvet Island (Bouvetoya),2024-06-07
